@@ -1,0 +1,1001 @@
+Log_Date,Asset_ID,Equipment_Type,Client_Name,Deployment_Location,Daily_Rental_Rate,Running_Hours,Fuel_Consumption,Status,Maintenance_Flag
+,NSP-7949,Rhino Boat,Chevron,Bonny Island,$0.966k,105.74,75.4 L,Deployed,No
+09/11/24,NSP-4005,Towing Winch,TotalEnergies,Bonny Island,Price Hidden,129.39,0.97 BBL,Standby,N/A
+2024-05-10,NSP-1775,Pipe Tracker,TotalEnergies,Offshore Rig Alpha,$3.388k,119.97,1.56 BBL,Deployed,No
+,NSP-1995,VideoRay Pro 5 ROV,ExxonMobil,Onne FOT,"N3,113",135.42,398.8 L,In Maintenance,No
+2024-07-26,NSP-3027,VideoRay Pro 5 ROV,TotalEnergies,Escravos,"N4,493",102.35,57.0 L,Deployed,No
+Mid-Year,NSP-9996,Sub Sea ROV M8,TotalEnergies,Bonny Island,"N3,599",97.61,78.6 L,Awaiting Repair,No
+2024-02-04,NSP-2484,Pipe Tracker,TotalEnergies,Onne FOT,"N3,190",148.21,1.52 BBL,Awaiting Repair,No
+22/01/25,NSP-3693,Sub Sea ROV M8,ExxonMobil,Bonny Island,"N2,178",,1.13 BBL,Awaiting Repair,Yes
+12/10/24,NSP-1663,Cargo Basket,TotalEnergies,Offshore Rig Alpha,"N3,802",82.53,290.3 L,Awaiting Repair,No
+,NSP-5737,V-Ray Pro 4 Sub-Unit,ExxonMobil,Offshore Rig Alpha,"N1,791",99.05,1.12 BBL,Standby,No
+2024-08-12,NSP-9004,Pipe Tracker,ExxonMobil,Milaha Barge,"N2,207",111.87,159.0 L,In Maintenance,No
+,NSP-2986,VideoRay Pro 4 ROV,TotalEnergies,Bonny Island,Price Hidden,158.43,2.23 BBL,Awaiting Repair,Yes
+Mid-Year,NSP-3049,VideoRay Pro 5 ROV,Shell (SPDC),Offshore Rig Alpha,"N2,302",190.68,299.8 L,Awaiting Repair,No
+Mid-Year,NSP-2648,Air Compressor 800cfm,ExxonMobil,Offshore Rig Alpha,"N3,670",88.46,232.0 L,Awaiting Repair,No
+,NSP-5911,Towing Winch,ExxonMobil,Escravos,$3.461k,202.47,2.33 BBL,Deployed,No
+,NSP-1225,Pipe Tracker,Indigenous Oil Co,Offshore Rig Alpha,"N1,545",216.26,451.4 L,Deployed,No
+,NSP-4420,Pipe Tracker,Shell (SPDC),Offshore Rig Alpha,$3.62k,60.84,386.5 L,Deployed,No
+2024-07-06,NSP-7709,Offshore Trash Skip,Chevron,Escravos,$1.48k,137.84,217.7 L,Awaiting Repair,Yes
+,NSP-9716,120kva Generator,ExxonMobil,Milaha Barge,N654,172.49,1.50 BBL,Standby,No
+,NSP-1853,V-Ray Pro 4 Sub-Unit,TotalEnergies,Onne FOT,$4.995k,,310.5 L,In Maintenance,No
+04/05/24,NSP-6222,Cargo Basket,ExxonMobil,Offshore Rig Alpha,$2.215k,50.42,172.2 L,Deployed,Yes
+Mid-Year,NSP-6177,Pipe Tracker,Chevron,Forcados Terminal,"N4,864",,229.5 L,In Maintenance,N/A
+Mid-Year,NSP-4343,Towing Winch,Indigenous Oil Co,Forcados Terminal,$2.164k,165.89,2.18 BBL,In Maintenance,No
+16/03/24,NSP-7617,Pipe Tracker,Indigenous Oil Co,Bonny Island,Price Hidden,,190.1 L,Deployed,No
+Mid-Year,NSP-9527,Cargo Basket,Chevron,Onne FOT,Price Hidden,150.09,357.8 L,Awaiting Repair,No
+,NSP-4913,VideoRay Pro 5 ROV,TotalEnergies,Bonny Island,"N2,068",187.8,223.7 L,Deployed,Yes
+04/04/24,NSP-4267,V-Ray Pro 5 Sub-Unit,Chevron,Forcados Terminal,Price Hidden,,2.62 BBL,In Maintenance,No
+,NSP-2571,Towing Winch,Chevron,Onne FOT,"N3,308",126.77,309.2 L,Standby,No
+30/05/24,NSP-1395,Sub Sea ROV M8,Indigenous Oil Co,Onne FOT,"N4,266",215.27,453.0 L,Standby,Yes
+10/10/24,NSP-2167,Offshore Trash Skip,Shell (SPDC),Forcados Terminal,N643,151.05,352.6 L,Deployed,No
+Last week,NSP-2191,Cargo Basket,Chevron,Onne FOT,"N1,232",170.65,0.60 BBL,In Maintenance,No
+2024-07-12,NSP-4141,Sub Sea ROV M8,ExxonMobil,Escravos,"N4,219",121.81,476.3 L,Deployed,No
+Mid-Year,NSP-4072,Cargo Basket,TotalEnergies,Forcados Terminal,"N4,634",222.19,395.2 L,Awaiting Repair,N/A
+,NSP-5175,V-Ray Pro 4 Sub-Unit,Indigenous Oil Co,Escravos,"N1,428",,3.06 BBL,Awaiting Repair,Yes
+Mid-Year,NSP-9549,Offshore Trash Skp,ExxonMobil,Bonny Island,"N1,756",221.84,3.03 BBL,Deployed,No
+,NSP-7132,Cargo Basket,ExxonMobil,Forcados Terminal,$1.039k,114.92,364.2 L,Awaiting Repair,No
+31/01/25,NSP-8449,Pipe Tracker,Shell (SPDC),Offshore Rig Alpha,N755,88.41,399.9 L,Standby,No
+2024-04-07,NSP-2460,Pipe Tracker,Indigenous Oil Co,Forcados Terminal,$0.904k,159.48,499.9 L,Deployed,No
+2024-03-23,NSP-1249,Sub Sea ROV M8,Chevron,Offshore Rig Alpha,"N2,548",185.58,1.33 BBL,In Maintenance,No
+,NSP-2252,VideoRay Pro 4 ROV,Indigenous Oil Co,Offshore Rig Alpha,$0.888k,93.77,266.0 L,In Maintenance,No
+12/04/24,NSP-8730,VideoRay Pro 5 ROV,Shell (SPDC),Forcados Terminal,"N1,858",160.01,228.4 L,Deployed,Yes
+2024-07-02,NSP-2906,Cargo Basket,Shell (SPDC),Escravos,$3.531k,41.46,144.1 L,In Maintenance,No
+,NSP-5777,Offshore Trash Skip,Indigenous Oil Co,Offshore Rig Alpha,"N3,766",153.8,419.8 L,Deployed,No
+2024-05-12,NSP-7493,Cargo Basket,TotalEnergies,Forcados Terminal,"N2,468",,409.7 L,Deployed,No
+,NSP-6126,VideoRay Pro 4 ROV,TotalEnergies,Offshore Rig Alpha,"N3,266",188.44,2.35 BBL,Standby,No
+30/09/24,NSP-7229,120kva Generator,Chevron,Offshore Rig Alpha,$3.586k,110.98,303.8 L,Awaiting Repair,No
+,NSP-3472,Towing Winch,Indigenous Oil Co,Offshore Rig Alpha,N566,228.14,313.9 L,Awaiting Repair,No
+Mid-Year,NSP-7986,Rhino Boat,Shell (SPDC),Escravos,Price Hidden,177.78,214.4 L,Standby,Yes
+,NSP-1846,Rhino Boat,TotalEnergies,Milaha Barge,N967,121.16,350.9 L,Standby,No
+12/05/24,NSP-2828,Cargo Basket,TotalEnergies,Bonny Island,$2.31k,187.77,368.3 L,Deployed,No
+09/06/24,NSP-2994,VideoRay Pro 5 ROV,TotalEnergies,Offshore Rig Alpha,$0.76k,200.31,356.7 L,Standby,N/A
+,NSP-6951,V-Ray Pro 5 Sub-Unit,Indigenous Oil Co,Escravos,N875,121.16,466.9 L,Deployed,No
+11/11/24,NSP-7943,Pipe Tracker,TotalEnergies,Forcados Terminal,"N3,398",193.56,417.5 L,In Maintenance,No
+Mid-Year,NSP-9389,VideoRay Pro 4 ROV,TotalEnergies,Escravos,"N1,748",,153.1 L,Awaiting Repair,No
+Mid-Year,NSP-5612,VideoRay Pro 4 ROV,TotalEnergies,Milaha Barge,"N1,754",191.41,0.72 BBL,Deployed,Yes
+Mid-Year,NSP-3674,Offshore Trash Skip,TotalEnergies,Bonny Island,"N3,728",200.49,2.50 BBL,Awaiting Repair,No
+2024-10-09,NSP-1984,Offshore Trash Skip,Shell (SPDC),Bonny Island,"N3,419",182.72,313.8 L,Standby,N/A
+,NSP-8196,Offshore Trash Skip,Shell (SPDC),Offshore Rig Alpha,"N4,376",147.22,323.0 L,Standby,No
+2024-10-28,NSP-9393,Sub Sea ROV M8,ExxonMobil,Onne FOT,"N1,705",97.27,220.7 L,Deployed,No
+Mid-Year,NSP-5971,Offshore Trash Skip,TotalEnergies,Escravos,"N2,622",113.53,463.3 L,In Maintenance,Yes
+28/06/24,NSP-2759,Sub Sea ROV M8,Indigenous Oil Co,Offshore Rig Alpha,"N4,880",,498.6 L,Standby,No
+29/07/24,NSP-7645,V-Ray Pro 4 Sub-Unit,ExxonMobil,Onne FOT,N785,94.67,371.3 L,In Maintenance,No
+,NSP-4462,VideoRay Pro 4 ROV,Indigenous Oil Co,Onne FOT,"N4,650",191.66,0.39 BBL,Deployed,No
+2024-09-11,NSP-6207,Rhino Boat,TotalEnergies,Bonny Island,"N3,810",83.67,374.4 L,Awaiting Repair,No
+Mid-Year,NSP-5841,Air Compressor 800cfm,Chevron,Escravos,$4.925k,66.51,417.8 L,Standby,Yes
+2024-01-20,NSP-5223,Sub Sea ROV M8,Shell (SPDC),Milaha Barge,"N4,077",238.23,269.3 L,Standby,No
+,NSP-7981,VideoRay Pro 5 ROV,Chevron,Forcados Terminal,"N3,930",97.78,361.0 L,In Maintenance,No
+2024-02-03,NSP-9801,Sub Sea ROV M8,ExxonMobil,Forcados Terminal,$2.122k,138.88,169.9 L,Deployed,No
+2025-01-28,NSP-7819,VideoRay Pro 4 ROV,Shell (SPDC),Escravos,"N3,181",,426.7 L,Standby,No
+05/11/24,NSP-7122,Air Compressor 800cfm,Chevron,Onne FOT,$2.285k,138.87,73.1 L,In Maintenance,No
+2024-03-13,NSP-5197,Rhino Boat,Chevron,Bonny Island,"N1,740",,51.1 L,Standby,No
+2024-10-31,NSP-2750,VideoRay Pro 4 ROV,Indigenous Oil Co,Offshore Rig Alpha,Price Hidden,146.21,391.3 L,Awaiting Repair,No
+25/01/24,NSP-9007,Towing Winch,Chevron,Escravos,"N4,142",,2.29 BBL,Standby,No
+10/08/24,NSP-8980,Offshore Trash Skip,Chevron,Escravos,"N4,997",156.69,214.1 L,Deployed,No
+Mid-Year,NSP-4241,Air Compressor 800cfm,Chevron,Offshore Rig Alpha,"N4,087",193.39,0.97 BBL,Standby,No
+20/05/24,NSP-4511,Pipe Tracker,ExxonMobil,Onne FOT,"N1,313",164.15,265.9 L,In Maintenance,Yes
+,NSP-9173,Sub Sea ROV M8,Shell (SPDC),Onne FOT,$4.26k,99.69,0.43 BBL,Deployed,No
+Mid-Year,NSP-2868,Cargo Basket,Chevron,Onne FOT,$4.568k,97.45,475.1 L,Standby,N/A
+,NSP-2796,Offshore Trash Skip,Shell (SPDC),Onne FOT,"N1,384",,480.8 L,Standby,No
+2024-08-28,NSP-5675,Cargo Basket,Indigenous Oil Co,Milaha Barge,"N1,349",124.94,0.95 BBL,Standby,No
+Last week,NSP-6370,Towing Winch,Indigenous Oil Co,Milaha Barge,$1.855k,156.26,1.03 BBL,In Maintenance,Yes
+,NSP-7183,Sub Sea ROV M8,TotalEnergies,Forcados Terminal,"N3,611",161.48,307.1 L,Deployed,No
+Mid-Year,NSP-6150,Rhino Boat,Chevron,Milaha Barge,"N2,204",103.59,482.6 L,Awaiting Repair,No
+Mid-Year,NSP-3064,VideoRay Pro 5 ROV,Chevron,Bonny Island,Price Hidden,179.72,327.6 L,Awaiting Repair,No
+,NSP-2887,120kva Generator,ExxonMobil,Milaha Barge,"N4,026",210.45,96.1 L,Awaiting Repair,No
+,NSP-9476,120kva Generator,ExxonMobil,Bonny Island,"N1,385",,442.2 L,Standby,Yes
+,NSP-8266,Air Compressor 800cfm,Indigenous Oil Co,Onne FOT,"N3,604",186.61,173.1 L,Standby,No
+2024-10-11,NSP-5116,Offshore Trash Skip,Indigenous Oil Co,Escravos,"N3,655",204.0,118.0 L,Awaiting Repair,No
+Mid-Year,NSP-2607,VideoRay Pro 4 ROV,ExxonMobil,Offshore Rig Alpha,"N1,433",153.71,439.0 L,Deployed,No
+,NSP-4224,VideoRay Pro 5 ROV,Shell (SPDC),Offshore Rig Alpha,Price Hidden,138.53,327.5 L,Awaiting Repair,No
+09/01/24,NSP-7154,Towing Winch,Indigenous Oil Co,Onne FOT,N616,248.14,488.6 L,Deployed,N/A
+Mid-Year,NSP-3720,120kva Generator,Chevron,Milaha Barge,"N2,076",130.75,274.5 L,Awaiting Repair,Yes
+2024-08-12,NSP-2895,Towing Winch,TotalEnergies,Forcados Terminal,"N1,417",181.61,68.5 L,Standby,No
+09/01/24,NSP-9442,Towing Winch,TotalEnergies,Bonny Island,"N1,939",101.06,331.4 L,Awaiting Repair,No
+09/11/24,NSP-4427,Cargo Basket,Indigenous Oil Co,Forcados Terminal,Price Hidden,117.43,148.6 L,Standby,No
+Mid-Year,NSP-7236,V-Ray Pro 5 Sub-Unit,Shell (SPDC),Bonny Island,"N1,161",125.81,86.7 L,Deployed,No
+07/06/24,NSP-2394,Rhino Boat,Chevron,Offshore Rig Alpha,"N3,279",71.91,269.0 L,Deployed,No
+24/08/24,NSP-1001,Rhino Boat,Indigenous Oil Co,Forcados Terminal,"N3,414",250.09,334.6 L,In Maintenance,No
+13/11/24,NSP-6543,Rhino Boat,ExxonMobil,Bonny Island,"N3,655",168.71,345.5 L,Deployed,No
+Mid-Year,NSP-6895,Cargo Basket,TotalEnergies,Bonny Island,N769,145.66,115.6 L,Deployed,No
+,NSP-1956,Towing Winch,ExxonMobil,Milaha Barge,"N3,234",169.1,2.77 BBL,In Maintenance,Yes
+,NSP-5585,Cargo Basket,ExxonMobil,Forcados Terminal,"N1,558",171.5,1.75 BBL,In Maintenance,N/A
+25/10/24,NSP-2969,VideoRay Pro 5 ROV,Chevron,Bonny Island,"N4,368",44.95,0.71 BBL,Standby,Yes
+2024-12-06,NSP-7257,Air Compressor 800cfm,Chevron,Onne FOT,$2.018k,296.89,475.1 L,In Maintenance,No
+2024-08-19,NSP-9133,Rhino Boat,Shell (SPDC),Onne FOT,"N3,572",231.67,346.0 L,Deployed,N/A
+2024-09-25,NSP-4553,Sub Sea ROV M8,Chevron,Forcados Terminal,$0.988k,92.68,466.6 L,Deployed,No
+Mid-Year,NSP-2440,V-Ray Pro 4 Sub-Unit,Shell (SPDC),Onne FOT,"N1,321",216.91,221.2 L,Standby,No
+Mid-Year,NSP-2177,Rhino Boat,Shell (SPDC),Bonny Island,"N3,389",229.32,478.2 L,Deployed,No
+Mid-Year,NSP-6243,Offshore Trash Skip,Shell (SPDC),Bonny Island,"N1,443",158.97,243.9 L,Standby,No
+2024-11-19,NSP-8311,120kva Generator,Chevron,Bonny Island,"N1,463",241.04,411.4 L,In Maintenance,No
+,NSP-6047,Cargo Basket,ExxonMobil,Bonny Island,$4.03k,122.98,2.56 BBL,Awaiting Repair,Yes
+2024-11-05,NSP-1009,Rhino Boat,Chevron,Onne FOT,$3.438k,175.68,317.1 L,Deployed,N/A
+,NSP-1482,VideoRay Pro 4 ROV,ExxonMobil,Milaha Barge,"N1,816",171.78,2.48 BBL,Deployed,No
+,NSP-6016,Sub Sea ROV M8,Chevron,Escravos,"N1,487",194.61,2.10 BBL,Standby,No
+18/11/24,NSP-8843,120kva Generator,TotalEnergies,Onne FOT,"N4,508",178.45,0.54 BBL,Awaiting Repair,No
+2024-03-10,NSP-9258,Air Compressor 800cfm,ExxonMobil,Forcados Terminal,Price Hidden,231.42,172.0 L,In Maintenance,No
+21/11/24,NSP-4374,Air Compressor 800cfm,Shell (SPDC),Milaha Barge,"N3,161",114.75,3.02 BBL,In Maintenance,No
+,NSP-7099,VideoRay Pro 4 ROV,ExxonMobil,Onne FOT,"N4,219",147.21,1.44 BBL,Deployed,No
+24/03/24,NSP-3408,120kva Generator,Indigenous Oil Co,Milaha Barge,"N2,266",,0.65 BBL,Standby,No
+Mid-Year,NSP-9435,Offshore Trash Skip,Chevron,Bonny Island,"N2,189",151.24,273.6 L,Standby,No
+14/06/24,NSP-5225,Pipe Tracker,TotalEnergies,Milaha Barge,"N4,573",,1.45 BBL,In Maintenance,N/A
+12/09/24,NSP-3530,Towing Winch,Shell (SPDC),Offshore Rig Alpha,"N4,759",199.6,423.2 L,Deployed,No
+2025-01-26,NSP-5349,VideoRay Pro 5 ROV,Chevron,Bonny Island,"N4,723",5.59,2.13 BBL,Standby,Yes
+Mid-Year,NSP-6448,VideoRay Pro 5 ROV,ExxonMobil,Offshore Rig Alpha,"N4,350",164.66,1.53 BBL,In Maintenance,Yes
+,NSP-8870,VideoRay Pro 4 ROV,Indigenous Oil Co,Escravos,"N2,138",120.36,431.6 L,Standby,No
+Mid-Year,NSP-7793,Sub Sea ROV M8,Chevron,Forcados Terminal,$4.216k,124.63,0.37 BBL,Deployed,No
+2024-08-29,NSP-6827,Sub Sea ROV M8,Chevron,Bonny Island,$4.768k,190.81,1.07 BBL,Awaiting Repair,No
+Mid-Year,NSP-9616,Towing Winch,Shell (SPDC),Milaha Barge,"N3,993",84.6,96.0 L,Awaiting Repair,Yes
+06/04/24,NSP-8340,V-Ray Pro 5 Sub-Unit,TotalEnergies,Forcados Terminal,"N2,779",187.1,2.05 BBL,Awaiting Repair,N/A
+2024-03-27,NSP-1147,Rhino Boat,Indigenous Oil Co,Milaha Barge,"N4,076",164.96,0.61 BBL,Standby,No
+,NSP-8504,Pipe Tracker,Shell (SPDC),Onne FOT,Price Hidden,209.29,0.37 BBL,In Maintenance,No
+,NSP-6978,Offshore Trash Skip,Chevron,Offshore Rig Alpha,"N2,716",185.95,1.23 BBL,Deployed,No
+,NSP-3461,V-Ray Pro 5 Sub-Unit,ExxonMobil,Forcados Terminal,"N2,820",97.76,325.8 L,Awaiting Repair,Yes
+2024-06-22,NSP-8165,Rhino Boat,Indigenous Oil Co,Offshore Rig Alpha,"N2,067",51.68,294.8 L,Awaiting Repair,No
+Mid-Year,NSP-5082,Air Compressor 800cfm,ExxonMobil,Forcados Terminal,"N4,851",145.28,2.63 BBL,In Maintenance,No
+2024-07-07,NSP-7279,Rhino Boat,Chevron,Milaha Barge,"N2,153",145.71,336.3 L,Awaiting Repair,No
+2024-12-29,NSP-6132,Pipe Tracker,Shell (SPDC),Bonny Island,"N2,355",233.5,134.6 L,Awaiting Repair,Yes
+30/03/24,NSP-6189,120kva Generator,TotalEnergies,Forcados Terminal,"N1,537",169.73,390.3 L,In Maintenance,No
+,NSP-2080,Offshore Trash Skip,Indigenous Oil Co,Bonny Island,"N1,513",,328.8 L,Deployed,No
+2024-01-04,NSP-4390,Pipe Tracker,TotalEnergies,Offshore Rig Alpha,"N4,931",,269.0 L,Awaiting Repair,No
+30/01/24,NSP-3810,120kva Generator,ExxonMobil,Escravos,"N1,367",128.41,0.57 BBL,Standby,N/A
+2024-04-27,NSP-4471,VideoRay Pro 4 ROV,Indigenous Oil Co,Onne FOT,"N1,783",105.7,496.0 L,Awaiting Repair,No
+Mid-Year,NSP-9895,VideoRay Pro 4 ROV,Indigenous Oil Co,Bonny Island,"N3,257",201.65,133.7 L,In Maintenance,No
+Mid-Year,NSP-8710,Air Compressor 800cfm,ExxonMobil,Onne FOT,"N3,339",140.25,2.04 BBL,Awaiting Repair,Yes
+29/12/24,NSP-6347,120kva Generator,TotalEnergies,Bonny Island,N662,146.67,2.71 BBL,In Maintenance,N/A
+,NSP-7342,VideoRay Pro 5 ROV,Indigenous Oil Co,Milaha Barge,Price Hidden,162.26,483.5 L,In Maintenance,No
+18/01/25,NSP-9616,Towing Winch,Shell (SPDC),Milaha Barge,"N4,152",83.34,323.8 L,Deployed,No
+22/11/24,NSP-5624,Air Compressor 800cfm,Chevron,Offshore Rig Alpha,$2.187k,270.74,80.5 L,In Maintenance,No
+05/03/24,NSP-5666,Sub Sea Sub-Unit M8,Chevron,Escravos,$3.637k,231.63,2.54 BBL,Awaiting Repair,No
+,NSP-2749,Air Compressor 800cfm,ExxonMobil,Bonny Island,"N1,677",136.95,142.2 L,In Maintenance,No
+16/06/24,NSP-7744,Cargo Basket,TotalEnergies,Milaha Barge,$2.613k,154.17,97.5 L,Standby,No
+Mid-Year,NSP-5654,Rhino Boat,Chevron,Milaha Barge,N507,194.06,335.6 L,Awaiting Repair,No
+24/09/24,NSP-3307,Air Compressor 800cfm,TotalEnergies,Onne FOT,"N3,424",122.67,2.17 BBL,Awaiting Repair,No
+,NSP-9438,VideoRay Pro 4 ROV,TotalEnergies,Forcados Terminal,$2.41k,124.21,498.7 L,Deployed,Yes
+2024-07-14,NSP-6569,Offshore Trash Skip,ExxonMobil,Bonny Island,"N3,569",163.55,369.6 L,Deployed,No
+13/08/24,NSP-2715,Pipe Tracker,Chevron,Onne FOT,$2.321k,165.21,0.60 BBL,Standby,No
+Mid-Year,NSP-2089,Towing Winch,TotalEnergies,Bonny Island,"N1,395",170.19,106.8 L,Standby,Yes
+,NSP-5628,VideoRay Pro 4 ROV,TotalEnergies,Onne FOT,$1.354k,148.79,147.0 L,Deployed,No
+,NSP-7701,VideoRay Pro 4 ROV,ExxonMobil,Forcados Terminal,$4.438k,,126.1 L,Awaiting Repair,Yes
+26/05/24,NSP-3946,Offshore Trash Skp,Chevron,Escravos,N923,167.31,2.74 BBL,Deployed,No
+Last week,NSP-7816,Towing Winch,ExxonMobil,Onne FOT,"N2,031",,1.06 BBL,In Maintenance,No
+2024-08-14,NSP-6374,Towing Winch,Indigenous Oil Co,Offshore Rig Alpha,N567,135.9,203.2 L,Deployed,No
+Mid-Year,NSP-5577,VideoRay Pro 5 ROV,Shell (SPDC),Forcados Terminal,$1.16k,,459.3 L,Standby,No
+27/11/24,NSP-2478,Towing Winch,ExxonMobil,Bonny Island,N905,161.92,2.30 BBL,Awaiting Repair,No
+07/03/24,NSP-9921,VideoRay Pro 5 ROV,TotalEnergies,Escravos,"N2,894",118.87,212.8 L,Awaiting Repair,No
+2024-04-02,NSP-2325,VideoRay Pro 4 ROV,Shell (SPDC),Offshore Rig Alpha,N641,159.73,1.78 BBL,Awaiting Repair,Yes
+2025-01-14,NSP-1855,Cargo Basket,Indigenous Oil Co,Escravos,"N4,328",168.87,89.2 L,Standby,No
+Mid-Year,NSP-7132,Pipe Tracker,Indigenous Oil Co,Bonny Island,"N2,674",140.98,235.0 L,Deployed,No
+27/10/24,NSP-9611,Air Compressor 800cfm,Chevron,Forcados Terminal,$0.673k,157.24,101.5 L,Standby,No
+2024-03-24,NSP-5658,VideoRay Pro 4 ROV,Shell (SPDC),Onne FOT,"N3,202",119.26,340.9 L,Standby,No
+24/03/24,NSP-6476,Sub Sea ROV M8,Indigenous Oil Co,Offshore Rig Alpha,N886,148.34,268.7 L,Deployed,No
+,NSP-4259,Towing Winch,ExxonMobil,Milaha Barge,"N2,824",139.59,173.9 L,Awaiting Repair,No
+,NSP-8835,Towing Winch,Indigenous Oil Co,Bonny Island,Price Hidden,136.38,286.6 L,Deployed,No
+Mid-Year,NSP-2829,Offshore Trash Skip,Indigenous Oil Co,Milaha Barge,"N3,773",146.25,82.3 L,Awaiting Repair,No
+22/07/24,NSP-5458,V-Ray Pro 4 Sub-Unit,TotalEnergies,Milaha Barge,"N2,400",151.4,0.60 BBL,Standby,Yes
+2024-11-10,NSP-7139,Sub Sea ROV M8,Shell (SPDC),Onne FOT,$2.669k,170.91,449.8 L,Deployed,No
+,NSP-2439,VideoRay Pro 4 ROV,Indigenous Oil Co,Escravos,"N1,801",236.63,425.1 L,In Maintenance,Yes
+,NSP-7652,Sub Sea ROV M8,Shell (SPDC),Escravos,N858,261.57,3.14 BBL,Awaiting Repair,No
+2024-08-01,NSP-9458,Rhino Boat,Indigenous Oil Co,Bonny Island,"N4,760",172.75,109.6 L,In Maintenance,Yes
+Mid-Year,NSP-6867,Sub Sea ROV M8,ExxonMobil,Offshore Rig Alpha,"N2,460",188.04,258.2 L,Standby,No
+15/08/24,NSP-2970,VideoRay Pro 4 ROV,ExxonMobil,Forcados Terminal,"N2,954",285.8,491.3 L,Standby,No
+,NSP-8661,Offshore Trash Skp,Indigenous Oil Co,Milaha Barge,"N2,884",,447.6 L,Awaiting Repair,N/A
+Mid-Year,NSP-8537,Pipe Tracker,Chevron,Onne FOT,"N2,867",118.66,3.02 BBL,Awaiting Repair,No
+Mid-Year,NSP-9448,VideoRay Pro 4 ROV,ExxonMobil,Escravos,"N2,072",193.12,396.0 L,In Maintenance,Yes
+2024-01-23,NSP-3130,V-Ray Pro 5 Sub-Unit,TotalEnergies,Offshore Rig Alpha,$0.913k,255.47,2.29 BBL,Awaiting Repair,No
+Mid-Year,NSP-5727,VideoRay Pro 5 ROV,TotalEnergies,Offshore Rig Alpha,"N1,997",189.23,176.5 L,Deployed,No
+2024-10-21,NSP-8241,VideoRay Pro 4 ROV,Chevron,Bonny Island,$0.936k,224.06,373.9 L,Awaiting Repair,No
+,NSP-7919,VideoRay Pro 5 ROV,Chevron,Bonny Island,"N1,511",126.07,104.0 L,Standby,Yes
+16/10/24,NSP-7468,Rhino Boat,ExxonMobil,Onne FOT,Price Hidden,,2.69 BBL,Awaiting Repair,No
+2024-05-18,NSP-3224,V-Ray Pro 4 Sub-Unit,ExxonMobil,Escravos,"N4,732",98.36,451.3 L,Deployed,Yes
+2024-08-05,NSP-6904,VideoRay Pro 4 ROV,ExxonMobil,Onne FOT,Price Hidden,176.11,484.7 L,In Maintenance,No
+Mid-Year,NSP-2519,Pipe Tracker,Chevron,Offshore Rig Alpha,$3.357k,109.18,439.6 L,Standby,No
+Mid-Year,NSP-2772,Towing Winch,Chevron,Onne FOT,"N3,288",181.11,2.81 BBL,Awaiting Repair,N/A
+18/10/24,NSP-2548,Pipe Tracker,Shell (SPDC),Onne FOT,"N1,439",93.06,2.83 BBL,In Maintenance,No
+,NSP-8703,Sub Sea ROV M8,Indigenous Oil Co,Escravos,"N4,096",139.1,288.9 L,Deployed,N/A
+06/07/24,NSP-6818,120kva Generator,Shell (SPDC),Milaha Barge,"N4,714",18.06,3.08 BBL,Deployed,No
+2024-08-11,NSP-5402,Towing Winch,Shell (SPDC),Escravos,"N4,525",238.55,296.8 L,Awaiting Repair,No
+,NSP-6243,Rhino Boat,ExxonMobil,Milaha Barge,"N1,143",241.88,321.5 L,Awaiting Repair,N/A
+Mid-Year,NSP-1025,Sub Sea ROV M8,Shell (SPDC),Milaha Barge,"N1,479",139.71,0.87 BBL,Standby,No
+2024-09-23,NSP-3606,Sub Sea ROV M8,Shell (SPDC),Offshore Rig Alpha,"N3,983",117.5,201.8 L,In Maintenance,No
+2025-01-04,NSP-3645,Offshore Trash Skip,Chevron,Offshore Rig Alpha,$2.795k,69.62,2.24 BBL,In Maintenance,Yes
+10/08/24,NSP-5958,Pipe Tracker,ExxonMobil,Bonny Island,"N1,616",159.24,111.6 L,In Maintenance,Yes
+Mid-Year,NSP-1619,Rhino Boat,TotalEnergies,Forcados Terminal,"N2,993",,330.1 L,Standby,No
+Mid-Year,NSP-7976,Sub Sea ROV M8,TotalEnergies,Onne FOT,"N1,429",81.84,2.35 BBL,Standby,N/A
+29/08/24,NSP-6722,120kva Generator,Indigenous Oil Co,Escravos,$2.968k,87.48,431.6 L,Deployed,No
+2024-12-29,NSP-4824,Cargo Basket,TotalEnergies,Bonny Island,"N1,961",180.23,70.2 L,Awaiting Repair,No
+Mid-Year,NSP-9345,VideoRay Pro 4 ROV,Indigenous Oil Co,Bonny Island,"N4,429",170.32,2.17 BBL,Awaiting Repair,Yes
+Mid-Year,NSP-8423,Towing Winch,TotalEnergies,Escravos,"N2,413",71.02,151.2 L,Deployed,No
+Mid-Year,NSP-5316,Pipe Tracker,Shell (SPDC),Escravos,"N2,538",220.55,1.72 BBL,Awaiting Repair,No
+19/11/24,NSP-4075,Pipe Tracker,TotalEnergies,Milaha Barge,"N1,890",129.73,362.1 L,Deployed,No
+,NSP-7534,Offshore Trash Skip,Indigenous Oil Co,Forcados Terminal,"N1,080",,213.0 L,Awaiting Repair,No
+27/06/24,NSP-3749,Offshore Trash Skip,Indigenous Oil Co,Onne FOT,"N3,609",192.89,391.6 L,Awaiting Repair,No
+2024-07-24,NSP-5538,120kva Generator,Chevron,Offshore Rig Alpha,"N4,099",,295.0 L,Deployed,No
+10/01/24,NSP-2104,Towing Winch,Shell (SPDC),Milaha Barge,$0.652k,198.94,2.32 BBL,Awaiting Repair,Yes
+13/01/25,NSP-9752,V-Ray Pro 4 Sub-Unit,ExxonMobil,Forcados Terminal,N666,131.59,0.76 BBL,Standby,No
+Mid-Year,NSP-5173,Cargo Basket,Chevron,Onne FOT,"N2,067",,2.53 BBL,In Maintenance,No
+,NSP-2855,Rhino Boat,TotalEnergies,Escravos,"N4,422",33.36,1.68 BBL,Awaiting Repair,No
+12/02/24,NSP-4277,Towing Winch,TotalEnergies,Milaha Barge,N951,217.49,1.73 BBL,Awaiting Repair,N/A
+27/06/24,NSP-8236,Offshore Trash Skip,TotalEnergies,Onne FOT,$0.612k,131.67,243.7 L,In Maintenance,Yes
+19/01/24,NSP-7358,Sub Sea Sub-Unit M8,TotalEnergies,Offshore Rig Alpha,"N4,561",85.99,352.2 L,Deployed,Yes
+,NSP-2988,VideoRay Pro 5 ROV,Chevron,Milaha Barge,Price Hidden,83.58,101.0 L,Awaiting Repair,No
+2024-08-06,NSP-2518,Air Compressor 800cfm,ExxonMobil,Escravos,N707,153.87,114.8 L,Deployed,Yes
+Mid-Year,NSP-6178,Offshore Trash Skp,ExxonMobil,Milaha Barge,"N3,349",67.25,312.6 L,Deployed,Yes
+23/03/24,NSP-9475,Towing Winch,Shell (SPDC),Onne FOT,"N3,494",256.83,365.5 L,Deployed,No
+2024-10-31,NSP-4490,Offshore Trash Skip,ExxonMobil,Escravos,"N3,991",108.43,274.1 L,Deployed,N/A
+Mid-Year,NSP-5017,Offshore Trash Skip,ExxonMobil,Forcados Terminal,N572,184.88,296.1 L,Awaiting Repair,No
+Mid-Year,NSP-2526,Offshore Trash Skp,Chevron,Milaha Barge,"N3,284",235.25,2.22 BBL,In Maintenance,No
+Mid-Year,NSP-7864,Rhino Boat,Shell (SPDC),Forcados Terminal,"N2,493",134.96,181.2 L,In Maintenance,No
+2024-10-21,NSP-6738,VideoRay Pro 4 ROV,Indigenous Oil Co,Bonny Island,"N2,373",83.07,242.4 L,In Maintenance,No
+,NSP-4074,Cargo Basket,Chevron,Onne FOT,"N4,851",,0.91 BBL,Deployed,N/A
+,NSP-3330,Sub Sea ROV M8,Chevron,Onne FOT,"N2,568",139.55,53.6 L,Deployed,No
+,NSP-8024,Rhino Boat,Indigenous Oil Co,Forcados Terminal,"N3,091",213.4,1.37 BBL,Deployed,Yes
+Mid-Year,NSP-2700,Air Compressor 800cfm,Indigenous Oil Co,Offshore Rig Alpha,"N3,177",124.51,0.35 BBL,Awaiting Repair,No
+2024-02-14,NSP-8081,Air Compressor 800cfm,TotalEnergies,Offshore Rig Alpha,N984,46.3,0.55 BBL,In Maintenance,No
+,NSP-6628,VideoRay Pro 5 ROV,Shell (SPDC),Onne FOT,"N4,111",109.23,387.2 L,In Maintenance,No
+13/07/24,NSP-1238,Rhino Boat,Indigenous Oil Co,Onne FOT,N948,105.04,1.94 BBL,Deployed,Yes
+,NSP-7314,Rhino Boat,Shell (SPDC),Escravos,$4.666k,204.62,399.4 L,Deployed,No
+2024-01-29,NSP-7773,Cargo Basket,Shell (SPDC),Offshore Rig Alpha,"N4,393",185.8,419.6 L,Deployed,Yes
+Mid-Year,NSP-5780,Sub Sea ROV M8,Chevron,Milaha Barge,"N2,604",136.21,3.05 BBL,Deployed,No
+,NSP-7003,Cargo Basket,TotalEnergies,Milaha Barge,N502,,216.3 L,Standby,No
+12/12/24,NSP-3854,VideoRay Pro 5 ROV,Chevron,Bonny Island,"N1,170",113.29,312.7 L,Deployed,Yes
+,NSP-9995,Air Compressor 800cfm,Chevron,Forcados Terminal,"N3,442",154.1,391.4 L,Deployed,No
+27/11/24,NSP-4801,120kva Generator,Chevron,Milaha Barge,"N1,115",131.47,1.75 BBL,Awaiting Repair,No
+05/10/24,NSP-7111,VideoRay Pro 4 ROV,ExxonMobil,Forcados Terminal,"N4,377",79.72,151.3 L,In Maintenance,No
+Mid-Year,NSP-3581,120kva Generator,Indigenous Oil Co,Forcados Terminal,"N1,474",186.97,147.8 L,Awaiting Repair,No
+,NSP-5172,Rhino Boat,Chevron,Milaha Barge,"N4,259",190.82,196.4 L,Awaiting Repair,No
+2024-06-30,NSP-7396,120kva Generator,Indigenous Oil Co,Onne FOT,"N3,847",,259.6 L,Standby,Yes
+2024-07-05,NSP-4839,Pipe Tracker,TotalEnergies,Milaha Barge,Price Hidden,202.09,367.8 L,Standby,N/A
+2024-07-15,NSP-7039,Cargo Basket,TotalEnergies,Offshore Rig Alpha,N567,238.44,153.0 L,In Maintenance,No
+Mid-Year,NSP-5383,Sub Sea ROV M8,TotalEnergies,Forcados Terminal,"N3,327",125.39,473.0 L,In Maintenance,No
+30/06/24,NSP-7982,Rhino Boat,ExxonMobil,Onne FOT,Price Hidden,,299.6 L,Standby,No
+01/08/24,NSP-2141,VideoRay Pro 4 ROV,ExxonMobil,Offshore Rig Alpha,$4.005k,152.7,364.8 L,In Maintenance,No
+02/07/24,NSP-8129,VideoRay Pro 5 ROV,Shell (SPDC),Bonny Island,Price Hidden,129.03,2.30 BBL,Awaiting Repair,No
+Mid-Year,NSP-3259,Air Compressor 800cfm,Indigenous Oil Co,Milaha Barge,"N1,454",162.45,178.9 L,Deployed,No
+2024-04-28,NSP-7065,Rhino Boat,ExxonMobil,Milaha Barge,$1.384k,167.15,88.3 L,In Maintenance,No
+19/02/24,NSP-7026,Rhino Boat,Indigenous Oil Co,Offshore Rig Alpha,"N3,655",165.42,1.56 BBL,Awaiting Repair,Yes
+,NSP-8542,VideoRay Pro 4 ROV,TotalEnergies,Bonny Island,$1.536k,131.03,2.76 BBL,In Maintenance,No
+10/07/24,NSP-8657,Cargo Basket,Shell (SPDC),Milaha Barge,"N2,443",166.6,87.0 L,Deployed,No
+21/09/24,NSP-8124,Towing Winch,Chevron,Forcados Terminal,"N3,942",158.7,2.98 BBL,Awaiting Repair,No
+,NSP-3535,120kva Generator,Indigenous Oil Co,Forcados Terminal,N726,98.05,237.3 L,Deployed,No
+Last week,NSP-9411,Towing Winch,Indigenous Oil Co,Offshore Rig Alpha,N769,45.17,113.6 L,Standby,No
+24/08/24,NSP-1698,VideoRay Pro 5 ROV,ExxonMobil,Onne FOT,"N2,794",193.19,409.0 L,Standby,No
+2024-09-11,NSP-9467,Offshore Trash Skip,ExxonMobil,Forcados Terminal,"N2,834",,441.8 L,Deployed,Yes
+Mid-Year,NSP-9347,VideoRay Pro 4 ROV,Shell (SPDC),Forcados Terminal,"N4,704",105.67,403.6 L,Awaiting Repair,No
+02/09/24,NSP-7771,VideoRay Pro 4 ROV,Shell (SPDC),Bonny Island,"N4,608",,142.0 L,In Maintenance,No
+Mid-Year,NSP-4871,Offshore Trash Skip,ExxonMobil,Onne FOT,"N2,348",169.15,61.2 L,Deployed,Yes
+,NSP-5485,VideoRay Pro 4 ROV,Chevron,Offshore Rig Alpha,"N3,613",166.25,354.8 L,Deployed,No
+,NSP-9464,Towing Winch,TotalEnergies,Offshore Rig Alpha,"N2,686",127.69,68.7 L,Awaiting Repair,No
+2024-04-28,NSP-6869,Pipe Tracker,TotalEnergies,Bonny Island,"N4,297",199.56,495.5 L,Deployed,Yes
+,NSP-7797,VideoRay Pro 4 ROV,Indigenous Oil Co,Onne FOT,Price Hidden,201.92,2.00 BBL,Standby,No
+,NSP-2186,120kva Generator,ExxonMobil,Onne FOT,"N1,805",122.22,473.7 L,Deployed,No
+23/06/24,NSP-5765,Air Compressor 800cfm,TotalEnergies,Milaha Barge,"N4,735",106.42,1.08 BBL,Deployed,No
+25/04/24,NSP-8279,Sub Sea ROV M8,ExxonMobil,Bonny Island,$4.052k,188.79,225.6 L,Standby,N/A
+14/08/24,NSP-5287,Rhino Boat,Indigenous Oil Co,Milaha Barge,"N2,486",218.6,0.55 BBL,Deployed,Yes
+,NSP-1890,120kva Generator,Indigenous Oil Co,Forcados Terminal,"N1,084",194.35,150.4 L,In Maintenance,No
+2024-04-03,NSP-5647,Air Compressor 800cfm,Indigenous Oil Co,Onne FOT,Price Hidden,,361.4 L,Deployed,Yes
+30/06/24,NSP-5591,Sub Sea ROV M8,Indigenous Oil Co,Offshore Rig Alpha,"N4,617",207.68,0.91 BBL,Standby,No
+,NSP-8984,120kva Generator,Shell (SPDC),Milaha Barge,N768,124.07,103.4 L,In Maintenance,N/A
+20/01/24,NSP-2003,120kva Generator,TotalEnergies,Onne FOT,"N1,911",143.26,325.8 L,Standby,No
+Mid-Year,NSP-8331,Cargo Basket,Indigenous Oil Co,Offshore Rig Alpha,"N2,395",114.67,483.0 L,In Maintenance,No
+Last week,NSP-1961,Offshore Trash Skip,ExxonMobil,Escravos,"N1,807",135.76,168.1 L,Standby,No
+,NSP-7316,Pipe Tracker,Indigenous Oil Co,Offshore Rig Alpha,"N3,801",118.43,379.2 L,In Maintenance,N/A
+,NSP-4177,Air Compressor 800cfm,TotalEnergies,Escravos,"N3,717",174.97,448.0 L,Deployed,No
+2024-12-02,NSP-1972,Pipe Tracker,TotalEnergies,Milaha Barge,"N1,225",135.97,222.0 L,Standby,N/A
+Mid-Year,NSP-8415,VideoRay Pro 4 ROV,Shell (SPDC),Milaha Barge,$1.34k,114.25,1.50 BBL,In Maintenance,No
+09/11/24,NSP-7548,Air Compressor 800cfm,Indigenous Oil Co,Onne FOT,"N1,548",98.57,0.98 BBL,Awaiting Repair,No
+,NSP-9622,Towing Winch,Chevron,Bonny Island,$3.566k,132.06,55.1 L,Awaiting Repair,No
+02/09/24,NSP-3059,Cargo Basket,Indigenous Oil Co,Offshore Rig Alpha,"N2,830",145.92,1.77 BBL,Standby,No
+2024-09-09,NSP-1969,Rhino Boat,Indigenous Oil Co,Bonny Island,Price Hidden,50.73,0.55 BBL,Awaiting Repair,No
+Mid-Year,NSP-4969,Offshore Trash Skip,Chevron,Forcados Terminal,"N3,592",119.5,0.74 BBL,In Maintenance,Yes
+Last week,NSP-9339,Air Compressor 800cfm,Shell (SPDC),Bonny Island,"N3,998",99.89,158.2 L,In Maintenance,No
+08/12/24,NSP-2170,Sub Sea Sub-Unit M8,Chevron,Offshore Rig Alpha,Price Hidden,112.38,120.3 L,Standby,No
+2024-12-06,NSP-1244,Pipe Tracker,TotalEnergies,Onne FOT,N787,58.2,2.72 BBL,Standby,No
+Mid-Year,NSP-7761,Cargo Basket,Chevron,Milaha Barge,$1.407k,110.78,1.15 BBL,Awaiting Repair,No
+19/01/24,NSP-6856,Rhino Boat,Indigenous Oil Co,Onne FOT,$0.511k,,258.8 L,In Maintenance,No
+,NSP-8240,120kva Generator,ExxonMobil,Milaha Barge,$2.91k,132.8,317.4 L,Deployed,No
+,NSP-3172,Offshore Trash Skip,Indigenous Oil Co,Milaha Barge,"N4,916",264.7,229.0 L,In Maintenance,Yes
+,NSP-5535,VideoRay Pro 5 ROV,Shell (SPDC),Onne FOT,$4.927k,143.64,377.1 L,Deployed,No
+18/01/24,NSP-8148,Pipe Tracker,Indigenous Oil Co,Offshore Rig Alpha,$4.718k,109.89,69.1 L,Awaiting Repair,No
+17/06/24,NSP-8454,VideoRay Pro 5 ROV,TotalEnergies,Onne FOT,"N4,366",131.23,0.65 BBL,Awaiting Repair,No
+Last week,NSP-9832,Rhino Boat,ExxonMobil,Bonny Island,"N2,838",127.81,3.11 BBL,Standby,Yes
+,NSP-8493,120kva Generator,Indigenous Oil Co,Escravos,"N4,103",209.75,187.6 L,Deployed,No
+2024-06-11,NSP-6162,Offshore Trash Skip,TotalEnergies,Bonny Island,"N3,644",183.98,188.4 L,Awaiting Repair,N/A
+Mid-Year,NSP-7582,Cargo Basket,TotalEnergies,Milaha Barge,"N1,423",204.84,489.0 L,In Maintenance,No
+20/10/24,NSP-8833,Pipe Tracker,ExxonMobil,Escravos,"N1,441",94.82,83.6 L,Standby,N/A
+2024-02-15,NSP-7448,Rhino Boat,Chevron,Escravos,"N1,792",156.78,354.0 L,Awaiting Repair,N/A
+2024-08-02,NSP-1272,Air Compressor 800cfm,TotalEnergies,Offshore Rig Alpha,"N1,246",140.93,122.9 L,In Maintenance,N/A
+Mid-Year,NSP-7360,Rhino Boat,Chevron,Offshore Rig Alpha,"N3,165",125.28,228.6 L,Deployed,N/A
+17/06/24,NSP-9693,Cargo Basket,Chevron,Bonny Island,$4.976k,108.07,67.1 L,Deployed,Yes
+2024-06-26,NSP-6275,Pipe Tracker,ExxonMobil,Forcados Terminal,"N1,419",,304.6 L,Awaiting Repair,No
+Last week,NSP-7365,Offshore Trash Skip,ExxonMobil,Milaha Barge,"N4,122",,264.6 L,In Maintenance,No
+2024-09-09,NSP-8933,Cargo Basket,Indigenous Oil Co,Offshore Rig Alpha,"N4,320",165.86,261.3 L,Deployed,No
+,NSP-4956,120kva Generator,ExxonMobil,Offshore Rig Alpha,Price Hidden,120.5,247.9 L,In Maintenance,No
+19/06/24,NSP-3181,120kva Generator,Chevron,Onne FOT,"N1,390",192.21,299.6 L,Standby,No
+Mid-Year,NSP-4854,Air Compressor 800cfm,Indigenous Oil Co,Escravos,$0.719k,174.95,426.8 L,Standby,Yes
+,NSP-5270,Pipe Tracker,ExxonMobil,Escravos,"N3,170",178.17,1.08 BBL,Deployed,Yes
+Mid-Year,NSP-4440,Pipe Tracker,Shell (SPDC),Milaha Barge,"N4,399",17.55,315.1 L,Awaiting Repair,N/A
+06/07/24,NSP-2819,Towing Winch,Chevron,Escravos,"N4,362",217.58,114.2 L,Awaiting Repair,Yes
+Mid-Year,NSP-6911,Rhino Boat,Indigenous Oil Co,Forcados Terminal,"N4,706",132.42,68.6 L,Deployed,Yes
+27/04/24,NSP-4510,VideoRay Pro 5 ROV,TotalEnergies,Escravos,$2.538k,152.93,246.7 L,Standby,No
+26/01/24,NSP-3962,120kva Generator,ExxonMobil,Escravos,"N2,251",120.13,239.0 L,Awaiting Repair,No
+2024-06-25,NSP-7671,Cargo Basket,ExxonMobil,Escravos,N626,203.9,283.8 L,Awaiting Repair,N/A
+,NSP-2375,Air Compressor 800cfm,Indigenous Oil Co,Escravos,"N4,680",62.3,378.9 L,In Maintenance,No
+2024-08-12,NSP-2073,Towing Winch,ExxonMobil,Escravos,"N2,382",95.24,61.3 L,In Maintenance,No
+2024-09-01,NSP-9488,Towing Winch,TotalEnergies,Onne FOT,"N4,891",130.09,319.7 L,Deployed,No
+15/03/24,NSP-2058,VideoRay Pro 5 ROV,Shell (SPDC),Bonny Island,Price Hidden,119.4,1.34 BBL,Deployed,Yes
+Mid-Year,NSP-2871,VideoRay Pro 5 ROV,ExxonMobil,Milaha Barge,"N2,261",73.28,1.24 BBL,In Maintenance,No
+14/02/24,NSP-5476,Sub Sea ROV M8,Shell (SPDC),Bonny Island,$2.014k,191.94,0.92 BBL,Standby,No
+2024-04-18,NSP-7915,Cargo Basket,Chevron,Forcados Terminal,N771,199.47,448.7 L,In Maintenance,No
+,NSP-1548,Pipe Tracker,Chevron,Bonny Island,$1.64k,,144.3 L,Awaiting Repair,Yes
+17/07/24,NSP-1798,120kva Generator,Chevron,Bonny Island,"N1,290",139.87,2.82 BBL,Awaiting Repair,Yes
+2024-05-09,NSP-9516,Cargo Basket,TotalEnergies,Offshore Rig Alpha,"N1,629",113.01,143.0 L,Standby,Yes
+Mid-Year,NSP-2167,Rhino Boat,TotalEnergies,Milaha Barge,"N3,586",133.04,219.5 L,Awaiting Repair,No
+23/03/24,NSP-3181,VideoRay Pro 4 ROV,Indigenous Oil Co,Offshore Rig Alpha,"N1,472",168.5,2.90 BBL,Deployed,Yes
+,NSP-5922,Cargo Basket,TotalEnergies,Bonny Island,$4.053k,,2.25 BBL,Awaiting Repair,No
+Mid-Year,NSP-1615,Towing Winch,TotalEnergies,Onne FOT,"N3,216",143.49,2.79 BBL,Standby,No
+Mid-Year,NSP-6806,Towing Winch,TotalEnergies,Bonny Island,"N1,189",138.52,491.6 L,In Maintenance,No
+2024-09-09,NSP-7414,VideoRay Pro 4 ROV,Chevron,Bonny Island,$4.199k,53.24,71.2 L,Standby,No
+21/01/25,NSP-8265,Towing Winch,Chevron,Offshore Rig Alpha,N851,,165.0 L,Standby,No
+2024-07-10,NSP-5435,Towing Winch,Indigenous Oil Co,Forcados Terminal,"N4,987",156.54,441.1 L,Deployed,No
+28/09/24,NSP-7468,Cargo Basket,Indigenous Oil Co,Bonny Island,"N1,438",154.22,318.2 L,Awaiting Repair,No
+2024-04-14,NSP-3925,Rhino Boat,Shell (SPDC),Milaha Barge,Price Hidden,232.56,429.7 L,Standby,N/A
+2024-04-06,NSP-6583,Rhino Boat,Chevron,Milaha Barge,"N2,672",222.78,66.0 L,In Maintenance,No
+2024-04-22,NSP-1498,Rhino Boat,Chevron,Milaha Barge,"N3,520",190.37,444.9 L,In Maintenance,Yes
+,NSP-4199,VideoRay Pro 5 ROV,ExxonMobil,Escravos,"N4,077",,1.46 BBL,In Maintenance,N/A
+2024-06-30,NSP-4605,VideoRay Pro 4 ROV,TotalEnergies,Bonny Island,$4.002k,,150.8 L,In Maintenance,No
+11/02/24,NSP-2910,VideoRay Pro 4 ROV,TotalEnergies,Onne FOT,"N2,659",206.28,462.1 L,Awaiting Repair,Yes
+2024-04-23,NSP-1060,VideoRay Pro 4 ROV,Chevron,Bonny Island,$4.048k,90.04,2.40 BBL,Deployed,No
+Mid-Year,NSP-5703,VideoRay Pro 4 ROV,TotalEnergies,Milaha Barge,"N1,034",202.78,389.5 L,In Maintenance,Yes
+2024-03-21,NSP-6398,120kva Generator,Chevron,Forcados Terminal,"N3,420",150.52,89.4 L,Standby,No
+27/01/24,NSP-4791,V-Ray Pro 4 Sub-Unit,Indigenous Oil Co,Milaha Barge,"N3,168",151.69,278.7 L,Standby,No
+2024-12-08,NSP-4644,VideoRay Pro 5 ROV,ExxonMobil,Offshore Rig Alpha,"N3,228",244.15,2.60 BBL,Standby,No
+30/03/24,NSP-1666,Offshore Trash Skip,ExxonMobil,Onne FOT,$3.668k,198.94,363.2 L,Awaiting Repair,No
+Mid-Year,NSP-3121,Offshore Trash Skip,Shell (SPDC),Forcados Terminal,"N2,560",,360.5 L,Awaiting Repair,No
+2024-06-14,NSP-4001,Rhino Boat,TotalEnergies,Forcados Terminal,"N2,776",186.03,100.2 L,Deployed,No
+31/05/24,NSP-8505,VideoRay Pro 4 ROV,TotalEnergies,Bonny Island,N995,120.64,2.83 BBL,Awaiting Repair,No
+,NSP-7481,Towing Winch,Indigenous Oil Co,Escravos,N654,165.09,204.0 L,In Maintenance,N/A
+2024-10-01,NSP-9052,VideoRay Pro 4 ROV,ExxonMobil,Forcados Terminal,"N4,267",158.78,213.5 L,In Maintenance,No
+2024-02-18,NSP-5185,Cargo Basket,Shell (SPDC),Milaha Barge,N643,216.27,387.2 L,Deployed,No
+Mid-Year,NSP-4661,Offshore Trash Skip,Chevron,Bonny Island,"N4,493",79.66,454.1 L,In Maintenance,No
+,NSP-8489,Rhino Boat,ExxonMobil,Offshore Rig Alpha,"N1,980",99.65,435.6 L,Awaiting Repair,No
+2024-02-13,NSP-6190,120kva Generator,TotalEnergies,Offshore Rig Alpha,$3.927k,134.36,318.8 L,Awaiting Repair,No
+2024-04-16,NSP-5500,Air Compressor 800cfm,Indigenous Oil Co,Onne FOT,N642,165.72,0.87 BBL,Standby,No
+,NSP-1882,Pipe Tracker,Shell (SPDC),Bonny Island,"N3,325",241.91,73.8 L,Standby,No
+31/01/25,NSP-7795,Cargo Basket,Shell (SPDC),Milaha Barge,"N3,703",168.28,197.8 L,Awaiting Repair,No
+2024-05-03,NSP-8124,Offshore Trash Skip,Indigenous Oil Co,Bonny Island,"N2,759",118.7,278.0 L,In Maintenance,Yes
+,NSP-9084,Air Compressor 800cfm,Indigenous Oil Co,Onne FOT,"N1,769",,196.1 L,In Maintenance,No
+Mid-Year,NSP-9216,V-Ray Pro 5 Sub-Unit,TotalEnergies,Milaha Barge,"N1,255",124.79,277.2 L,Deployed,Yes
+Mid-Year,NSP-1308,Air Compressor 800cfm,Chevron,Bonny Island,$2.776k,234.23,1.21 BBL,Deployed,N/A
+04/07/24,NSP-4381,Offshore Trash Skip,Shell (SPDC),Bonny Island,"N4,379",242.19,1.14 BBL,Awaiting Repair,No
+26/01/25,NSP-2131,Towing Winch,ExxonMobil,Milaha Barge,"N3,981",196.62,1.77 BBL,Deployed,No
+Mid-Year,NSP-6636,Sub Sea ROV M8,TotalEnergies,Milaha Barge,Price Hidden,129.24,2.58 BBL,Awaiting Repair,No
+29/06/24,NSP-7154,VideoRay Pro 5 ROV,ExxonMobil,Milaha Barge,"N1,259",90.54,390.4 L,Deployed,Yes
+2024-08-08,NSP-7964,VideoRay Pro 4 ROV,Chevron,Onne FOT,"N2,459",202.7,493.6 L,Awaiting Repair,No
+,NSP-2388,V-Ray Pro 4 Sub-Unit,Chevron,Offshore Rig Alpha,"N3,071",104.54,134.1 L,Standby,N/A
+2024-11-19,NSP-9412,VideoRay Pro 4 ROV,TotalEnergies,Offshore Rig Alpha,"N1,723",,156.0 L,Standby,No
+Mid-Year,NSP-9417,V-Ray Pro 5 Sub-Unit,Shell (SPDC),Offshore Rig Alpha,"N4,810",202.74,3.00 BBL,Awaiting Repair,No
+2024-09-11,NSP-8952,VideoRay Pro 5 ROV,TotalEnergies,Escravos,"N3,229",140.66,216.2 L,Awaiting Repair,No
+18/06/24,NSP-6287,Air Compressor 800cfm,TotalEnergies,Escravos,"N1,418",,361.3 L,In Maintenance,No
+,NSP-1706,Cargo Basket,Shell (SPDC),Offshore Rig Alpha,"N3,938",18.97,182.7 L,In Maintenance,No
+2024-05-03,NSP-1402,Air Compressor 800cfm,Indigenous Oil Co,Milaha Barge,"N4,434",122.78,276.2 L,In Maintenance,Yes
+,NSP-5137,Offshore Trash Skip,Shell (SPDC),Forcados Terminal,$4.332k,196.57,204.4 L,Standby,No
+28/01/25,NSP-4129,120kva Generator,Shell (SPDC),Offshore Rig Alpha,"N3,238",155.56,0.54 BBL,Standby,No
+22/10/24,NSP-5992,Pipe Tracker,Chevron,Escravos,N945,168.87,225.1 L,Deployed,N/A
+,NSP-2410,Air Compressor 800cfm,Chevron,Forcados Terminal,"N3,033",162.18,175.6 L,Standby,Yes
+2024-11-18,NSP-6616,120kva Generator,Shell (SPDC),Onne FOT,$3.231k,95.49,475.1 L,Deployed,No
+,NSP-3810,Air Compressor 800cfm,Shell (SPDC),Bonny Island,"N4,125",242.83,3.13 BBL,Awaiting Repair,Yes
+15/07/24,NSP-9720,Offshore Trash Skip,TotalEnergies,Escravos,"N2,492",125.91,90.8 L,Standby,No
+,NSP-2545,Towing Winch,TotalEnergies,Escravos,"N1,419",120.01,134.4 L,Awaiting Repair,No
+14/01/25,NSP-6027,VideoRay Pro 5 ROV,Chevron,Bonny Island,"N1,178",204.92,466.6 L,In Maintenance,No
+Last week,NSP-3241,Towing Winch,TotalEnergies,Offshore Rig Alpha,"N1,778",247.93,195.3 L,In Maintenance,No
+,NSP-7523,120kva Generator,ExxonMobil,Milaha Barge,$0.587k,,476.8 L,In Maintenance,No
+17/04/24,NSP-4250,VideoRay Pro 4 ROV,Chevron,Bonny Island,$0.817k,,271.4 L,Standby,Yes
+2024-06-26,NSP-6495,VideoRay Pro 5 ROV,Chevron,Bonny Island,"N2,761",,1.68 BBL,In Maintenance,No
+,NSP-4127,120kva Generator,ExxonMobil,Onne FOT,$2.493k,138.78,186.5 L,Awaiting Repair,Yes
+28/10/24,NSP-3581,120kva Generator,TotalEnergies,Escravos,"N2,267",201.06,2.52 BBL,Standby,No
+,NSP-1639,Sub Sea ROV M8,Indigenous Oil Co,Escravos,$4.122k,207.02,228.6 L,Standby,No
+Mid-Year,NSP-6185,Air Compressor 800cfm,Shell (SPDC),Bonny Island,"N2,429",,154.8 L,Deployed,Yes
+Mid-Year,NSP-4932,Air Compressor 800cfm,Indigenous Oil Co,Onne FOT,"N2,873",182.47,101.3 L,Awaiting Repair,No
+Mid-Year,NSP-3735,Sub Sea Sub-Unit M8,ExxonMobil,Milaha Barge,$1.897k,179.09,1.86 BBL,Standby,Yes
+05/11/24,NSP-4933,Pipe Tracker,Chevron,Forcados Terminal,"N2,897",143.35,384.0 L,Standby,No
+07/01/24,NSP-2928,Sub Sea Sub-Unit M8,Indigenous Oil Co,Offshore Rig Alpha,"N3,000",192.46,2.32 BBL,Deployed,Yes
+,NSP-5042,Pipe Tracker,Chevron,Escravos,Price Hidden,204.0,488.5 L,Deployed,No
+Mid-Year,NSP-9772,Air Compressor 800cfm,Shell (SPDC),Milaha Barge,$1.095k,197.14,365.7 L,In Maintenance,No
+Mid-Year,NSP-5366,Cargo Basket,TotalEnergies,Onne FOT,"N1,001",201.95,364.8 L,Awaiting Repair,No
+Mid-Year,NSP-6336,Rhino Boat,TotalEnergies,Onne FOT,$3.294k,176.53,160.1 L,Deployed,No
+,NSP-5597,Pipe Tracker,ExxonMobil,Bonny Island,"N1,971",231.24,312.1 L,Deployed,Yes
+Mid-Year,NSP-4320,Air Compressor 800cfm,TotalEnergies,Forcados Terminal,"N1,347",215.15,499.2 L,In Maintenance,No
+Mid-Year,NSP-7985,Rhino Boat,Chevron,Bonny Island,"N3,960",199.21,391.7 L,Deployed,Yes
+07/03/24,NSP-5631,Cargo Basket,ExxonMobil,Onne FOT,$2.101k,95.12,352.8 L,Deployed,No
+2025-01-19,NSP-6577,Offshore Trash Skip,TotalEnergies,Bonny Island,$4.7k,123.31,2.90 BBL,Awaiting Repair,N/A
+Mid-Year,NSP-3441,VideoRay Pro 4 ROV,TotalEnergies,Milaha Barge,"N1,794",117.31,189.3 L,In Maintenance,No
+Mid-Year,NSP-2823,Air Compressor 800cfm,ExxonMobil,Forcados Terminal,"N4,854",174.44,295.6 L,Deployed,No
+,NSP-2132,120kva Generator,ExxonMobil,Forcados Terminal,"N2,252",86.71,240.6 L,Deployed,No
+,NSP-2620,Offshore Trash Skip,Shell (SPDC),Bonny Island,"N1,987",209.01,1.07 BBL,Standby,Yes
+2024-02-18,NSP-2537,VideoRay Pro 5 ROV,TotalEnergies,Onne FOT,N737,207.21,109.3 L,Standby,No
+,NSP-8281,Offshore Trash Skip,Shell (SPDC),Offshore Rig Alpha,N769,168.51,0.50 BBL,Awaiting Repair,No
+2024-11-30,NSP-9511,Offshore Trash Skip,Indigenous Oil Co,Milaha Barge,"N4,516",179.22,232.3 L,In Maintenance,N/A
+20/01/24,NSP-8456,Towing Winch,TotalEnergies,Offshore Rig Alpha,N960,222.61,489.8 L,In Maintenance,No
+10/05/24,NSP-1470,Towing Winch,Shell (SPDC),Milaha Barge,"N4,981",150.71,124.9 L,Deployed,Yes
+,NSP-2790,VideoRay Pro 5 ROV,TotalEnergies,Forcados Terminal,Price Hidden,158.36,388.8 L,Standby,No
+,NSP-8129,Sub Sea ROV M8,Chevron,Forcados Terminal,"N2,735",151.92,321.9 L,Awaiting Repair,Yes
+,NSP-5376,120kva Generator,TotalEnergies,Forcados Terminal,"N2,513",153.39,481.9 L,Standby,No
+Mid-Year,NSP-8968,Air Compressor 800cfm,TotalEnergies,Forcados Terminal,"N2,573",49.0,387.7 L,Standby,No
+Mid-Year,NSP-2770,Air Compressor 800cfm,Chevron,Milaha Barge,"N2,653",72.75,351.2 L,Deployed,No
+2024-05-23,NSP-5753,Air Compressor 800cfm,TotalEnergies,Onne FOT,"N2,211",123.03,410.4 L,Awaiting Repair,No
+Mid-Year,NSP-7376,Cargo Basket,Chevron,Forcados Terminal,"N2,061",96.25,94.6 L,Standby,No
+,NSP-9895,VideoRay Pro 5 ROV,Shell (SPDC),Escravos,N725,156.23,87.9 L,Standby,No
+,NSP-2196,Sub Sea ROV M8,TotalEnergies,Offshore Rig Alpha,N620,201.63,85.4 L,Awaiting Repair,N/A
+09/11/24,NSP-1754,Pipe Tracker,Chevron,Milaha Barge,"N3,202",,445.7 L,In Maintenance,No
+19/08/24,NSP-2428,Pipe Tracker,TotalEnergies,Milaha Barge,Price Hidden,75.2,396.4 L,Standby,No
+,NSP-4229,VideoRay Pro 4 ROV,Indigenous Oil Co,Onne FOT,"N3,053",197.97,140.4 L,Deployed,N/A
+Mid-Year,NSP-3739,VideoRay Pro 4 ROV,Indigenous Oil Co,Forcados Terminal,"N4,498",151.88,349.7 L,Deployed,No
+12/11/24,NSP-5868,Offshore Trash Skip,Indigenous Oil Co,Escravos,"N3,957",136.32,418.7 L,Awaiting Repair,No
+Mid-Year,NSP-2781,Pipe Tracker,Shell (SPDC),Milaha Barge,"N2,517",175.94,275.8 L,Awaiting Repair,No
+,NSP-7614,Cargo Basket,Chevron,Forcados Terminal,"N1,441",,1.58 BBL,Awaiting Repair,No
+,NSP-7617,VideoRay Pro 4 ROV,Chevron,Forcados Terminal,"N4,809",126.54,0.44 BBL,Standby,No
+2024-03-19,NSP-8860,VideoRay Pro 4 ROV,Indigenous Oil Co,Milaha Barge,N900,211.71,288.2 L,Standby,No
+Mid-Year,NSP-1858,Rhino Boat,Chevron,Forcados Terminal,"N1,428",181.75,490.2 L,Deployed,No
+,NSP-7952,Air Compressor 800cfm,TotalEnergies,Bonny Island,"N2,563",269.58,484.5 L,Deployed,No
+2024-04-01,NSP-4253,120kva Generator,Chevron,Escravos,"N4,698",,2.73 BBL,Standby,No
+2024-08-11,NSP-9529,Rhino Boat,Chevron,Forcados Terminal,$4.013k,109.8,219.3 L,In Maintenance,No
+,NSP-7546,Rhino Boat,ExxonMobil,Escravos,"N4,038",204.91,321.3 L,Deployed,No
+29/01/24,NSP-5938,Cargo Basket,ExxonMobil,Milaha Barge,$4.679k,131.01,336.8 L,Standby,No
+2024-05-18,NSP-9212,VideoRay Pro 5 ROV,Chevron,Escravos,$1.061k,101.36,277.4 L,Standby,Yes
+2024-03-26,NSP-8111,Offshore Trash Skip,TotalEnergies,Onne FOT,"N1,674",175.71,233.3 L,Awaiting Repair,No
+04/04/24,NSP-5749,120kva Generator,ExxonMobil,Offshore Rig Alpha,"N2,614",210.88,1.73 BBL,Deployed,Yes
+Mid-Year,NSP-4285,Rhino Boat,Shell (SPDC),Milaha Barge,$3.397k,104.05,3.14 BBL,Awaiting Repair,Yes
+,NSP-4308,Rhino Boat,Indigenous Oil Co,Bonny Island,"N2,504",108.9,73.1 L,Standby,N/A
+31/10/24,NSP-3523,Rhino Boat,Indigenous Oil Co,Milaha Barge,$1.805k,89.04,135.7 L,In Maintenance,N/A
+,NSP-2724,Towing Winch,Chevron,Milaha Barge,"N1,720",203.13,342.8 L,Standby,No
+Mid-Year,NSP-6193,VideoRay Pro 5 ROV,ExxonMobil,Escravos,"N2,720",,1.63 BBL,Standby,No
+Mid-Year,NSP-4293,VideoRay Pro 4 ROV,Chevron,Onne FOT,"N2,886",,186.4 L,Standby,Yes
+12/08/24,NSP-4551,VideoRay Pro 5 ROV,TotalEnergies,Onne FOT,"N1,211",150.04,137.7 L,Standby,No
+,NSP-9118,Sub Sea Sub-Unit M8,Chevron,Offshore Rig Alpha,$4.732k,143.83,446.6 L,In Maintenance,No
+Mid-Year,NSP-2918,Pipe Tracker,Shell (SPDC),Onne FOT,"N4,633",,213.3 L,Standby,No
+,NSP-7382,Towing Winch,Chevron,Onne FOT,"N4,560",162.5,1.33 BBL,Deployed,No
+,NSP-1823,Cargo Basket,Shell (SPDC),Offshore Rig Alpha,"N4,772",121.93,1.51 BBL,Awaiting Repair,N/A
+,NSP-9587,Pipe Tracker,TotalEnergies,Milaha Barge,"N2,393",141.34,318.3 L,In Maintenance,N/A
+2024-08-19,NSP-4994,Towing Winch,Shell (SPDC),Bonny Island,N844,133.67,255.0 L,In Maintenance,No
+Last week,NSP-5070,Rhino Boat,TotalEnergies,Offshore Rig Alpha,$1.164k,161.62,0.39 BBL,Deployed,No
+28/04/24,NSP-7895,120kva Generator,ExxonMobil,Milaha Barge,"N1,575",195.07,175.1 L,Deployed,No
+02/05/24,NSP-4403,VideoRay Pro 5 ROV,Shell (SPDC),Onne FOT,"N1,731",156.47,71.5 L,Standby,No
+,NSP-5277,Towing Winch,Shell (SPDC),Offshore Rig Alpha,"N1,474",50.72,0.48 BBL,Deployed,N/A
+2025-01-26,NSP-3268,Cargo Basket,TotalEnergies,Bonny Island,"N2,526",159.52,220.4 L,Standby,Yes
+19/10/24,NSP-4061,VideoRay Pro 5 ROV,Shell (SPDC),Forcados Terminal,"N1,627",115.71,0.45 BBL,Standby,No
+30/07/24,NSP-3224,VideoRay Pro 4 ROV,ExxonMobil,Milaha Barge,"N3,423",244.8,1.32 BBL,Standby,No
+2025-01-13,NSP-4391,VideoRay Pro 5 ROV,TotalEnergies,Offshore Rig Alpha,"N4,315",143.79,333.4 L,Awaiting Repair,No
+,NSP-3686,Air Compressor 800cfm,Chevron,Onne FOT,$2.943k,120.61,451.1 L,Deployed,No
+Mid-Year,NSP-7121,Cargo Basket,Indigenous Oil Co,Onne FOT,$3.9k,80.89,461.8 L,Awaiting Repair,Yes
+Last week,NSP-6755,VideoRay Pro 5 ROV,TotalEnergies,Offshore Rig Alpha,$3.884k,181.61,80.0 L,Awaiting Repair,No
+23/10/24,NSP-2721,Rhino Boat,Shell (SPDC),Onne FOT,"N4,588",118.86,257.0 L,Deployed,No
+Mid-Year,NSP-3513,Towing Winch,Shell (SPDC),Offshore Rig Alpha,N692,53.46,1.97 BBL,Standby,No
+2024-12-31,NSP-6780,Offshore Trash Skip,Indigenous Oil Co,Offshore Rig Alpha,"N1,097",116.29,135.5 L,Deployed,No
+Mid-Year,NSP-8233,Air Compressor 800cfm,ExxonMobil,Milaha Barge,Price Hidden,173.0,216.7 L,In Maintenance,No
+Mid-Year,NSP-5798,VideoRay Pro 4 ROV,ExxonMobil,Bonny Island,"N1,088",161.33,222.8 L,Awaiting Repair,N/A
+2024-10-22,NSP-3934,Sub Sea ROV M8,TotalEnergies,Milaha Barge,"N2,375",65.5,454.8 L,Deployed,No
+2024-05-13,NSP-6061,120kva Generator,TotalEnergies,Milaha Barge,"N4,171",141.16,187.6 L,Deployed,No
+05/02/24,NSP-1712,120kva Generator,Indigenous Oil Co,Onne FOT,"N3,741",160.19,3.00 BBL,In Maintenance,No
+Mid-Year,NSP-8982,Pipe Tracker,Shell (SPDC),Milaha Barge,"N4,793",215.65,454.4 L,In Maintenance,Yes
+,NSP-8740,Towing Winch,Indigenous Oil Co,Bonny Island,"N1,566",129.38,248.8 L,Standby,N/A
+2024-03-22,NSP-3711,VideoRay Pro 4 ROV,Chevron,Milaha Barge,Price Hidden,113.07,436.4 L,Awaiting Repair,No
+2024-11-16,NSP-5811,Pipe Tracker,Chevron,Offshore Rig Alpha,Price Hidden,76.48,82.7 L,Awaiting Repair,No
+Mid-Year,NSP-1109,VideoRay Pro 4 ROV,Shell (SPDC),Onne FOT,N605,86.86,220.5 L,Deployed,No
+,NSP-1370,Rhino Boat,Indigenous Oil Co,Escravos,N604,173.78,260.9 L,In Maintenance,No
+,NSP-2667,Cargo Basket,Indigenous Oil Co,Bonny Island,"N1,456",109.92,0.33 BBL,Deployed,N/A
+Mid-Year,NSP-2646,Rhino Boat,TotalEnergies,Onne FOT,"N3,092",198.76,447.0 L,Deployed,No
+2024-11-15,NSP-5320,Air Compressor 800cfm,TotalEnergies,Bonny Island,"N4,831",169.21,3.14 BBL,In Maintenance,Yes
+17/06/24,NSP-6660,Cargo Basket,Chevron,Milaha Barge,"N3,304",97.31,179.3 L,In Maintenance,Yes
+Mid-Year,NSP-9736,Sub Sea ROV M8,Chevron,Forcados Terminal,"N3,447",171.39,473.5 L,In Maintenance,No
+2024-03-05,NSP-6087,VideoRay Pro 4 ROV,TotalEnergies,Forcados Terminal,"N1,282",118.58,0.48 BBL,Standby,No
+Mid-Year,NSP-1968,Towing Winch,Chevron,Forcados Terminal,"N1,416",,74.5 L,Deployed,No
+23/02/24,NSP-1583,Towing Winch,Chevron,Forcados Terminal,"N1,481",180.44,146.1 L,Standby,No
+08/01/24,NSP-6273,Sub Sea ROV M8,Shell (SPDC),Offshore Rig Alpha,$1.662k,122.14,0.79 BBL,Standby,No
+,NSP-2098,120kva Generator,Chevron,Offshore Rig Alpha,"N2,403",105.81,381.0 L,Deployed,N/A
+26/01/24,NSP-7837,Towing Winch,Chevron,Escravos,"N2,229",161.52,87.3 L,Deployed,No
+,NSP-5491,120kva Generator,Indigenous Oil Co,Onne FOT,Price Hidden,153.34,52.2 L,Awaiting Repair,No
+2024-11-26,NSP-9444,Towing Winch,TotalEnergies,Bonny Island,"N1,793",110.23,51.6 L,Awaiting Repair,No
+Mid-Year,NSP-1869,120kva Generator,ExxonMobil,Escravos,"N3,068",115.12,220.7 L,Deployed,No
+Mid-Year,NSP-8024,Towing Winch,Indigenous Oil Co,Forcados Terminal,N576,102.3,1.76 BBL,In Maintenance,No
+06/03/24,NSP-4374,120kva Generator,Chevron,Onne FOT,Price Hidden,140.29,116.2 L,Awaiting Repair,N/A
+Mid-Year,NSP-6646,Offshore Trash Skip,Chevron,Bonny Island,"N2,724",130.18,229.9 L,In Maintenance,No
+2024-04-03,NSP-9853,Air Compressor 800cfm,ExxonMobil,Onne FOT,Price Hidden,210.4,386.9 L,Awaiting Repair,No
+13/03/24,NSP-3709,Towing Winch,TotalEnergies,Offshore Rig Alpha,$3.626k,37.72,434.6 L,In Maintenance,N/A
+Mid-Year,NSP-3916,Towing Winch,ExxonMobil,Offshore Rig Alpha,N509,175.23,219.6 L,Awaiting Repair,No
+24/11/24,NSP-8999,Towing Winch,ExxonMobil,Onne FOT,Price Hidden,,2.87 BBL,In Maintenance,No
+Mid-Year,NSP-3653,Towing Winch,ExxonMobil,Forcados Terminal,$1.12k,187.91,438.5 L,Standby,No
+2024-09-24,NSP-2232,Towing Winch,Shell (SPDC),Escravos,Price Hidden,83.0,403.3 L,Awaiting Repair,No
+Mid-Year,NSP-2195,Pipe Tracker,Indigenous Oil Co,Escravos,$4.177k,169.91,474.5 L,Awaiting Repair,No
+09/10/24,NSP-3431,Pipe Tracker,Shell (SPDC),Onne FOT,"N3,899",,1.74 BBL,In Maintenance,No
+,NSP-8195,Offshore Trash Skip,Shell (SPDC),Onne FOT,Price Hidden,183.54,67.1 L,Standby,No
+2024-11-14,NSP-6150,VideoRay Pro 5 ROV,Chevron,Onne FOT,$4.153k,275.15,2.05 BBL,In Maintenance,No
+Mid-Year,NSP-6931,Sub Sea ROV M8,TotalEnergies,Milaha Barge,$4.894k,159.19,2.88 BBL,In Maintenance,No
+16/01/24,NSP-7229,VideoRay Pro 4 ROV,Chevron,Escravos,"N3,422",129.28,287.2 L,Deployed,Yes
+Mid-Year,NSP-5460,Towing Winch,Indigenous Oil Co,Onne FOT,"N2,678",121.19,331.7 L,Awaiting Repair,No
+,NSP-1865,Sub Sea ROV M8,Chevron,Milaha Barge,"N4,787",154.55,2.38 BBL,Awaiting Repair,No
+,NSP-7681,Sub Sea ROV M8,Indigenous Oil Co,Bonny Island,"N2,113",200.51,2.44 BBL,In Maintenance,No
+21/12/24,NSP-4160,VideoRay Pro 4 ROV,Shell (SPDC),Offshore Rig Alpha,"N3,552",147.78,465.0 L,In Maintenance,N/A
+2024-01-27,NSP-6769,VideoRay Pro 5 ROV,Shell (SPDC),Onne FOT,"N1,370",140.47,380.4 L,Standby,Yes
+Mid-Year,NSP-1680,Air Compressor 800cfm,ExxonMobil,Escravos,"N2,285",73.88,82.1 L,Standby,Yes
+,NSP-4081,Air Compressor 800cfm,Shell (SPDC),Escravos,"N1,260",174.89,436.3 L,Standby,No
+Mid-Year,NSP-2690,120kva Generator,Indigenous Oil Co,Offshore Rig Alpha,N941,152.17,60.1 L,In Maintenance,No
+25/07/24,NSP-9431,VideoRay Pro 4 ROV,Indigenous Oil Co,Forcados Terminal,"N1,680",159.48,164.3 L,Deployed,No
+2024-03-10,NSP-5537,120kva Generator,ExxonMobil,Milaha Barge,Price Hidden,181.68,223.8 L,Awaiting Repair,Yes
+17/02/24,NSP-2832,VideoRay Pro 5 ROV,Shell (SPDC),Onne FOT,$4.488k,,113.2 L,Awaiting Repair,No
+2024-02-25,NSP-5529,Sub Sea ROV M8,Chevron,Onne FOT,"N3,340",247.5,343.9 L,Awaiting Repair,No
+,NSP-7282,VideoRay Pro 4 ROV,ExxonMobil,Offshore Rig Alpha,"N3,463",25.57,248.8 L,Awaiting Repair,N/A
+,NSP-3108,VideoRay Pro 5 ROV,Chevron,Escravos,"N3,659",124.53,1.45 BBL,Awaiting Repair,No
+,NSP-2845,Towing Winch,Shell (SPDC),Forcados Terminal,"N4,310",192.46,474.8 L,Standby,No
+26/12/24,NSP-4960,120kva Generator,ExxonMobil,Escravos,"N1,379",,273.3 L,In Maintenance,Yes
+02/06/24,NSP-2025,Air Compressor 800cfm,Chevron,Bonny Island,"N1,167",146.61,272.0 L,Awaiting Repair,Yes
+2024-06-18,NSP-6969,Towing Winch,Indigenous Oil Co,Milaha Barge,"N4,241",,1.53 BBL,In Maintenance,No
+2024-01-31,NSP-8641,VideoRay Pro 4 ROV,TotalEnergies,Onne FOT,Price Hidden,158.03,0.49 BBL,Deployed,Yes
+,NSP-3982,Air Compressor 800cfm,Chevron,Bonny Island,"N1,464",218.11,1.26 BBL,Standby,No
+2024-09-13,NSP-2074,Pipe Tracker,Indigenous Oil Co,Bonny Island,"N1,861",139.78,1.57 BBL,Standby,Yes
+Mid-Year,NSP-8972,Cargo Basket,TotalEnergies,Forcados Terminal,"N2,676",141.82,60.4 L,Deployed,No
+2024-07-07,NSP-6241,Cargo Basket,TotalEnergies,Offshore Rig Alpha,"N2,254",173.47,2.67 BBL,Awaiting Repair,No
+Mid-Year,NSP-8034,Air Compressor 800cfm,ExxonMobil,Onne FOT,"N4,020",180.84,430.5 L,Deployed,No
+Mid-Year,NSP-5684,Pipe Tracker,TotalEnergies,Escravos,"N1,940",234.77,113.1 L,In Maintenance,Yes
+2024-03-27,NSP-9123,VideoRay Pro 4 ROV,Chevron,Forcados Terminal,N566,185.2,2.28 BBL,Standby,No
+,NSP-2184,Rhino Boat,Shell (SPDC),Bonny Island,"N4,727",158.15,236.7 L,Awaiting Repair,N/A
+Mid-Year,NSP-7249,Cargo Basket,TotalEnergies,Milaha Barge,"N3,633",96.87,402.8 L,In Maintenance,No
+2024-08-13,NSP-5262,VideoRay Pro 5 ROV,ExxonMobil,Milaha Barge,Price Hidden,135.4,428.2 L,Deployed,No
+Mid-Year,NSP-6969,Offshore Trash Skip,Chevron,Bonny Island,$2.256k,129.81,423.3 L,Awaiting Repair,No
+2024-08-10,NSP-9007,Towing Winch,Shell (SPDC),Offshore Rig Alpha,"N4,768",77.65,226.7 L,Awaiting Repair,Yes
+,NSP-9015,Offshore Trash Skip,TotalEnergies,Bonny Island,Price Hidden,212.94,311.4 L,Deployed,No
+28/05/24,NSP-9634,Towing Winch,Chevron,Onne FOT,"N4,868",180.1,250.0 L,In Maintenance,No
+Mid-Year,NSP-1952,Cargo Basket,Shell (SPDC),Offshore Rig Alpha,"N2,218",124.23,456.8 L,Standby,No
+2025-01-02,NSP-4285,120kva Generator,Chevron,Bonny Island,"N4,483",204.97,120.8 L,Deployed,No
+Mid-Year,NSP-3284,Offshore Trash Skp,Indigenous Oil Co,Escravos,"N3,627",140.56,69.7 L,In Maintenance,No
+,NSP-5218,Towing Winch,TotalEnergies,Forcados Terminal,"N4,912",147.74,2.52 BBL,Awaiting Repair,No
+,NSP-5637,Sub Sea ROV M8,Shell (SPDC),Offshore Rig Alpha,$1.648k,97.78,2.70 BBL,Deployed,Yes
+31/07/24,NSP-6607,Cargo Basket,TotalEnergies,Escravos,$3.648k,187.47,1.14 BBL,Standby,No
+,NSP-6851,Pipe Tracker,Shell (SPDC),Escravos,N858,151.09,373.5 L,Standby,No
+2024-05-22,NSP-5782,Towing Winch,ExxonMobil,Offshore Rig Alpha,"N1,888",186.94,0.45 BBL,Standby,Yes
+2024-01-09,NSP-5018,Air Compressor 800cfm,Chevron,Bonny Island,$1.123k,214.02,114.0 L,Standby,Yes
+,NSP-6876,V-Ray Pro 5 Sub-Unit,Indigenous Oil Co,Milaha Barge,"N3,134",124.95,223.3 L,Standby,No
+12/03/24,NSP-5979,Rhino Boat,ExxonMobil,Forcados Terminal,$4.056k,173.97,219.8 L,In Maintenance,N/A
+,NSP-1526,Towing Winch,Indigenous Oil Co,Escravos,"N1,778",107.69,2.84 BBL,Awaiting Repair,No
+2024-07-17,NSP-9953,VideoRay Pro 5 ROV,TotalEnergies,Milaha Barge,"N4,012",194.16,2.74 BBL,Standby,No
+2024-06-11,NSP-1768,Cargo Basket,TotalEnergies,Escravos,Price Hidden,149.17,2.93 BBL,Deployed,No
+16/09/24,NSP-3793,Pipe Tracker,Indigenous Oil Co,Bonny Island,N569,184.17,171.2 L,Deployed,Yes
+,NSP-3015,VideoRay Pro 5 ROV,Chevron,Onne FOT,"N3,948",9.04,314.0 L,In Maintenance,No
+27/12/24,NSP-8902,Sub Sea ROV M8,ExxonMobil,Offshore Rig Alpha,"N2,623",84.52,0.58 BBL,In Maintenance,No
+2024-06-23,NSP-4967,Pipe Tracker,TotalEnergies,Offshore Rig Alpha,"N2,867",,259.1 L,Awaiting Repair,Yes
+,NSP-1889,Towing Winch,Chevron,Forcados Terminal,N732,247.65,110.9 L,Awaiting Repair,No
+,NSP-3949,Cargo Basket,Chevron,Escravos,Price Hidden,264.6,224.2 L,In Maintenance,No
+Mid-Year,NSP-9051,120kva Generator,Indigenous Oil Co,Offshore Rig Alpha,"N1,730",243.37,117.7 L,Standby,No
+15/01/25,NSP-9015,Towing Winch,Shell (SPDC),Bonny Island,"N4,391",185.0,70.1 L,Standby,No
+02/07/24,NSP-7539,Pipe Tracker,ExxonMobil,Escravos,$1.146k,188.07,0.66 BBL,Deployed,No
+08/05/24,NSP-9655,Sub Sea ROV M8,Chevron,Offshore Rig Alpha,$4.052k,146.87,208.1 L,Deployed,No
+2024-08-23,NSP-5350,Cargo Basket,Chevron,Bonny Island,"N2,192",,362.0 L,Standby,Yes
+06/09/24,NSP-6789,Air Compressor 800cfm,TotalEnergies,Escravos,"N1,255",194.43,0.98 BBL,In Maintenance,No
+2025-01-15,NSP-1007,Towing Winch,ExxonMobil,Milaha Barge,N796,230.35,145.0 L,Deployed,No
+2024-06-11,NSP-8416,120kva Generator,Chevron,Bonny Island,"N1,618",103.54,1.09 BBL,Deployed,No
+Mid-Year,NSP-5867,VideoRay Pro 4 ROV,Shell (SPDC),Forcados Terminal,Price Hidden,93.3,91.6 L,Awaiting Repair,No
+Mid-Year,NSP-7305,Rhino Boat,Indigenous Oil Co,Bonny Island,"N2,173",110.74,254.5 L,Deployed,No
+11/03/24,NSP-1011,VideoRay Pro 5 ROV,Shell (SPDC),Onne FOT,Price Hidden,89.96,434.8 L,Awaiting Repair,N/A
+Mid-Year,NSP-4083,Pipe Tracker,Indigenous Oil Co,Bonny Island,"N4,657",241.58,100.8 L,Deployed,No
+,NSP-7071,Sub Sea ROV M8,Shell (SPDC),Milaha Barge,"N1,999",137.68,228.5 L,Standby,No
+2024-01-16,NSP-6897,Offshore Trash Skip,Chevron,Forcados Terminal,$1.877k,139.84,299.8 L,Deployed,No
+,NSP-5853,Towing Winch,Indigenous Oil Co,Bonny Island,"N1,987",124.08,2.72 BBL,In Maintenance,No
+,NSP-7025,Pipe Tracker,TotalEnergies,Onne FOT,"N2,160",186.97,223.8 L,In Maintenance,Yes
+2024-12-11,NSP-6704,VideoRay Pro 5 ROV,ExxonMobil,Escravos,Price Hidden,119.64,199.0 L,Awaiting Repair,No
+21/04/24,NSP-8876,Air Compressor 800cfm,ExxonMobil,Offshore Rig Alpha,Price Hidden,131.72,323.9 L,Deployed,No
+2024-09-09,NSP-7334,120kva Generator,TotalEnergies,Escravos,"N2,160",175.21,3.01 BBL,Standby,No
+Mid-Year,NSP-5276,VideoRay Pro 5 ROV,TotalEnergies,Milaha Barge,"N1,134",178.62,231.0 L,Deployed,No
+2024-10-23,NSP-8058,Air Compressor 800cfm,ExxonMobil,Onne FOT,"N3,410",106.97,417.2 L,In Maintenance,N/A
+Mid-Year,NSP-6435,Sub Sea Sub-Unit M8,Shell (SPDC),Milaha Barge,Price Hidden,128.02,284.1 L,Deployed,Yes
+2024-08-05,NSP-6920,120kva Generator,Chevron,Forcados Terminal,"N3,275",120.23,2.25 BBL,Deployed,No
+11/12/24,NSP-1569,V-Ray Pro 4 Sub-Unit,Indigenous Oil Co,Offshore Rig Alpha,N818,110.57,359.9 L,In Maintenance,Yes
+Mid-Year,NSP-1120,VideoRay Pro 4 ROV,Indigenous Oil Co,Forcados Terminal,"N1,757",218.67,52.0 L,Awaiting Repair,Yes
+2024-10-14,NSP-8614,Sub Sea Sub-Unit M8,TotalEnergies,Bonny Island,$1.609k,62.77,147.3 L,Standby,N/A
+09/08/24,NSP-7711,Cargo Basket,TotalEnergies,Milaha Barge,"N3,507",103.92,326.2 L,Awaiting Repair,Yes
+Mid-Year,NSP-2207,Cargo Basket,Shell (SPDC),Onne FOT,"N3,463",94.22,2.15 BBL,Deployed,Yes
+Mid-Year,NSP-8252,Pipe Tracker,Chevron,Bonny Island,"N1,125",149.2,352.5 L,In Maintenance,No
+2024-03-28,NSP-1661,Sub Sea ROV M8,TotalEnergies,Escravos,"N3,227",149.14,0.99 BBL,Awaiting Repair,No
+Mid-Year,NSP-5570,Cargo Basket,Chevron,Bonny Island,$4.237k,129.9,184.4 L,Standby,No
+,NSP-2900,Rhino Boat,Chevron,Milaha Barge,$3.48k,144.59,328.8 L,Deployed,No
+,NSP-7702,VideoRay Pro 4 ROV,ExxonMobil,Milaha Barge,"N2,765",205.61,260.5 L,Awaiting Repair,No
+Last week,NSP-6592,Offshore Trash Skip,ExxonMobil,Offshore Rig Alpha,N755,188.78,287.5 L,Deployed,No
+13/12/24,NSP-7609,Towing Winch,TotalEnergies,Milaha Barge,Price Hidden,134.97,360.2 L,In Maintenance,No
+Mid-Year,NSP-6311,Rhino Boat,Indigenous Oil Co,Onne FOT,"N2,790",195.63,271.2 L,Awaiting Repair,Yes
+2024-05-14,NSP-8063,120kva Generator,Indigenous Oil Co,Forcados Terminal,"N2,118",171.09,315.4 L,In Maintenance,N/A
+2024-02-14,NSP-1726,Cargo Basket,TotalEnergies,Bonny Island,Price Hidden,153.05,251.8 L,In Maintenance,Yes
+,NSP-1588,Towing Winch,Shell (SPDC),Forcados Terminal,"N1,107",68.88,170.8 L,Standby,No
+2024-01-08,NSP-8211,Rhino Boat,Shell (SPDC),Offshore Rig Alpha,Price Hidden,95.05,143.1 L,In Maintenance,No
+2024-05-21,NSP-5183,VideoRay Pro 5 ROV,Shell (SPDC),Forcados Terminal,"N1,906",239.83,2.41 BBL,Standby,No
+2024-02-09,NSP-7927,120kva Generator,ExxonMobil,Bonny Island,"N3,246",195.45,0.58 BBL,Deployed,N/A
+02/04/24,NSP-6134,Cargo Basket,ExxonMobil,Forcados Terminal,"N3,565",,161.6 L,Standby,No
+,NSP-1258,Sub Sea Sub-Unit M8,ExxonMobil,Escravos,$4.159k,129.75,1.52 BBL,Standby,No
+2024-09-02,NSP-2193,120kva Generator,Indigenous Oil Co,Bonny Island,"N3,944",185.03,447.8 L,Awaiting Repair,No
+03/10/24,NSP-7676,Pipe Tracker,Indigenous Oil Co,Onne FOT,$2.872k,180.43,269.4 L,Standby,Yes
+2024-02-12,NSP-7629,Sub Sea ROV M8,TotalEnergies,Bonny Island,"N4,912",205.42,347.8 L,In Maintenance,No
+22/05/24,NSP-5329,Air Compressor 800cfm,ExxonMobil,Escravos,"N1,951",121.48,496.8 L,Standby,No
+,NSP-7875,Towing Winch,Shell (SPDC),Offshore Rig Alpha,"N4,391",140.63,455.0 L,In Maintenance,No
+02/01/24,NSP-1255,Pipe Tracker,Shell (SPDC),Onne FOT,"N2,233",124.69,395.8 L,Standby,Yes
+2024-10-16,NSP-1330,Towing Winch,Indigenous Oil Co,Onne FOT,Price Hidden,141.02,458.3 L,Deployed,No
+Mid-Year,NSP-7742,Cargo Basket,Indigenous Oil Co,Forcados Terminal,"N3,837",115.95,119.7 L,Deployed,No
+26/05/24,NSP-3611,Rhino Boat,ExxonMobil,Milaha Barge,Price Hidden,160.58,3.13 BBL,Awaiting Repair,No
+11/11/24,NSP-2417,Air Compressor 800cfm,TotalEnergies,Escravos,N745,145.57,414.0 L,Standby,No
+2024-10-06,NSP-3196,Sub Sea ROV M8,TotalEnergies,Bonny Island,"N3,004",127.31,91.0 L,Standby,N/A
+13/02/24,NSP-1948,VideoRay Pro 5 ROV,ExxonMobil,Escravos,N752,176.1,3.07 BBL,Awaiting Repair,N/A
+2024-06-14,NSP-6604,Air Compressor 800cfm,ExxonMobil,Forcados Terminal,$2.593k,143.94,1.86 BBL,Deployed,N/A
+2025-02-02,NSP-2018,120kva Generator,ExxonMobil,Milaha Barge,Price Hidden,118.19,2.18 BBL,In Maintenance,No
+Mid-Year,NSP-2626,Rhino Boat,TotalEnergies,Forcados Terminal,"N1,476",121.75,0.99 BBL,In Maintenance,No
+,NSP-2760,Sub Sea ROV M8,ExxonMobil,Bonny Island,"N3,546",149.42,2.45 BBL,Awaiting Repair,No
+,NSP-8963,Rhino Boat,Chevron,Onne FOT,$1.406k,201.53,254.4 L,Standby,Yes
+Mid-Year,NSP-6633,Pipe Tracker,ExxonMobil,Forcados Terminal,"N4,337",154.42,266.3 L,Awaiting Repair,No
+,NSP-4955,120kva Generator,Chevron,Escravos,"N4,185",132.34,58.8 L,In Maintenance,Yes
+2024-06-13,NSP-9776,Sub Sea ROV M8,ExxonMobil,Milaha Barge,"N3,618",44.51,106.9 L,In Maintenance,No
+2024-01-26,NSP-8013,Pipe Tracker,Chevron,Bonny Island,"N3,338",,350.7 L,Awaiting Repair,No
+,NSP-3180,V-Ray Pro 5 Sub-Unit,Shell (SPDC),Milaha Barge,"N3,664",104.2,2.45 BBL,Awaiting Repair,No
+,NSP-5335,Air Compressor 800cfm,TotalEnergies,Forcados Terminal,"N1,601",,391.7 L,Awaiting Repair,N/A
+,NSP-3365,Rhino Boat,Chevron,Forcados Terminal,"N2,877",210.93,77.7 L,Standby,No
+2024-11-28,NSP-1530,Rhino Boat,Chevron,Milaha Barge,"N2,340",156.1,0.34 BBL,In Maintenance,No
+28/05/24,NSP-5840,Sub Sea ROV M8,TotalEnergies,Milaha Barge,$1.536k,96.7,79.0 L,In Maintenance,No
+,NSP-2137,Sub Sea ROV M8,Indigenous Oil Co,Escravos,N502,147.42,2.34 BBL,In Maintenance,Yes
+Mid-Year,NSP-9933,Cargo Basket,ExxonMobil,Onne FOT,"N1,490",125.02,414.7 L,Standby,No
+,NSP-6718,VideoRay Pro 5 ROV,Indigenous Oil Co,Bonny Island,Price Hidden,146.94,194.9 L,Deployed,Yes
+Last week,NSP-5861,Offshore Trash Skip,Shell (SPDC),Onne FOT,"N2,414",,2.59 BBL,Deployed,No
+2024-08-28,NSP-2669,Pipe Tracker,Shell (SPDC),Offshore Rig Alpha,"N2,642",134.25,2.36 BBL,Awaiting Repair,Yes
+,NSP-4093,Air Compressor 800cfm,Indigenous Oil Co,Escravos,$1.703k,71.43,225.5 L,In Maintenance,No
+,NSP-6289,Cargo Basket,Indigenous Oil Co,Milaha Barge,"N4,035",103.38,398.1 L,In Maintenance,No
+Mid-Year,NSP-9093,Towing Winch,Indigenous Oil Co,Bonny Island,"N2,672",134.66,355.3 L,Deployed,No
+,NSP-3939,120kva Generator,TotalEnergies,Bonny Island,"N2,720",85.45,1.88 BBL,Awaiting Repair,No
+Mid-Year,NSP-2614,VideoRay Pro 4 ROV,ExxonMobil,Forcados Terminal,"N1,655",86.77,98.6 L,Deployed,No
+03/02/24,NSP-6688,VideoRay Pro 4 ROV,TotalEnergies,Onne FOT,"N1,004",152.82,179.0 L,Deployed,No
+05/07/24,NSP-3243,VideoRay Pro 4 ROV,Indigenous Oil Co,Milaha Barge,"N4,054",147.8,282.9 L,Awaiting Repair,No
+Mid-Year,NSP-3311,Towing Winch,Indigenous Oil Co,Offshore Rig Alpha,$2.341k,204.37,0.91 BBL,In Maintenance,No
+2024-06-20,NSP-9272,Pipe Tracker,Indigenous Oil Co,Milaha Barge,"N2,385",139.59,427.9 L,Awaiting Repair,No
+02/03/24,NSP-2164,Air Compressor 800cfm,ExxonMobil,Escravos,"N2,434",173.15,277.0 L,Deployed,No
+Mid-Year,NSP-3655,Sub Sea Sub-Unit M8,Indigenous Oil Co,Milaha Barge,"N3,942",184.33,142.0 L,Standby,No
+2024-11-09,NSP-4465,Sub Sea ROV M8,Indigenous Oil Co,Onne FOT,"N4,713",187.05,1.54 BBL,Awaiting Repair,No
+,NSP-6445,Air Compressor 800cfm,Indigenous Oil Co,Onne FOT,"N4,715",139.95,468.7 L,Deployed,No
+,NSP-8470,Air Compressor 800cfm,Chevron,Forcados Terminal,"N2,868",137.9,339.8 L,In Maintenance,No
+2024-06-15,NSP-7793,VideoRay Pro 4 ROV,ExxonMobil,Onne FOT,"N3,838",156.98,385.8 L,Standby,No
+,NSP-2469,VideoRay Pro 5 ROV,Shell (SPDC),Forcados Terminal,$2.749k,153.25,380.3 L,Deployed,No
+03/01/25,NSP-5370,V-Ray Pro 5 Sub-Unit,Shell (SPDC),Bonny Island,"N3,924",93.04,158.0 L,Standby,No
+Mid-Year,NSP-1910,Rhino Boat,TotalEnergies,Forcados Terminal,Price Hidden,180.71,329.8 L,Awaiting Repair,Yes
+Last week,NSP-4723,Towing Winch,ExxonMobil,Escravos,N708,144.22,429.4 L,In Maintenance,No
+Mid-Year,NSP-1949,Air Compressor 800cfm,Indigenous Oil Co,Milaha Barge,"N4,195",213.46,365.4 L,Deployed,No
+Mid-Year,NSP-5919,Pipe Tracker,ExxonMobil,Offshore Rig Alpha,"N2,147",188.56,289.7 L,Standby,N/A
+Mid-Year,NSP-7057,120kva Generator,TotalEnergies,Offshore Rig Alpha,"N1,230",116.35,467.6 L,Awaiting Repair,Yes
+Mid-Year,NSP-8956,Sub Sea ROV M8,Shell (SPDC),Escravos,"N1,381",146.53,270.1 L,Awaiting Repair,No
+Mid-Year,NSP-8630,Pipe Tracker,Shell (SPDC),Escravos,"N4,110",244.6,278.1 L,Standby,No
+,NSP-1356,Cargo Basket,Shell (SPDC),Milaha Barge,"N2,445",83.25,452.0 L,Deployed,No
+,NSP-5597,Rhino Boat,Shell (SPDC),Forcados Terminal,"N3,287",193.47,308.1 L,Deployed,Yes
+,NSP-1528,Offshore Trash Skp,TotalEnergies,Bonny Island,"N1,940",233.7,163.6 L,Awaiting Repair,No
+Mid-Year,NSP-4925,VideoRay Pro 4 ROV,Chevron,Forcados Terminal,"N1,192",151.74,1.32 BBL,In Maintenance,No
+2024-04-27,NSP-5996,120kva Generator,Indigenous Oil Co,Bonny Island,"N3,877",201.9,372.4 L,Deployed,No
+10/03/24,NSP-2152,Offshore Trash Skip,Shell (SPDC),Forcados Terminal,"N2,990",,499.3 L,In Maintenance,No
+Mid-Year,NSP-8078,Cargo Basket,TotalEnergies,Onne FOT,Price Hidden,176.58,434.5 L,In Maintenance,No
+,NSP-2902,Pipe Tracker,Indigenous Oil Co,Bonny Island,"N1,589",172.83,2.52 BBL,Awaiting Repair,No
+Mid-Year,NSP-2777,Pipe Tracker,Indigenous Oil Co,Forcados Terminal,$2.391k,124.77,415.7 L,In Maintenance,N/A
+2024-03-27,NSP-4842,Rhino Boat,TotalEnergies,Escravos,N748,156.39,286.9 L,Awaiting Repair,Yes
+2024-05-17,NSP-7412,120kva Generator,TotalEnergies,Milaha Barge,Price Hidden,,187.4 L,Awaiting Repair,Yes
+2024-05-13,NSP-2849,Air Compressor 800cfm,ExxonMobil,Milaha Barge,"N1,394",,499.4 L,Deployed,No
+2024-02-26,NSP-7324,120kva Generator,ExxonMobil,Onne FOT,"N2,889",119.16,70.1 L,Awaiting Repair,No
+01/08/24,NSP-8641,Rhino Boat,Indigenous Oil Co,Bonny Island,"N3,631",82.6,3.12 BBL,Deployed,No
+,NSP-4791,VideoRay Pro 4 ROV,TotalEnergies,Onne FOT,"N3,896",245.93,143.1 L,Deployed,No
+Mid-Year,NSP-6415,Pipe Tracker,ExxonMobil,Bonny Island,$1.789k,132.34,0.55 BBL,Awaiting Repair,No
+27/10/24,NSP-9078,Sub Sea ROV M8,Chevron,Onne FOT,"N3,166",236.28,468.1 L,In Maintenance,No
+Mid-Year,NSP-3675,VideoRay Pro 5 ROV,Chevron,Forcados Terminal,"N2,756",156.09,1.10 BBL,Awaiting Repair,N/A
+31/03/24,NSP-9968,Sub Sea ROV M8,TotalEnergies,Forcados Terminal,Price Hidden,200.8,248.4 L,Standby,No
+,NSP-7618,V-Ray Pro 5 Sub-Unit,Chevron,Milaha Barge,"N3,786",129.83,94.1 L,In Maintenance,N/A
+2024-01-05,NSP-2497,V-Ray Pro 4 Sub-Unit,ExxonMobil,Onne FOT,"N4,189",167.11,203.1 L,Standby,No
+Mid-Year,NSP-3233,Air Compressor 800cfm,Indigenous Oil Co,Offshore Rig Alpha,"N1,183",245.86,2.42 BBL,Standby,Yes
+2024-07-31,NSP-1236,VideoRay Pro 5 ROV,Chevron,Forcados Terminal,$2.095k,208.83,107.5 L,In Maintenance,Yes
+2024-04-16,NSP-1633,Towing Winch,Chevron,Onne FOT,"N3,440",120.81,2.66 BBL,Deployed,No
+Last week,NSP-7116,VideoRay Pro 4 ROV,TotalEnergies,Escravos,N561,142.94,261.9 L,Standby,No
+Mid-Year,NSP-4330,Offshore Trash Skip,Indigenous Oil Co,Milaha Barge,N563,188.67,1.12 BBL,Standby,No
+,NSP-5589,VideoRay Pro 4 ROV,Chevron,Forcados Terminal,$1.461k,204.87,1.98 BBL,Awaiting Repair,No
+2024-08-21,NSP-5592,Air Compressor 800cfm,Chevron,Forcados Terminal,"N2,357",183.47,211.6 L,Awaiting Repair,No
+11/11/24,NSP-6681,Pipe Tracker,Indigenous Oil Co,Onne FOT,"N1,094",221.78,80.9 L,Awaiting Repair,No
+,NSP-2218,Pipe Tracker,Indigenous Oil Co,Milaha Barge,"N3,525",,1.09 BBL,In Maintenance,No
+Mid-Year,NSP-8253,Rhino Boat,ExxonMobil,Onne FOT,"N2,342",116.35,410.0 L,In Maintenance,No
+01/03/24,NSP-4427,VideoRay Pro 5 ROV,Shell (SPDC),Escravos,"N1,139",183.14,0.92 BBL,Awaiting Repair,No
+11/10/24,NSP-1747,VideoRay Pro 5 ROV,Indigenous Oil Co,Offshore Rig Alpha,$2.145k,254.9,1.61 BBL,Standby,No
+Mid-Year,NSP-4774,Sub Sea ROV M8,Chevron,Offshore Rig Alpha,"N4,721",226.22,283.0 L,In Maintenance,No
+2024-07-23,NSP-3056,Air Compressor 800cfm,Shell (SPDC),Forcados Terminal,"N1,399",163.27,0.54 BBL,Deployed,Yes
+,NSP-3631,Air Compressor 800cfm,Chevron,Onne FOT,"N4,405",,2.45 BBL,Standby,No
+Mid-Year,NSP-8276,Rhino Boat,Shell (SPDC),Bonny Island,"N1,938",145.6,2.88 BBL,In Maintenance,No
+Mid-Year,NSP-7459,Rhino Boat,Shell (SPDC),Bonny Island,"N3,564",,169.0 L,Deployed,No
+2024-06-12,NSP-2080,Towing Winch,ExxonMobil,Offshore Rig Alpha,"N1,143",61.87,1.99 BBL,In Maintenance,No
+,NSP-5052,Cargo Basket,TotalEnergies,Forcados Terminal,$4.287k,118.03,341.9 L,Awaiting Repair,No
+2024-06-20,NSP-1500,VideoRay Pro 4 ROV,ExxonMobil,Bonny Island,"N2,114",191.05,436.5 L,Deployed,No
+,NSP-8758,Air Compressor 800cfm,Indigenous Oil Co,Offshore Rig Alpha,$3.557k,104.42,381.2 L,In Maintenance,No
+Mid-Year,NSP-4404,120kva Generator,Indigenous Oil Co,Escravos,"N2,028",,1.53 BBL,Awaiting Repair,No
+Mid-Year,NSP-7177,120kva Generator,Indigenous Oil Co,Escravos,$0.714k,198.12,299.7 L,Awaiting Repair,No
+,NSP-4976,Air Compressor 800cfm,Chevron,Bonny Island,Price Hidden,179.95,95.1 L,Deployed,Yes
+2024-06-12,NSP-6715,Pipe Tracker,Shell (SPDC),Offshore Rig Alpha,"N4,717",192.67,0.32 BBL,Awaiting Repair,No
+05/09/24,NSP-4257,VideoRay Pro 5 ROV,TotalEnergies,Escravos,Price Hidden,65.96,322.2 L,Awaiting Repair,No
+2024-04-20,NSP-8897,Towing Winch,Shell (SPDC),Forcados Terminal,"N3,991",125.01,51.4 L,Awaiting Repair,No
+14/02/24,NSP-6298,VideoRay Pro 4 ROV,Chevron,Bonny Island,"N2,816",89.7,248.1 L,In Maintenance,Yes
+Mid-Year,NSP-9983,Cargo Basket,ExxonMobil,Bonny Island,"N2,442",105.7,306.8 L,Deployed,No
+12/11/24,NSP-3846,Sub Sea ROV M8,TotalEnergies,Bonny Island,"N4,285",145.55,268.4 L,Awaiting Repair,No
+13/12/24,NSP-3466,Air Compressor 800cfm,Shell (SPDC),Milaha Barge,"N2,211",115.56,1.23 BBL,Standby,No
+2025-01-14,NSP-6278,V-Ray Pro 4 Sub-Unit,Shell (SPDC),Offshore Rig Alpha,"N3,372",75.61,323.3 L,Deployed,No
+,NSP-1020,Towing Winch,Chevron,Milaha Barge,"N3,873",,0.33 BBL,Standby,Yes
+,NSP-9772,Rhino Boat,Shell (SPDC),Bonny Island,"N3,058",82.77,277.1 L,In Maintenance,No
+2024-10-20,NSP-1306,V-Ray Pro 4 Sub-Unit,ExxonMobil,Onne FOT,N845,167.92,1.36 BBL,Awaiting Repair,No
+2024-06-27,NSP-8340,Air Compressor 800cfm,Indigenous Oil Co,Offshore Rig Alpha,"N3,861",236.81,323.8 L,Awaiting Repair,No
+Mid-Year,NSP-7786,Air Compressor 800cfm,Shell (SPDC),Milaha Barge,$0.809k,164.07,285.4 L,In Maintenance,Yes
+Mid-Year,NSP-1287,Rhino Boat,ExxonMobil,Bonny Island,Price Hidden,119.52,342.6 L,Deployed,N/A
+2024-06-28,NSP-2725,Cargo Basket,ExxonMobil,Offshore Rig Alpha,"N4,068",158.23,327.9 L,Standby,No
+Mid-Year,NSP-9645,Pipe Tracker,TotalEnergies,Forcados Terminal,Price Hidden,,0.80 BBL,Awaiting Repair,Yes
+2024-01-02,NSP-8195,Air Compressor 800cfm,Chevron,Onne FOT,$0.862k,244.46,431.1 L,Standby,No
+2024-09-16,NSP-6051,Rhino Boat,Chevron,Escravos,Price Hidden,190.0,331.2 L,Awaiting Repair,No
+2024-07-14,NSP-8055,VideoRay Pro 5 ROV,TotalEnergies,Onne FOT,Price Hidden,147.11,1.49 BBL,Deployed,No
+2024-11-03,NSP-7911,Air Compressor 800cfm,TotalEnergies,Onne FOT,Price Hidden,103.92,443.2 L,Deployed,No
+Mid-Year,NSP-7182,Pipe Tracker,ExxonMobil,Escravos,"N2,329",234.26,224.6 L,Standby,Yes
+Mid-Year,NSP-4606,Towing Winch,TotalEnergies,Milaha Barge,N867,145.97,493.6 L,Standby,No
+,NSP-2459,Pipe Tracker,Shell (SPDC),Offshore Rig Alpha,N952,107.33,377.8 L,Standby,Yes
+17/11/24,NSP-2908,Air Compressor 800cfm,Indigenous Oil Co,Milaha Barge,$3.288k,98.6,443.8 L,Deployed,No
+,NSP-5860,Offshore Trash Skip,Chevron,Onne FOT,N792,100.65,3.06 BBL,Deployed,No
+2024-04-15,NSP-7858,Offshore Trash Skip,TotalEnergies,Onne FOT,"N4,492",,314.5 L,Awaiting Repair,No
+2024-01-16,NSP-5537,VideoRay Pro 4 ROV,Indigenous Oil Co,Onne FOT,"N3,807",142.63,253.1 L,Standby,Yes
+2024-04-25,NSP-8190,Cargo Basket,ExxonMobil,Offshore Rig Alpha,N847,231.34,496.1 L,In Maintenance,Yes
+Mid-Year,NSP-1405,120kva Generator,TotalEnergies,Escravos,"N1,522",135.57,443.3 L,In Maintenance,N/A
+2024-11-17,NSP-3613,Towing Winch,Indigenous Oil Co,Onne FOT,"N4,946",164.06,150.6 L,In Maintenance,N/A
+23/12/24,NSP-3333,Air Compressor 800cfm,Chevron,Escravos,N692,241.63,370.4 L,Standby,Yes
+07/10/24,NSP-8511,120kva Generator,Chevron,Offshore Rig Alpha,"N3,914",94.56,457.3 L,Standby,No
+2024-03-08,NSP-7565,Air Compressor 800cfm,ExxonMobil,Offshore Rig Alpha,"N3,739",160.17,343.7 L,In Maintenance,No
+Mid-Year,NSP-7414,Rhino Boat,ExxonMobil,Escravos,"N3,965",230.0,457.0 L,Standby,No
+14/01/24,NSP-1014,Offshore Trash Skip,TotalEnergies,Offshore Rig Alpha,$4.991k,226.42,245.5 L,Deployed,N/A
+,NSP-8904,Air Compressor 800cfm,ExxonMobil,Onne FOT,Price Hidden,151.83,276.2 L,Awaiting Repair,No
+28/08/24,NSP-2216,VideoRay Pro 5 ROV,ExxonMobil,Bonny Island,$1.097k,234.3,303.3 L,Awaiting Repair,Yes
+14/02/24,NSP-5595,Cargo Basket,TotalEnergies,Escravos,"N1,431",258.36,401.4 L,Standby,Yes
+,NSP-5899,Offshore Trash Skip,Indigenous Oil Co,Milaha Barge,N835,94.47,1.34 BBL,In Maintenance,No
+18/09/24,NSP-5917,Rhino Boat,Indigenous Oil Co,Offshore Rig Alpha,"N2,318",181.77,1.13 BBL,Deployed,Yes
+2024-07-09,NSP-9722,Sub Sea ROV M8,Chevron,Offshore Rig Alpha,"N3,738",131.97,0.82 BBL,In Maintenance,No
+,NSP-6725,Towing Winch,Shell (SPDC),Escravos,$3.945k,85.7,2.49 BBL,Awaiting Repair,Yes
+,NSP-3303,Cargo Basket,Chevron,Forcados Terminal,$3.869k,112.59,369.9 L,In Maintenance,No
+28/02/24,NSP-6118,VideoRay Pro 4 ROV,Shell (SPDC),Milaha Barge,Price Hidden,188.67,2.12 BBL,Deployed,No
+Mid-Year,NSP-7693,Air Compressor 800cfm,ExxonMobil,Escravos,"N2,556",197.03,290.4 L,Deployed,No
+Mid-Year,NSP-6285,Sub Sea ROV M8,ExxonMobil,Escravos,"N3,609",78.79,90.6 L,Awaiting Repair,No
+2024-07-19,NSP-6949,Cargo Basket,TotalEnergies,Escravos,"N1,416",245.58,245.9 L,Standby,Yes
+27/01/24,NSP-4322,V-Ray Pro 5 Sub-Unit,Chevron,Bonny Island,"N1,746",189.4,467.8 L,Deployed,No
+,NSP-5907,120kva Generator,Shell (SPDC),Forcados Terminal,"N3,732",,355.0 L,In Maintenance,No
+18/08/24,NSP-4619,120kva Generator,Indigenous Oil Co,Milaha Barge,"N2,904",171.44,2.04 BBL,In Maintenance,N/A
+2024-07-11,NSP-4090,VideoRay Pro 5 ROV,TotalEnergies,Onne FOT,"N4,181",,187.9 L,Deployed,No
+,NSP-2286,Towing Winch,Chevron,Onne FOT,"N2,071",138.57,1.94 BBL,Awaiting Repair,No
+,NSP-9296,VideoRay Pro 5 ROV,TotalEnergies,Onne FOT,"N2,978",149.94,213.8 L,Awaiting Repair,No
+16/11/24,NSP-5329,VideoRay Pro 4 ROV,Chevron,Forcados Terminal,Price Hidden,161.69,470.6 L,In Maintenance,No
+12/01/25,NSP-9789,VideoRay Pro 4 ROV,Shell (SPDC),Escravos,"N3,317",208.25,1.05 BBL,Awaiting Repair,No
+Mid-Year,NSP-3800,Rhino Boat,Shell (SPDC),Offshore Rig Alpha,"N1,350",,1.31 BBL,In Maintenance,No
+2024-04-22,NSP-4807,VideoRay Pro 5 ROV,ExxonMobil,Bonny Island,$2.351k,177.77,447.2 L,In Maintenance,No
+05/02/24,NSP-7118,Pipe Tracker,TotalEnergies,Onne FOT,$2.234k,125.23,92.3 L,In Maintenance,Yes
+10/12/24,NSP-4260,Rhino Boat,ExxonMobil,Milaha Barge,Price Hidden,197.47,2.24 BBL,In Maintenance,No
+2024-10-16,NSP-4722,Rhino Boat,ExxonMobil,Escravos,"N4,884",171.81,1.35 BBL,Deployed,Yes
+Mid-Year,NSP-3808,Offshore Trash Skp,Chevron,Milaha Barge,$2.299k,,2.67 BBL,In Maintenance,No
+12/10/24,NSP-1548,Sub Sea ROV M8,Shell (SPDC),Offshore Rig Alpha,Price Hidden,231.56,407.9 L,In Maintenance,No
+2024-08-11,NSP-4371,120kva Generator,Chevron,Offshore Rig Alpha,"N1,298",,185.4 L,Standby,No
+2024-05-10,NSP-4712,Towing Winch,Indigenous Oil Co,Milaha Barge,Price Hidden,103.63,202.5 L,Deployed,No
+Mid-Year,NSP-6643,Sub Sea Sub-Unit M8,TotalEnergies,Bonny Island,Price Hidden,214.42,3.11 BBL,Awaiting Repair,No
+,NSP-3835,Sub Sea ROV M8,Chevron,Milaha Barge,$0.78k,181.93,2.30 BBL,Awaiting Repair,Yes
+20/01/24,NSP-3852,Towing Winch,Indigenous Oil Co,Milaha Barge,$0.558k,234.88,0.88 BBL,In Maintenance,No
+Mid-Year,NSP-7278,Air Compressor 800cfm,Chevron,Milaha Barge,$0.935k,155.41,0.59 BBL,In Maintenance,N/A
+13/10/24,NSP-2301,Towing Winch,Chevron,Onne FOT,"N3,291",221.28,393.6 L,Awaiting Repair,Yes
+17/01/24,NSP-3628,Towing Winch,Indigenous Oil Co,Escravos,N928,237.8,495.6 L,Standby,No
+,NSP-6856,Pipe Tracker,Chevron,Forcados Terminal,"N4,566",139.24,2.28 BBL,In Maintenance,No
+06/06/24,NSP-4030,Pipe Tracker,ExxonMobil,Bonny Island,Price Hidden,129.61,281.5 L,Awaiting Repair,No
+2024-01-05,NSP-8282,Air Compressor 800cfm,ExxonMobil,Bonny Island,$4.952k,134.44,2.60 BBL,In Maintenance,Yes
+08/09/24,NSP-6587,VideoRay Pro 5 ROV,TotalEnergies,Escravos,$3.653k,104.49,2.59 BBL,Awaiting Repair,No
+07/01/24,NSP-5784,Sub Sea ROV M8,Chevron,Escravos,Price Hidden,140.1,347.8 L,Standby,Yes
+Mid-Year,NSP-8443,Towing Winch,Chevron,Escravos,"N4,492",230.85,433.8 L,In Maintenance,No
+14/10/24,NSP-7563,VideoRay Pro 5 ROV,Chevron,Milaha Barge,"N3,242",111.48,1.48 BBL,In Maintenance,No
+29/11/24,NSP-5722,Offshore Trash Skip,TotalEnergies,Onne FOT,"N2,172",231.44,108.8 L,Standby,No
+Mid-Year,NSP-3686,Rhino Boat,TotalEnergies,Milaha Barge,"N4,354",107.21,462.9 L,Standby,No
+Last week,NSP-6631,VideoRay Pro 5 ROV,Chevron,Forcados Terminal,"N2,183",112.32,1.79 BBL,Standby,No
+Mid-Year,NSP-8814,Offshore Trash Skip,TotalEnergies,Bonny Island,Price Hidden,32.87,1.63 BBL,Standby,Yes
+2024-07-29,NSP-7655,Cargo Basket,Indigenous Oil Co,Onne FOT,$4.489k,,485.8 L,In Maintenance,No
+,NSP-5089,Sub Sea ROV M8,Chevron,Offshore Rig Alpha,$2.882k,261.9,292.7 L,Awaiting Repair,No
+05/01/24,NSP-5833,Rhino Boat,ExxonMobil,Milaha Barge,$3.13k,155.9,170.5 L,Awaiting Repair,No
+17/07/24,NSP-9722,Pipe Tracker,ExxonMobil,Onne FOT,"N3,233",45.02,261.6 L,Deployed,No
+2024-07-22,NSP-1578,Pipe Tracker,TotalEnergies,Escravos,"N4,555",180.95,213.0 L,Awaiting Repair,No
+,NSP-6228,Cargo Basket,Indigenous Oil Co,Bonny Island,"N1,464",131.22,231.5 L,Deployed,No
+2024-11-02,NSP-6125,Pipe Tracker,ExxonMobil,Forcados Terminal,"N2,425",19.56,384.1 L,In Maintenance,No
+,NSP-3069,Cargo Basket,Shell (SPDC),Forcados Terminal,Price Hidden,162.17,0.73 BBL,Awaiting Repair,No
+Last week,NSP-7827,VideoRay Pro 5 ROV,TotalEnergies,Milaha Barge,"N4,563",176.03,163.5 L,Awaiting Repair,No
+Mid-Year,NSP-3291,VideoRay Pro 4 ROV,Indigenous Oil Co,Escravos,$1.986k,98.75,474.6 L,In Maintenance,No
+Mid-Year,NSP-3493,Pipe Tracker,ExxonMobil,Bonny Island,"N1,960",93.35,463.5 L,Deployed,No
+Mid-Year,NSP-1429,Offshore Trash Skip,Indigenous Oil Co,Offshore Rig Alpha,"N1,784",112.4,225.3 L,Standby,No
+Mid-Year,NSP-6378,120kva Generator,Shell (SPDC),Forcados Terminal,Price Hidden,125.03,350.6 L,In Maintenance,Yes
+08/12/24,NSP-9368,Rhino Boat,Shell (SPDC),Forcados Terminal,"N1,965",183.45,248.1 L,Standby,No
+Mid-Year,NSP-1252,Sub Sea ROV M8,TotalEnergies,Forcados Terminal,N713,173.17,1.52 BBL,Deployed,No
+15/02/24,NSP-3975,120kva Generator,TotalEnergies,Onne FOT,"N4,578",,455.3 L,Awaiting Repair,No
+,NSP-7598,VideoRay Pro 4 ROV,TotalEnergies,Forcados Terminal,"N3,394",205.07,289.8 L,Deployed,No
+,NSP-2593,Pipe Tracker,ExxonMobil,Milaha Barge,$4.193k,78.95,2.11 BBL,In Maintenance,No
+Last week,NSP-5127,120kva Generator,ExxonMobil,Milaha Barge,"N3,637",95.61,146.3 L,Awaiting Repair,Yes
+10/07/24,NSP-3063,Offshore Trash Skip,Chevron,Escravos,$2.084k,,98.7 L,Awaiting Repair,No
+2024-02-04,NSP-8845,Offshore Trash Skip,TotalEnergies,Onne FOT,"N1,576",195.99,2.48 BBL,In Maintenance,No
+2025-01-22,NSP-9523,VideoRay Pro 4 ROV,ExxonMobil,Escravos,"N2,381",220.16,231.6 L,Awaiting Repair,No
+Mid-Year,NSP-1233,Towing Winch,Chevron,Bonny Island,"N2,340",165.68,1.22 BBL,Standby,Yes
+Mid-Year,NSP-3779,Pipe Tracker,ExxonMobil,Bonny Island,"N1,684",129.28,148.5 L,Deployed,Yes
+2024-06-11,NSP-1914,Offshore Trash Skip,Indigenous Oil Co,Bonny Island,"N4,341",83.18,246.3 L,In Maintenance,No
+09/09/24,NSP-1455,120kva Generator,Chevron,Onne FOT,N898,96.23,447.4 L,In Maintenance,Yes
+2024-05-22,NSP-7042,Cargo Basket,Shell (SPDC),Escravos,N753,,420.2 L,Standby,No
+Mid-Year,NSP-8418,Sub Sea ROV M8,ExxonMobil,Forcados Terminal,"N4,385",,317.5 L,Deployed,No
+,NSP-6153,Towing Winch,TotalEnergies,Onne FOT,"N2,148",188.7,2.54 BBL,In Maintenance,No
+2025-01-21,NSP-8411,Air Compressor 800cfm,ExxonMobil,Bonny Island,"N2,358",149.63,174.9 L,Awaiting Repair,No
+2024-08-13,NSP-8599,VideoRay Pro 4 ROV,TotalEnergies,Milaha Barge,"N4,275",144.89,2.26 BBL,Awaiting Repair,No
+2024-09-09,NSP-7474,Cargo Basket,ExxonMobil,Escravos,N655,151.88,225.1 L,In Maintenance,No
+28/01/25,NSP-2425,Offshore Trash Skip,Indigenous Oil Co,Onne FOT,"N4,392",130.95,484.3 L,Deployed,No
+Mid-Year,NSP-2718,Offshore Trash Skip,Chevron,Milaha Barge,"N3,273",165.67,202.8 L,In Maintenance,No
+31/08/24,NSP-4888,Pipe Tracker,Shell (SPDC),Bonny Island,N784,226.62,427.3 L,In Maintenance,Yes
+2024-01-08,NSP-7947,VideoRay Pro 5 ROV,Chevron,Milaha Barge,"N1,257",171.03,384.6 L,Standby,No
+06/01/25,NSP-9830,Towing Winch,Indigenous Oil Co,Bonny Island,"N1,805",191.66,323.1 L,Awaiting Repair,No
+2024-05-28,NSP-4854,Towing Winch,Indigenous Oil Co,Offshore Rig Alpha,Price Hidden,179.91,204.7 L,In Maintenance,No
+,NSP-4234,Pipe Tracker,Chevron,Bonny Island,"N1,936",147.89,452.5 L,In Maintenance,Yes
+Mid-Year,NSP-6360,Rhino Boat,Indigenous Oil Co,Onne FOT,"N1,888",151.68,2.46 BBL,Standby,Yes
+2024-10-09,NSP-2239,Offshore Trash Skip,Chevron,Onne FOT,$1.298k,139.2,3.06 BBL,Standby,Yes
+Mid-Year,NSP-4535,Cargo Basket,TotalEnergies,Offshore Rig Alpha,"N4,554",166.7,1.97 BBL,Deployed,Yes
+,NSP-7473,Cargo Basket,TotalEnergies,Offshore Rig Alpha,"N4,627",146.61,2.23 BBL,Deployed,Yes
+2025-01-20,NSP-5923,Offshore Trash Skip,TotalEnergies,Milaha Barge,"N4,880",136.22,184.5 L,Deployed,No
+14/01/25,NSP-8804,120kva Generator,Chevron,Milaha Barge,"N4,852",89.44,310.4 L,In Maintenance,Yes
+,NSP-1783,Sub Sea ROV M8,Indigenous Oil Co,Bonny Island,$0.857k,134.49,2.16 BBL,Awaiting Repair,N/A
+Mid-Year,NSP-9699,Air Compressor 800cfm,ExxonMobil,Milaha Barge,"N1,542",101.04,116.8 L,Awaiting Repair,No
+07/04/24,NSP-2987,Offshore Trash Skp,ExxonMobil,Milaha Barge,"N3,329",149.44,2.16 BBL,In Maintenance,No
+,NSP-2139,Cargo Basket,Indigenous Oil Co,Onne FOT,$2.216k,103.34,263.9 L,Awaiting Repair,N/A
+2024-07-29,NSP-1304,VideoRay Pro 4 ROV,ExxonMobil,Bonny Island,"N2,471",,0.44 BBL,Deployed,No
+2024-09-01,NSP-2074,VideoRay Pro 4 ROV,Shell (SPDC),Escravos,"N3,395",151.01,100.3 L,Deployed,No
+Mid-Year,NSP-4956,VideoRay Pro 4 ROV,Chevron,Offshore Rig Alpha,$1.347k,194.59,494.1 L,Awaiting Repair,No
+2024-01-13,NSP-5848,VideoRay Pro 4 ROV,Shell (SPDC),Bonny Island,Price Hidden,195.7,152.8 L,In Maintenance,No
+Mid-Year,NSP-6805,VideoRay Pro 4 ROV,Indigenous Oil Co,Bonny Island,N605,194.32,1.14 BBL,In Maintenance,Yes
+Mid-Year,NSP-7356,Rhino Boat,ExxonMobil,Bonny Island,"N2,919",130.15,2.63 BBL,Deployed,N/A
+Mid-Year,NSP-8846,Offshore Trash Skip,Chevron,Offshore Rig Alpha,N682,227.22,2.96 BBL,In Maintenance,No
+Mid-Year,NSP-6203,Cargo Basket,TotalEnergies,Offshore Rig Alpha,Price Hidden,196.45,3.09 BBL,In Maintenance,N/A
+Mid-Year,NSP-1256,Cargo Basket,Shell (SPDC),Milaha Barge,N512,161.25,172.9 L,In Maintenance,No
+,NSP-1442,Rhino Boat,Shell (SPDC),Onne FOT,"N1,808",148.54,331.0 L,Standby,No
+,NSP-9067,Cargo Basket,Shell (SPDC),Offshore Rig Alpha,Price Hidden,156.97,0.63 BBL,In Maintenance,No
+,NSP-2769,Pipe Tracker,TotalEnergies,Escravos,"N4,220",,488.7 L,Standby,No
+Mid-Year,NSP-9420,Sub Sea Sub-Unit M8,ExxonMobil,Milaha Barge,"N3,536",168.33,461.7 L,In Maintenance,No
+2024-03-27,NSP-1518,Towing Winch,Indigenous Oil Co,Offshore Rig Alpha,"N2,769",70.64,1.92 BBL,Standby,Yes
+21/12/24,NSP-9083,Cargo Basket,Shell (SPDC),Escravos,Price Hidden,139.63,157.8 L,Deployed,No
+2024-04-13,NSP-2089,120kva Generator,ExxonMobil,Escravos,$2.974k,164.61,479.3 L,Deployed,No
+2024-03-27,NSP-3928,Offshore Trash Skip,Chevron,Milaha Barge,"N1,736",164.01,166.0 L,Standby,No
+Mid-Year,NSP-2269,VideoRay Pro 4 ROV,Indigenous Oil Co,Forcados Terminal,$0.697k,178.24,96.5 L,Awaiting Repair,N/A
+2024-09-15,NSP-1774,Towing Winch,Chevron,Offshore Rig Alpha,$2.551k,203.09,368.5 L,In Maintenance,No
+,NSP-4857,Air Compressor 800cfm,Shell (SPDC),Onne FOT,$0.876k,222.88,467.4 L,Standby,No
+2024-04-16,NSP-3555,Cargo Basket,Chevron,Escravos,"N4,889",156.46,488.4 L,In Maintenance,No
+2024-06-07,NSP-5301,Rhino Boat,TotalEnergies,Offshore Rig Alpha,"N1,503",119.96,256.1 L,Awaiting Repair,No
+,NSP-7966,Pipe Tracker,TotalEnergies,Bonny Island,$0.872k,121.15,454.6 L,Deployed,No
+14/06/24,NSP-5945,Cargo Basket,Indigenous Oil Co,Offshore Rig Alpha,"N2,966",143.95,489.8 L,Standby,No
+Mid-Year,NSP-4344,Air Compressor 800cfm,Chevron,Milaha Barge,"N2,123",186.36,64.6 L,Standby,No
+2024-06-09,NSP-8203,Sub Sea ROV M8,Chevron,Forcados Terminal,"N2,521",167.53,129.7 L,In Maintenance,No
+13/09/24,NSP-9291,Rhino Boat,Shell (SPDC),Milaha Barge,N943,202.52,485.7 L,Deployed,No
+Mid-Year,NSP-8250,Cargo Basket,Indigenous Oil Co,Offshore Rig Alpha,"N3,694",132.94,1.78 BBL,In Maintenance,No
+03/07/24,NSP-8017,V-Ray Pro 5 Sub-Unit,Chevron,Bonny Island,"N2,158",,412.0 L,In Maintenance,No
+2024-05-10,NSP-7337,Towing Winch,Chevron,Offshore Rig Alpha,"N2,724",114.71,82.8 L,In Maintenance,No
+2025-01-04,NSP-1037,Air Compressor 800cfm,Shell (SPDC),Milaha Barge,N560,,1.58 BBL,Standby,No
+Mid-Year,NSP-4190,Air Compressor 800cfm,ExxonMobil,Onne FOT,"N4,978",,371.4 L,Standby,N/A
+03/07/24,NSP-8914,120kva Generator,Shell (SPDC),Forcados Terminal,"N4,287",213.44,265.8 L,Deployed,No
+,NSP-9201,V-Ray Pro 4 Sub-Unit,Indigenous Oil Co,Offshore Rig Alpha,"N1,909",101.18,284.7 L,In Maintenance,Yes
+01/01/24,NSP-3951,Towing Winch,ExxonMobil,Onne FOT,$1.09k,195.3,403.1 L,Awaiting Repair,No
+,NSP-9675,Towing Winch,Shell (SPDC),Onne FOT,"N1,868",165.75,3.12 BBL,Awaiting Repair,No
+07/11/24,NSP-8837,V-Ray Pro 4 Sub-Unit,Shell (SPDC),Offshore Rig Alpha,$2.932k,160.75,145.7 L,In Maintenance,No
+Mid-Year,NSP-6397,Air Compressor 800cfm,Chevron,Milaha Barge,Price Hidden,,213.5 L,Deployed,N/A
+Mid-Year,NSP-4490,120kva Generator,ExxonMobil,Bonny Island,"N4,244",213.71,2.14 BBL,In Maintenance,N/A
+,NSP-9464,Cargo Basket,TotalEnergies,Milaha Barge,$4.193k,158.18,165.4 L,Standby,Yes
+2024-12-09,NSP-1040,Rhino Boat,ExxonMobil,Forcados Terminal,N913,148.5,173.3 L,Deployed,Yes
+04/10/24,NSP-9967,Air Compressor 800cfm,Indigenous Oil Co,Milaha Barge,"N2,065",148.68,458.1 L,In Maintenance,No
+,NSP-9107,Offshore Trash Skip,Shell (SPDC),Escravos,"N3,914",143.62,493.5 L,Awaiting Repair,No
+Mid-Year,NSP-4291,VideoRay Pro 5 ROV,Indigenous Oil Co,Onne FOT,"N1,344",213.48,2.61 BBL,Awaiting Repair,Yes
+Mid-Year,NSP-8389,VideoRay Pro 4 ROV,TotalEnergies,Onne FOT,"N1,042",87.74,115.4 L,Awaiting Repair,No
+2024-05-06,NSP-2213,Rhino Boat,ExxonMobil,Escravos,"N3,412",67.84,460.3 L,In Maintenance,No
+Mid-Year,NSP-5755,Air Compressor 800cfm,Shell (SPDC),Milaha Barge,"N2,946",84.65,390.1 L,Standby,N/A
+,NSP-8630,Towing Winch,ExxonMobil,Escravos,"N3,760",248.81,186.7 L,Standby,No
+Mid-Year,NSP-1751,Sub Sea Sub-Unit M8,Shell (SPDC),Onne FOT,"N3,910",264.82,0.72 BBL,In Maintenance,No
+2024-02-26,NSP-2649,Sub Sea ROV M8,Indigenous Oil Co,Bonny Island,"N2,483",265.28,340.7 L,Deployed,No
+Mid-Year,NSP-4368,Rhino Boat,Chevron,Bonny Island,"N3,449",99.22,119.2 L,Deployed,No
+Mid-Year,NSP-1061,Rhino Boat,Chevron,Offshore Rig Alpha,"N4,021",219.87,1.33 BBL,Standby,N/A
+2024-03-31,NSP-2235,Rhino Boat,Shell (SPDC),Offshore Rig Alpha,"N1,942",166.2,111.5 L,Standby,No
+04/04/24,NSP-1129,Towing Winch,ExxonMobil,Bonny Island,"N2,167",146.54,224.6 L,Awaiting Repair,Yes
+24/02/24,NSP-2299,Pipe Tracker,Chevron,Onne FOT,"N1,720",115.99,92.3 L,Awaiting Repair,No
+,NSP-8142,Air Compressor 800cfm,TotalEnergies,Offshore Rig Alpha,"N2,872",129.83,121.0 L,Standby,No
+2024-02-19,NSP-4755,Air Compressor 800cfm,Indigenous Oil Co,Offshore Rig Alpha,"N4,521",191.1,172.7 L,Standby,No
+2024-02-10,NSP-2156,Cargo Basket,ExxonMobil,Offshore Rig Alpha,$2.193k,212.6,0.57 BBL,In Maintenance,No
+2024-09-25,NSP-5046,Sub Sea ROV M8,Chevron,Offshore Rig Alpha,$1.483k,195.79,1.80 BBL,In Maintenance,No
+Last week,NSP-2445,Pipe Tracker,Shell (SPDC),Escravos,"N1,968",182.67,178.3 L,Deployed,No
+Mid-Year,NSP-6855,Towing Winch,ExxonMobil,Offshore Rig Alpha,"N2,304",205.66,410.9 L,Standby,Yes
+,NSP-9239,Rhino Boat,ExxonMobil,Onne FOT,"N1,792",86.12,0.53 BBL,Awaiting Repair,No
+03/01/24,NSP-4114,Offshore Trash Skip,TotalEnergies,Offshore Rig Alpha,"N2,589",228.87,471.1 L,Awaiting Repair,No
+2024-05-17,NSP-4317,Rhino Boat,Shell (SPDC),Offshore Rig Alpha,"N3,559",193.49,375.3 L,Deployed,No
+19/10/24,NSP-8398,Pipe Tracker,Indigenous Oil Co,Onne FOT,N583,217.28,374.9 L,Deployed,No
+,NSP-3039,Rhino Boat,Indigenous Oil Co,Onne FOT,"N3,172",141.5,1.96 BBL,Awaiting Repair,No
+,NSP-6269,Pipe Tracker,ExxonMobil,Offshore Rig Alpha,"N3,282",136.19,321.5 L,Deployed,No
+29/01/24,NSP-2785,Rhino Boat,Indigenous Oil Co,Escravos,$2.197k,142.59,182.5 L,Awaiting Repair,No
+2025-02-02,NSP-8899,120kva Generator,Chevron,Offshore Rig Alpha,"N4,361",129.64,242.2 L,Awaiting Repair,No
+,NSP-4089,Towing Winch,TotalEnergies,Offshore Rig Alpha,"N3,360",148.17,389.5 L,Standby,Yes
+Mid-Year,NSP-6611,120kva Generator,Chevron,Bonny Island,Price Hidden,93.5,2.52 BBL,Deployed,No
+,NSP-2345,Towing Winch,ExxonMobil,Escravos,"N2,152",61.41,197.2 L,In Maintenance,No
+Mid-Year,NSP-6469,Sub Sea ROV M8,ExxonMobil,Onne FOT,$4.427k,181.84,215.2 L,Standby,Yes
+2024-04-20,NSP-5260,Offshore Trash Skip,Indigenous Oil Co,Forcados Terminal,"N2,872",195.89,1.24 BBL,Deployed,No
+Mid-Year,NSP-9689,Offshore Trash Skip,Chevron,Offshore Rig Alpha,"N3,698",134.48,130.3 L,In Maintenance,N/A
+Mid-Year,NSP-5731,Sub Sea Sub-Unit M8,Chevron,Offshore Rig Alpha,Price Hidden,147.58,362.8 L,Deployed,Yes
+26/04/24,NSP-9167,Sub Sea ROV M8,Shell (SPDC),Forcados Terminal,"N3,520",139.45,353.3 L,In Maintenance,Yes
+02/07/24,NSP-3339,Air Compressor 800cfm,Indigenous Oil Co,Offshore Rig Alpha,$4.697k,181.55,228.5 L,Standby,No
+Mid-Year,NSP-1305,Cargo Basket,ExxonMobil,Offshore Rig Alpha,"N1,546",220.84,499.6 L,Awaiting Repair,Yes
+,NSP-4120,Pipe Tracker,TotalEnergies,Onne FOT,"N2,130",183.67,256.3 L,Awaiting Repair,Yes
+,NSP-3154,VideoRay Pro 4 ROV,TotalEnergies,Offshore Rig Alpha,"N3,368",98.66,411.1 L,Standby,No
+25/05/24,NSP-2120,Rhino Boat,Shell (SPDC),Milaha Barge,"N2,061",116.96,313.2 L,Awaiting Repair,N/A
+2024-10-13,NSP-7171,VideoRay Pro 4 ROV,Shell (SPDC),Milaha Barge,"N4,996",207.64,411.7 L,Deployed,Yes
+2024-07-20,NSP-3624,VideoRay Pro 5 ROV,ExxonMobil,Escravos,$0.518k,230.9,241.4 L,Standby,No
+2024-01-21,NSP-9903,Air Compressor 800cfm,ExxonMobil,Onne FOT,"N2,667",116.71,405.9 L,Awaiting Repair,N/A
+,NSP-7205,Cargo Basket,ExxonMobil,Bonny Island,"N3,631",158.11,370.2 L,In Maintenance,No
+Mid-Year,NSP-8044,Offshore Trash Skip,ExxonMobil,Milaha Barge,"N4,147",,178.7 L,Awaiting Repair,No
+2024-08-07,NSP-3155,Towing Winch,ExxonMobil,Onne FOT,"N2,079",75.49,88.4 L,Standby,Yes
+,NSP-5499,VideoRay Pro 4 ROV,Chevron,Offshore Rig Alpha,"N3,879",157.32,0.46 BBL,Standby,No
+2024-04-20,NSP-5818,V-Ray Pro 4 Sub-Unit,ExxonMobil,Offshore Rig Alpha,"N4,815",,182.0 L,Standby,N/A
+27/09/24,NSP-2037,Air Compressor 800cfm,TotalEnergies,Onne FOT,$1.964k,97.57,294.4 L,Awaiting Repair,N/A
+,NSP-4544,Cargo Basket,Chevron,Onne FOT,"N3,987",179.39,156.5 L,Standby,No
+,NSP-4729,Sub Sea ROV M8,TotalEnergies,Offshore Rig Alpha,"N4,870",177.28,303.6 L,Awaiting Repair,No
+Mid-Year,NSP-3134,VideoRay Pro 5 ROV,TotalEnergies,Bonny Island,"N3,432",171.33,335.5 L,Deployed,N/A
+,NSP-7654,Sub Sea ROV M8,TotalEnergies,Escravos,$1.652k,249.39,283.2 L,In Maintenance,Yes
+,NSP-1027,Air Compressor 800cfm,Indigenous Oil Co,Forcados Terminal,"N2,317",146.85,324.5 L,Deployed,No
+,NSP-2670,Cargo Basket,ExxonMobil,Milaha Barge,"N1,751",160.79,2.27 BBL,Standby,No
+Mid-Year,NSP-1823,Pipe Tracker,Chevron,Onne FOT,"N3,439",123.61,97.8 L,Deployed,Yes
+2024-01-24,NSP-3866,Pipe Tracker,Indigenous Oil Co,Forcados Terminal,"N4,277",93.64,304.5 L,Deployed,No
+14/12/24,NSP-3894,Pipe Tracker,Shell (SPDC),Onne FOT,"N1,955",178.13,2.95 BBL,In Maintenance,Yes
+Mid-Year,NSP-2781,VideoRay Pro 5 ROV,ExxonMobil,Offshore Rig Alpha,"N1,162",94.84,0.39 BBL,Standby,Yes
+Mid-Year,NSP-9791,Rhino Boat,TotalEnergies,Bonny Island,Price Hidden,166.53,324.8 L,Awaiting Repair,Yes
+10/08/24,NSP-3743,Cargo Basket,TotalEnergies,Milaha Barge,$1.742k,121.73,113.1 L,Deployed,No
+Mid-Year,NSP-2845,Cargo Basket,Indigenous Oil Co,Escravos,"N4,533",25.44,2.70 BBL,Standby,No
+,NSP-7181,120kva Generator,TotalEnergies,Escravos,"N2,276",210.84,80.2 L,Deployed,No
+2024-06-20,NSP-6171,120kva Generator,TotalEnergies,Offshore Rig Alpha,"N1,767",111.44,94.8 L,Deployed,Yes
+2024-01-27,NSP-9974,Towing Winch,Shell (SPDC),Bonny Island,$1.791k,215.14,139.6 L,Deployed,N/A
+17/05/24,NSP-3589,Cargo Basket,Shell (SPDC),Escravos,"N2,955",120.52,71.0 L,In Maintenance,No
+2024-12-09,NSP-6479,VideoRay Pro 4 ROV,Indigenous Oil Co,Escravos,"N2,341",166.31,54.5 L,Standby,No
+,NSP-2502,VideoRay Pro 4 ROV,ExxonMobil,Onne FOT,"N2,939",102.38,92.7 L,Awaiting Repair,No
+,NSP-8517,VideoRay Pro 5 ROV,ExxonMobil,Milaha Barge,"N4,626",115.91,294.4 L,Awaiting Repair,N/A
+,NSP-6484,Cargo Basket,Indigenous Oil Co,Escravos,$3.479k,126.12,251.3 L,Deployed,No
+Mid-Year,NSP-9783,Rhino Boat,Chevron,Forcados Terminal,$0.874k,97.17,487.0 L,In Maintenance,No
+07/11/24,NSP-4389,120kva Generator,Chevron,Escravos,"N2,345",53.08,134.0 L,In Maintenance,Yes
+14/02/24,NSP-9290,Towing Winch,Chevron,Offshore Rig Alpha,"N1,612",156.35,1.93 BBL,Awaiting Repair,Yes
+Mid-Year,NSP-6479,Rhino Boat,TotalEnergies,Forcados Terminal,"N1,504",96.69,74.9 L,Standby,No
+,NSP-9964,Offshore Trash Skip,Chevron,Escravos,N565,109.04,59.2 L,Awaiting Repair,No
+2024-12-22,NSP-5456,VideoRay Pro 5 ROV,Chevron,Onne FOT,"N2,163",167.74,2.73 BBL,Awaiting Repair,No
+05/10/24,NSP-4088,120kva Generator,TotalEnergies,Forcados Terminal,"N1,944",169.65,85.8 L,Awaiting Repair,No
+2024-11-15,NSP-6131,V-Ray Pro 5 Sub-Unit,ExxonMobil,Bonny Island,"N1,369",169.57,216.9 L,Awaiting Repair,No
+,NSP-5548,Towing Winch,Shell (SPDC),Onne FOT,"N1,860",235.99,0.66 BBL,Deployed,N/A
+2024-09-14,NSP-5313,Sub Sea ROV M8,Shell (SPDC),Milaha Barge,N824,174.98,408.6 L,In Maintenance,No
+,NSP-8714,Sub Sea ROV M8,Chevron,Milaha Barge,"N1,633",194.22,434.9 L,Deployed,N/A
+16/07/24,NSP-3892,Rhino Boat,Chevron,Offshore Rig Alpha,"N3,912",,164.2 L,Standby,No
+,NSP-6848,VideoRay Pro 4 ROV,Chevron,Bonny Island,$2.07k,206.96,346.0 L,Awaiting Repair,Yes
+Mid-Year,NSP-6074,Towing Winch,Chevron,Offshore Rig Alpha,"N1,291",159.73,2.56 BBL,In Maintenance,No
+,NSP-1771,Pipe Tracker,Shell (SPDC),Onne FOT,"N2,502",200.66,359.9 L,Awaiting Repair,No
+Mid-Year,NSP-1422,Pipe Tracker,ExxonMobil,Offshore Rig Alpha,Price Hidden,187.34,468.6 L,In Maintenance,No
+2024-03-31,NSP-6443,Offshore Trash Skip,TotalEnergies,Milaha Barge,"N4,305",251.05,484.8 L,In Maintenance,N/A
+2024-08-24,NSP-5497,Air Compressor 800cfm,TotalEnergies,Forcados Terminal,"N4,311",66.87,1.62 BBL,In Maintenance,No
+30/04/24,NSP-3066,V-Ray Pro 5 Sub-Unit,TotalEnergies,Milaha Barge,"N1,894",75.15,312.1 L,Awaiting Repair,Yes
+01/04/24,NSP-1461,VideoRay Pro 4 ROV,Indigenous Oil Co,Milaha Barge,$4.444k,,228.6 L,Awaiting Repair,No
+2024-07-17,NSP-7799,VideoRay Pro 5 ROV,ExxonMobil,Escravos,"N1,159",218.97,2.05 BBL,Awaiting Repair,No
+18/11/24,NSP-7315,120kva Generator,TotalEnergies,Offshore Rig Alpha,$2.384k,,2.99 BBL,Awaiting Repair,N/A
+2024-12-08,NSP-4685,Towing Winch,Shell (SPDC),Escravos,Price Hidden,199.99,1.93 BBL,Standby,No
+Mid-Year,NSP-2235,Sub Sea ROV M8,Shell (SPDC),Forcados Terminal,N949,201.98,499.9 L,Awaiting Repair,No
+2024-08-20,NSP-3990,Cargo Basket,Shell (SPDC),Escravos,"N2,761",107.4,2.04 BBL,In Maintenance,Yes
+,NSP-2359,Cargo Basket,TotalEnergies,Milaha Barge,"N3,704",126.01,133.4 L,Deployed,No
+,NSP-3326,Sub Sea Sub-Unit M8,TotalEnergies,Escravos,"N4,448",-2.23,375.5 L,Standby,No
+,NSP-6617,Cargo Basket,ExxonMobil,Offshore Rig Alpha,Price Hidden,192.37,455.0 L,In Maintenance,Yes
+2024-06-04,NSP-7678,Towing Winch,Chevron,Forcados Terminal,"N1,653",190.18,280.5 L,Awaiting Repair,No
+Mid-Year,NSP-6454,Towing Winch,ExxonMobil,Escravos,"N2,148",114.34,1.14 BBL,Deployed,No
+Mid-Year,NSP-3106,120kva Generator,TotalEnergies,Escravos,N962,161.32,1.48 BBL,Awaiting Repair,No
+17/12/24,NSP-1178,VideoRay Pro 4 ROV,TotalEnergies,Onne FOT,"N2,848",124.11,203.1 L,In Maintenance,Yes
+,NSP-6811,Rhino Boat,ExxonMobil,Forcados Terminal,"N1,429",175.55,472.3 L,Awaiting Repair,Yes
+16/04/24,NSP-6828,VideoRay Pro 5 ROV,Indigenous Oil Co,Bonny Island,"N4,070",216.96,2.97 BBL,Standby,No
+04/01/24,NSP-9425,Cargo Basket,Chevron,Milaha Barge,"N4,389",148.94,143.3 L,In Maintenance,No
+2024-02-02,NSP-5721,Air Compressor 800cfm,ExxonMobil,Bonny Island,"N4,424",185.34,444.4 L,In Maintenance,N/A
+Mid-Year,NSP-4749,Sub Sea Sub-Unit M8,Chevron,Bonny Island,$3.369k,82.22,450.4 L,Awaiting Repair,N/A
+,NSP-9611,Pipe Tracker,Indigenous Oil Co,Bonny Island,N899,142.51,429.1 L,Deployed,No
+Mid-Year,NSP-5905,Pipe Tracker,TotalEnergies,Onne FOT,$3.498k,141.08,301.7 L,Awaiting Repair,No
+Mid-Year,NSP-9404,Pipe Tracker,TotalEnergies,Onne FOT,$2.067k,160.94,2.55 BBL,Deployed,No
+Mid-Year,NSP-8527,VideoRay Pro 5 ROV,Indigenous Oil Co,Forcados Terminal,"N3,534",137.62,2.67 BBL,Deployed,Yes
+,NSP-3018,120kva Generator,ExxonMobil,Escravos,N704,116.47,205.7 L,Awaiting Repair,No
+2024-01-08,NSP-7490,Cargo Basket,Shell (SPDC),Bonny Island,$4.868k,142.43,394.0 L,In Maintenance,No
+Mid-Year,NSP-8832,Cargo Basket,TotalEnergies,Milaha Barge,Price Hidden,239.86,252.9 L,Standby,No
+31/03/24,NSP-2694,Air Compressor 800cfm,TotalEnergies,Milaha Barge,"N1,750",158.56,220.6 L,Deployed,No
+17/05/24,NSP-6985,Sub Sea Sub-Unit M8,TotalEnergies,Escravos,$0.792k,151.25,363.4 L,Awaiting Repair,No
+2024-05-23,NSP-9774,VideoRay Pro 5 ROV,Chevron,Bonny Island,"N2,126",146.03,2.42 BBL,Deployed,No

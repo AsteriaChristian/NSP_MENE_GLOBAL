@@ -1,0 +1,1001 @@
+Date_Cleaned,Asset_ID,Equipment_Type,Client_Name,Deployment_Location,Daily_Rate_NGN,Running_Hours,Fuel_Liters,Status,Maintenance_Priority
+2024-06-15,NSP-7949,Rhino Boat,Chevron,Bonny Island,1449000.0,105.74,75.4,Deployed,Normal
+2024-11-09,NSP-4005,Towing Winch,TotalEnergies,Bonny Island,0.0,129.39,154.23,Standby,Normal
+2024-10-05,NSP-1775,Pipe Tracker,TotalEnergies,Offshore Rig Alpha,5082000.0,119.97,248.04,Deployed,Normal
+2024-06-15,NSP-1995,VideoRay Pro 5 ROV,ExxonMobil,Onne FOT,3113.0,135.42,398.8,In Maintenance,Normal
+2024-07-26,NSP-3027,VideoRay Pro 5 ROV,TotalEnergies,Escravos,4493.0,102.35,57.0,Deployed,Normal
+2024-06-15,NSP-9996,Sub Sea ROV M8,TotalEnergies,Bonny Island,3599.0,97.61,78.6,Awaiting Repair,Normal
+2024-04-02,NSP-2484,Pipe Tracker,TotalEnergies,Onne FOT,3190.0,148.21,241.68,Awaiting Repair,Normal
+2025-01-22,NSP-3693,Sub Sea ROV M8,ExxonMobil,Bonny Island,2178.0,161.87068493150682,179.67,Awaiting Repair,Normal
+2024-10-12,NSP-1663,Cargo Basket,TotalEnergies,Offshore Rig Alpha,3802.0,82.53,290.3,Awaiting Repair,Normal
+2024-06-15,NSP-5737,VideoRay Pro 4 ROV,ExxonMobil,Offshore Rig Alpha,1791.0,99.05,178.08,Standby,Normal
+2024-12-08,NSP-9004,Pipe Tracker,ExxonMobil,Milaha Barge,2207.0,111.87,159.0,In Maintenance,Normal
+2024-06-15,NSP-2986,VideoRay Pro 4 ROV,TotalEnergies,Bonny Island,0.0,158.43,354.57,Awaiting Repair,Normal
+2024-06-15,NSP-3049,VideoRay Pro 5 ROV,Shell (SPDC),Offshore Rig Alpha,2302.0,190.68,299.8,Awaiting Repair,Normal
+2024-06-15,NSP-2648,Air Compressor 800cfm,ExxonMobil,Offshore Rig Alpha,3670.0,88.46,232.0,Awaiting Repair,Normal
+2024-06-15,NSP-5911,Towing Winch,ExxonMobil,Escravos,5191500.0,202.47,370.47,Deployed,Normal
+2024-06-15,NSP-1225,Pipe Tracker,Indigenous Oil Co,Offshore Rig Alpha,1545.0,216.26,451.4,Deployed,Normal
+2024-06-15,NSP-4420,Pipe Tracker,Shell (SPDC),Offshore Rig Alpha,5430000.0,60.84,386.5,Deployed,Normal
+2024-06-07,NSP-7709,Offshore Trash Skip,Chevron,Escravos,2220000.0,137.84,217.7,Awaiting Repair,Normal
+2024-06-15,NSP-9716,120kva Generator,ExxonMobil,Milaha Barge,654.0,172.49,238.5,Standby,Normal
+2024-06-15,NSP-1853,VideoRay Pro 4 ROV,TotalEnergies,Onne FOT,7492500.0,151.22969924812028,310.5,In Maintenance,Normal
+2024-05-04,NSP-6222,Cargo Basket,ExxonMobil,Offshore Rig Alpha,3322500.0,50.42,172.2,Deployed,Normal
+2024-06-15,NSP-6177,Pipe Tracker,Chevron,Forcados Terminal,4864.0,152.66779069767443,229.5,In Maintenance,Normal
+2024-06-15,NSP-4343,Towing Winch,Indigenous Oil Co,Forcados Terminal,3246000.0,165.89,346.62,In Maintenance,Normal
+2024-03-16,NSP-7617,Pipe Tracker,Indigenous Oil Co,Bonny Island,0.0,152.66779069767443,190.1,Deployed,Normal
+2024-06-15,NSP-9527,Cargo Basket,Chevron,Onne FOT,0.0,150.09,357.8,Awaiting Repair,Normal
+2024-06-15,NSP-4913,VideoRay Pro 5 ROV,TotalEnergies,Bonny Island,2068.0,187.8,223.7,Deployed,Normal
+2024-04-04,NSP-4267,VideoRay Pro 4 ROV,Chevron,Forcados Terminal,0.0,151.22969924812028,416.58,In Maintenance,Normal
+2024-06-15,NSP-2571,Towing Winch,Chevron,Onne FOT,3308.0,126.77,309.2,Standby,Normal
+2024-05-30,NSP-1395,Sub Sea ROV M8,Indigenous Oil Co,Onne FOT,4266.0,215.27,453.0,Standby,Normal
+2024-10-10,NSP-2167,Offshore Trash Skip,Shell (SPDC),Forcados Terminal,643.0,151.05,352.6,Deployed,Normal
+2024-12-25,NSP-2191,Cargo Basket,Chevron,Onne FOT,1232.0,170.65,95.4,In Maintenance,Normal
+2024-12-07,NSP-4141,Sub Sea ROV M8,ExxonMobil,Escravos,4219.0,121.81,476.3,Deployed,Normal
+2024-06-15,NSP-4072,Cargo Basket,TotalEnergies,Forcados Terminal,4634.0,222.19,395.2,Awaiting Repair,Normal
+2024-06-15,NSP-5175,VideoRay Pro 4 ROV,Indigenous Oil Co,Escravos,1428.0,151.22969924812028,486.54,Awaiting Repair,Normal
+2024-06-15,NSP-9549,Offshore Trash Skip,ExxonMobil,Bonny Island,1756.0,221.84,481.77,Deployed,Normal
+2024-06-15,NSP-7132,Cargo Basket,ExxonMobil,Forcados Terminal,1558500.0,114.92,364.2,Awaiting Repair,Normal
+2025-01-31,NSP-8449,Pipe Tracker,Shell (SPDC),Offshore Rig Alpha,755.0,88.41,399.9,Standby,Normal
+2024-07-04,NSP-2460,Pipe Tracker,Indigenous Oil Co,Forcados Terminal,1356000.0,159.48,499.9,Deployed,Normal
+2024-03-23,NSP-1249,Sub Sea ROV M8,Chevron,Offshore Rig Alpha,2548.0,185.58,211.47,In Maintenance,Normal
+2024-06-15,NSP-2252,VideoRay Pro 4 ROV,Indigenous Oil Co,Offshore Rig Alpha,1332000.0,93.77,266.0,In Maintenance,Normal
+2024-04-12,NSP-8730,VideoRay Pro 5 ROV,Shell (SPDC),Forcados Terminal,1858.0,160.01,228.4,Deployed,Normal
+2024-02-07,NSP-2906,Cargo Basket,Shell (SPDC),Escravos,5296500.0,41.46,144.1,In Maintenance,Normal
+2024-06-15,NSP-5777,Offshore Trash Skip,Indigenous Oil Co,Offshore Rig Alpha,3766.0,153.8,419.8,Deployed,Normal
+2024-12-05,NSP-7493,Cargo Basket,TotalEnergies,Forcados Terminal,2468.0,146.33287234042555,409.7,Deployed,Normal
+2024-06-15,NSP-6126,VideoRay Pro 4 ROV,TotalEnergies,Offshore Rig Alpha,3266.0,188.44,373.65,Standby,Normal
+2024-09-30,NSP-7229,120kva Generator,Chevron,Offshore Rig Alpha,5379000.0,110.98,303.8,Awaiting Repair,Normal
+2024-06-15,NSP-3472,Towing Winch,Indigenous Oil Co,Offshore Rig Alpha,566.0,228.14,313.9,Awaiting Repair,Normal
+2024-06-15,NSP-7986,Rhino Boat,Shell (SPDC),Escravos,0.0,177.78,214.4,Standby,Normal
+2024-06-15,NSP-1846,Rhino Boat,TotalEnergies,Milaha Barge,967.0,121.16,350.9,Standby,Normal
+2024-05-12,NSP-2828,Cargo Basket,TotalEnergies,Bonny Island,3465000.0,187.77,368.3,Deployed,Normal
+2024-06-09,NSP-2994,VideoRay Pro 5 ROV,TotalEnergies,Offshore Rig Alpha,1140000.0,200.31,356.7,Standby,Normal
+2024-06-15,NSP-6951,VideoRay Pro 4 ROV,Indigenous Oil Co,Escravos,875.0,121.16,466.9,Deployed,Normal
+2024-11-11,NSP-7943,Pipe Tracker,TotalEnergies,Forcados Terminal,3398.0,193.56,417.5,In Maintenance,Normal
+2024-06-15,NSP-9389,VideoRay Pro 4 ROV,TotalEnergies,Escravos,1748.0,151.22969924812028,153.1,Awaiting Repair,Normal
+2024-06-15,NSP-5612,VideoRay Pro 4 ROV,TotalEnergies,Milaha Barge,1754.0,191.41,114.48,Deployed,Normal
+2024-06-15,NSP-3674,Offshore Trash Skip,TotalEnergies,Bonny Island,3728.0,200.49,397.5,Awaiting Repair,Normal
+2024-09-10,NSP-1984,Offshore Trash Skip,Shell (SPDC),Bonny Island,3419.0,182.72,313.8,Standby,Normal
+2024-06-15,NSP-8196,Offshore Trash Skip,Shell (SPDC),Offshore Rig Alpha,4376.0,147.22,323.0,Standby,Normal
+2024-10-28,NSP-9393,Sub Sea ROV M8,ExxonMobil,Onne FOT,1705.0,97.27,220.7,Deployed,Normal
+2024-06-15,NSP-5971,Offshore Trash Skip,TotalEnergies,Escravos,2622.0,113.53,463.3,In Maintenance,Normal
+2024-06-28,NSP-2759,Sub Sea ROV M8,Indigenous Oil Co,Offshore Rig Alpha,4880.0,161.87068493150682,498.6,Standby,Normal
+2024-07-29,NSP-7645,VideoRay Pro 4 ROV,ExxonMobil,Onne FOT,785.0,94.67,371.3,In Maintenance,Normal
+2024-06-15,NSP-4462,VideoRay Pro 4 ROV,Indigenous Oil Co,Onne FOT,4650.0,191.66,62.01,Deployed,Normal
+2024-11-09,NSP-6207,Rhino Boat,TotalEnergies,Bonny Island,3810.0,83.67,374.4,Awaiting Repair,Normal
+2024-06-15,NSP-5841,Air Compressor 800cfm,Chevron,Escravos,7387500.0,66.51,417.8,Standby,Normal
+2024-01-20,NSP-5223,Sub Sea ROV M8,Shell (SPDC),Milaha Barge,4077.0,238.23,269.3,Standby,Normal
+2024-06-15,NSP-7981,VideoRay Pro 5 ROV,Chevron,Forcados Terminal,3930.0,97.78,361.0,In Maintenance,Normal
+2024-03-02,NSP-9801,Sub Sea ROV M8,ExxonMobil,Forcados Terminal,3183000.0,138.88,169.9,Deployed,Normal
+2025-01-28,NSP-7819,VideoRay Pro 4 ROV,Shell (SPDC),Escravos,3181.0,151.22969924812028,426.7,Standby,Normal
+2024-11-05,NSP-7122,Air Compressor 800cfm,Chevron,Onne FOT,3427500.0,138.87,73.1,In Maintenance,Normal
+2024-03-13,NSP-5197,Rhino Boat,Chevron,Bonny Island,1740.0,152.66852631578945,51.1,Standby,Normal
+2024-10-31,NSP-2750,VideoRay Pro 4 ROV,Indigenous Oil Co,Offshore Rig Alpha,0.0,146.21,391.3,Awaiting Repair,Normal
+2024-01-25,NSP-9007,Towing Winch,Chevron,Escravos,4142.0,155.44169811320754,364.11,Standby,Normal
+2024-08-10,NSP-8980,Offshore Trash Skip,Chevron,Escravos,4997.0,156.69,214.1,Deployed,Normal
+2024-06-15,NSP-4241,Air Compressor 800cfm,Chevron,Offshore Rig Alpha,4087.0,193.39,154.23,Standby,Normal
+2024-05-20,NSP-4511,Pipe Tracker,ExxonMobil,Onne FOT,1313.0,164.15,265.9,In Maintenance,Normal
+2024-06-15,NSP-9173,Sub Sea ROV M8,Shell (SPDC),Onne FOT,6390000.0,99.69,68.37,Deployed,Normal
+2024-06-15,NSP-2868,Cargo Basket,Chevron,Onne FOT,6852000.0,97.45,475.1,Standby,Normal
+2024-06-15,NSP-2796,Offshore Trash Skip,Shell (SPDC),Onne FOT,1384.0,160.23901408450706,480.8,Standby,Normal
+2024-08-28,NSP-5675,Cargo Basket,Indigenous Oil Co,Milaha Barge,1349.0,124.94,151.05,Standby,Normal
+2024-12-25,NSP-6370,Towing Winch,Indigenous Oil Co,Milaha Barge,2782500.0,156.26,163.77,In Maintenance,Normal
+2024-06-15,NSP-7183,Sub Sea ROV M8,TotalEnergies,Forcados Terminal,3611.0,161.48,307.1,Deployed,Normal
+2024-06-15,NSP-6150,Rhino Boat,Chevron,Milaha Barge,2204.0,103.59,482.6,Awaiting Repair,Normal
+2024-06-15,NSP-3064,VideoRay Pro 5 ROV,Chevron,Bonny Island,0.0,179.72,327.6,Awaiting Repair,Normal
+2024-06-15,NSP-2887,120kva Generator,ExxonMobil,Milaha Barge,4026.0,210.45,96.1,Awaiting Repair,Normal
+2024-06-15,NSP-9476,120kva Generator,ExxonMobil,Bonny Island,1385.0,146.63626666666667,442.2,Standby,Normal
+2024-06-15,NSP-8266,Air Compressor 800cfm,Indigenous Oil Co,Onne FOT,3604.0,186.61,173.1,Standby,Normal
+2024-11-10,NSP-5116,Offshore Trash Skip,Indigenous Oil Co,Escravos,3655.0,204.0,118.0,Awaiting Repair,Normal
+2024-06-15,NSP-2607,VideoRay Pro 4 ROV,ExxonMobil,Offshore Rig Alpha,1433.0,153.71,439.0,Deployed,Normal
+2024-06-15,NSP-4224,VideoRay Pro 5 ROV,Shell (SPDC),Offshore Rig Alpha,0.0,138.53,327.5,Awaiting Repair,Normal
+2024-01-09,NSP-7154,Towing Winch,Indigenous Oil Co,Onne FOT,616.0,248.14,488.6,Deployed,Normal
+2024-06-15,NSP-3720,120kva Generator,Chevron,Milaha Barge,2076.0,130.75,274.5,Awaiting Repair,Normal
+2024-12-08,NSP-2895,Towing Winch,TotalEnergies,Forcados Terminal,1417.0,181.61,68.5,Standby,Normal
+2024-01-09,NSP-9442,Towing Winch,TotalEnergies,Bonny Island,1939.0,101.06,331.4,Awaiting Repair,Normal
+2024-11-09,NSP-4427,Cargo Basket,Indigenous Oil Co,Forcados Terminal,0.0,117.43,148.6,Standby,Normal
+2024-06-15,NSP-7236,VideoRay Pro 4 ROV,Shell (SPDC),Bonny Island,1161.0,125.81,86.7,Deployed,Normal
+2024-06-07,NSP-2394,Rhino Boat,Chevron,Offshore Rig Alpha,3279.0,71.91,269.0,Deployed,Normal
+2024-08-24,NSP-1001,Rhino Boat,Indigenous Oil Co,Forcados Terminal,3414.0,250.09,334.6,In Maintenance,Normal
+2024-11-13,NSP-6543,Rhino Boat,ExxonMobil,Bonny Island,3655.0,168.71,345.5,Deployed,Normal
+2024-06-15,NSP-6895,Cargo Basket,TotalEnergies,Bonny Island,769.0,145.66,115.6,Deployed,Normal
+2024-06-15,NSP-1956,Towing Winch,ExxonMobil,Milaha Barge,3234.0,169.1,440.43,In Maintenance,Normal
+2024-06-15,NSP-5585,Cargo Basket,ExxonMobil,Forcados Terminal,1558.0,171.5,278.25,In Maintenance,Normal
+2024-10-25,NSP-2969,VideoRay Pro 5 ROV,Chevron,Bonny Island,4368.0,44.95,112.89,Standby,Normal
+2024-06-12,NSP-7257,Air Compressor 800cfm,Chevron,Onne FOT,3026999.9999999995,296.89,475.1,In Maintenance,Normal
+2024-08-19,NSP-9133,Rhino Boat,Shell (SPDC),Onne FOT,3572.0,231.67,346.0,Deployed,Normal
+2024-09-25,NSP-4553,Sub Sea ROV M8,Chevron,Forcados Terminal,1482000.0,92.68,466.6,Deployed,Normal
+2024-06-15,NSP-2440,VideoRay Pro 4 ROV,Shell (SPDC),Onne FOT,1321.0,216.91,221.2,Standby,Normal
+2024-06-15,NSP-2177,Rhino Boat,Shell (SPDC),Bonny Island,3389.0,229.32,478.2,Deployed,Normal
+2024-06-15,NSP-6243,Offshore Trash Skip,Shell (SPDC),Bonny Island,1443.0,158.97,243.9,Standby,Normal
+2024-11-19,NSP-8311,120kva Generator,Chevron,Bonny Island,1463.0,241.04,411.4,In Maintenance,Normal
+2024-06-15,NSP-6047,Cargo Basket,ExxonMobil,Bonny Island,6045000.000000001,122.98,407.04,Awaiting Repair,Normal
+2024-05-11,NSP-1009,Rhino Boat,Chevron,Onne FOT,5157000.0,175.68,317.1,Deployed,Normal
+2024-06-15,NSP-1482,VideoRay Pro 4 ROV,ExxonMobil,Milaha Barge,1816.0,171.78,394.32,Deployed,Normal
+2024-06-15,NSP-6016,Sub Sea ROV M8,Chevron,Escravos,1487.0,194.61,333.9,Standby,Normal
+2024-11-18,NSP-8843,120kva Generator,TotalEnergies,Onne FOT,4508.0,178.45,85.86,Awaiting Repair,Normal
+2024-10-03,NSP-9258,Air Compressor 800cfm,ExxonMobil,Forcados Terminal,0.0,231.42,172.0,In Maintenance,Normal
+2024-11-21,NSP-4374,Air Compressor 800cfm,Shell (SPDC),Milaha Barge,3161.0,114.75,480.18,In Maintenance,Normal
+2024-06-15,NSP-7099,VideoRay Pro 4 ROV,ExxonMobil,Onne FOT,4219.0,147.21,228.96,Deployed,Normal
+2024-03-24,NSP-3408,120kva Generator,Indigenous Oil Co,Milaha Barge,2266.0,146.63626666666667,103.35,Standby,Normal
+2024-06-15,NSP-9435,Offshore Trash Skip,Chevron,Bonny Island,2189.0,151.24,273.6,Standby,Normal
+2024-06-14,NSP-5225,Pipe Tracker,TotalEnergies,Milaha Barge,4573.0,152.66779069767443,230.55,In Maintenance,Normal
+2024-09-12,NSP-3530,Towing Winch,Shell (SPDC),Offshore Rig Alpha,4759.0,199.6,423.2,Deployed,Normal
+2025-01-26,NSP-5349,VideoRay Pro 5 ROV,Chevron,Bonny Island,4723.0,5.59,338.67,Standby,Normal
+2024-06-15,NSP-6448,VideoRay Pro 5 ROV,ExxonMobil,Offshore Rig Alpha,4350.0,164.66,243.27,In Maintenance,Normal
+2024-06-15,NSP-8870,VideoRay Pro 4 ROV,Indigenous Oil Co,Escravos,2138.0,120.36,431.6,Standby,Normal
+2024-06-15,NSP-7793,Sub Sea ROV M8,Chevron,Forcados Terminal,6324000.0,124.63,58.83,Deployed,Normal
+2024-08-29,NSP-6827,Sub Sea ROV M8,Chevron,Bonny Island,7152000.0,190.81,170.13,Awaiting Repair,Normal
+2024-06-15,NSP-9616,Towing Winch,Shell (SPDC),Milaha Barge,3993.0,84.6,96.0,Awaiting Repair,Normal
+2024-04-06,NSP-8340,VideoRay Pro 4 ROV,TotalEnergies,Forcados Terminal,2779.0,187.1,325.95,Awaiting Repair,Normal
+2024-03-27,NSP-1147,Rhino Boat,Indigenous Oil Co,Milaha Barge,4076.0,164.96,96.99,Standby,Normal
+2024-06-15,NSP-8504,Pipe Tracker,Shell (SPDC),Onne FOT,0.0,209.29,58.83,In Maintenance,Normal
+2024-06-15,NSP-6978,Offshore Trash Skip,Chevron,Offshore Rig Alpha,2716.0,185.95,195.57,Deployed,Normal
+2024-06-15,NSP-3461,VideoRay Pro 4 ROV,ExxonMobil,Forcados Terminal,2820.0,97.76,325.8,Awaiting Repair,Normal
+2024-06-22,NSP-8165,Rhino Boat,Indigenous Oil Co,Offshore Rig Alpha,2067.0,51.68,294.8,Awaiting Repair,Normal
+2024-06-15,NSP-5082,Air Compressor 800cfm,ExxonMobil,Forcados Terminal,4851.0,145.28,418.17,In Maintenance,Normal
+2024-07-07,NSP-7279,Rhino Boat,Chevron,Milaha Barge,2153.0,145.71,336.3,Awaiting Repair,Normal
+2024-12-29,NSP-6132,Pipe Tracker,Shell (SPDC),Bonny Island,2355.0,233.5,134.6,Awaiting Repair,Normal
+2024-03-30,NSP-6189,120kva Generator,TotalEnergies,Forcados Terminal,1537.0,169.73,390.3,In Maintenance,Normal
+2024-06-15,NSP-2080,Offshore Trash Skip,Indigenous Oil Co,Bonny Island,1513.0,160.23901408450706,328.8,Deployed,Normal
+2024-04-01,NSP-4390,Pipe Tracker,TotalEnergies,Offshore Rig Alpha,4931.0,152.66779069767443,269.0,Awaiting Repair,Normal
+2024-01-30,NSP-3810,120kva Generator,ExxonMobil,Escravos,1367.0,128.41,90.63,Standby,Normal
+2024-04-27,NSP-4471,VideoRay Pro 4 ROV,Indigenous Oil Co,Onne FOT,1783.0,105.7,496.0,Awaiting Repair,Normal
+2024-06-15,NSP-9895,VideoRay Pro 4 ROV,Indigenous Oil Co,Bonny Island,3257.0,201.65,133.7,In Maintenance,Normal
+2024-06-15,NSP-8710,Air Compressor 800cfm,ExxonMobil,Onne FOT,3339.0,140.25,324.36,Awaiting Repair,Normal
+2024-12-29,NSP-6347,120kva Generator,TotalEnergies,Bonny Island,662.0,146.67,430.89,In Maintenance,Normal
+2024-06-15,NSP-7342,VideoRay Pro 5 ROV,Indigenous Oil Co,Milaha Barge,0.0,162.26,483.5,In Maintenance,Normal
+2025-01-18,NSP-9616,Towing Winch,Shell (SPDC),Milaha Barge,4152.0,83.34,323.8,Deployed,Normal
+2024-11-22,NSP-5624,Air Compressor 800cfm,Chevron,Offshore Rig Alpha,3280500.0,270.74,80.5,In Maintenance,Normal
+2024-03-05,NSP-5666,VideoRay Pro 4 ROV,Chevron,Escravos,5455500.0,231.63,403.86,Awaiting Repair,Normal
+2024-06-15,NSP-2749,Air Compressor 800cfm,ExxonMobil,Bonny Island,1677.0,136.95,142.2,In Maintenance,Normal
+2024-06-16,NSP-7744,Cargo Basket,TotalEnergies,Milaha Barge,3919500.0,154.17,97.5,Standby,Normal
+2024-06-15,NSP-5654,Rhino Boat,Chevron,Milaha Barge,507.0,194.06,335.6,Awaiting Repair,Normal
+2024-09-24,NSP-3307,Air Compressor 800cfm,TotalEnergies,Onne FOT,3424.0,122.67,345.03,Awaiting Repair,Normal
+2024-06-15,NSP-9438,VideoRay Pro 4 ROV,TotalEnergies,Forcados Terminal,3615000.0,124.21,498.7,Deployed,Normal
+2024-07-14,NSP-6569,Offshore Trash Skip,ExxonMobil,Bonny Island,3569.0,163.55,369.6,Deployed,Normal
+2024-08-13,NSP-2715,Pipe Tracker,Chevron,Onne FOT,3481500.0,165.21,95.4,Standby,Normal
+2024-06-15,NSP-2089,Towing Winch,TotalEnergies,Bonny Island,1395.0,170.19,106.8,Standby,Normal
+2024-06-15,NSP-5628,VideoRay Pro 4 ROV,TotalEnergies,Onne FOT,2031000.0,148.79,147.0,Deployed,Normal
+2024-06-15,NSP-7701,VideoRay Pro 4 ROV,ExxonMobil,Forcados Terminal,6657000.0,151.22969924812028,126.1,Awaiting Repair,Normal
+2024-05-26,NSP-3946,Offshore Trash Skip,Chevron,Escravos,923.0,167.31,435.66,Deployed,Normal
+2024-12-25,NSP-7816,Towing Winch,ExxonMobil,Onne FOT,2031.0,155.44169811320754,168.54,In Maintenance,Normal
+2024-08-14,NSP-6374,Towing Winch,Indigenous Oil Co,Offshore Rig Alpha,567.0,135.9,203.2,Deployed,Normal
+2024-06-15,NSP-5577,VideoRay Pro 5 ROV,Shell (SPDC),Forcados Terminal,1740000.0,150.71500000000003,459.3,Standby,Normal
+2024-11-27,NSP-2478,Towing Winch,ExxonMobil,Bonny Island,905.0,161.92,365.7,Awaiting Repair,Normal
+2024-03-07,NSP-9921,VideoRay Pro 5 ROV,TotalEnergies,Escravos,2894.0,118.87,212.8,Awaiting Repair,Normal
+2024-02-04,NSP-2325,VideoRay Pro 4 ROV,Shell (SPDC),Offshore Rig Alpha,641.0,159.73,283.02,Awaiting Repair,Normal
+2025-01-14,NSP-1855,Cargo Basket,Indigenous Oil Co,Escravos,4328.0,168.87,89.2,Standby,Normal
+2024-06-15,NSP-7132,Pipe Tracker,Indigenous Oil Co,Bonny Island,2674.0,140.98,235.0,Deployed,Normal
+2024-10-27,NSP-9611,Air Compressor 800cfm,Chevron,Forcados Terminal,1009500.0,157.24,101.5,Standby,Normal
+2024-03-24,NSP-5658,VideoRay Pro 4 ROV,Shell (SPDC),Onne FOT,3202.0,119.26,340.9,Standby,Normal
+2024-03-24,NSP-6476,Sub Sea ROV M8,Indigenous Oil Co,Offshore Rig Alpha,886.0,148.34,268.7,Deployed,Normal
+2024-06-15,NSP-4259,Towing Winch,ExxonMobil,Milaha Barge,2824.0,139.59,173.9,Awaiting Repair,Normal
+2024-06-15,NSP-8835,Towing Winch,Indigenous Oil Co,Bonny Island,0.0,136.38,286.6,Deployed,Normal
+2024-06-15,NSP-2829,Offshore Trash Skip,Indigenous Oil Co,Milaha Barge,3773.0,146.25,82.3,Awaiting Repair,Normal
+2024-07-22,NSP-5458,VideoRay Pro 4 ROV,TotalEnergies,Milaha Barge,2400.0,151.4,95.4,Standby,Normal
+2024-10-11,NSP-7139,Sub Sea ROV M8,Shell (SPDC),Onne FOT,4003500.0,170.91,449.8,Deployed,Normal
+2024-06-15,NSP-2439,VideoRay Pro 4 ROV,Indigenous Oil Co,Escravos,1801.0,236.63,425.1,In Maintenance,Normal
+2024-06-15,NSP-7652,Sub Sea ROV M8,Shell (SPDC),Escravos,858.0,261.57,499.26,Awaiting Repair,High
+2024-01-08,NSP-9458,Rhino Boat,Indigenous Oil Co,Bonny Island,4760.0,172.75,109.6,In Maintenance,Normal
+2024-06-15,NSP-6867,Sub Sea ROV M8,ExxonMobil,Offshore Rig Alpha,2460.0,188.04,258.2,Standby,Normal
+2024-08-15,NSP-2970,VideoRay Pro 4 ROV,ExxonMobil,Forcados Terminal,2954.0,285.8,491.3,Standby,High
+2024-06-15,NSP-8661,Offshore Trash Skip,Indigenous Oil Co,Milaha Barge,2884.0,160.23901408450706,447.6,Awaiting Repair,Normal
+2024-06-15,NSP-8537,Pipe Tracker,Chevron,Onne FOT,2867.0,118.66,480.18,Awaiting Repair,Normal
+2024-06-15,NSP-9448,VideoRay Pro 4 ROV,ExxonMobil,Escravos,2072.0,193.12,396.0,In Maintenance,Normal
+2024-01-23,NSP-3130,VideoRay Pro 4 ROV,TotalEnergies,Offshore Rig Alpha,1369500.0,255.47,364.11,Awaiting Repair,High
+2024-06-15,NSP-5727,VideoRay Pro 5 ROV,TotalEnergies,Offshore Rig Alpha,1997.0,189.23,176.5,Deployed,Normal
+2024-10-21,NSP-8241,VideoRay Pro 4 ROV,Chevron,Bonny Island,1404000.0,224.06,373.9,Awaiting Repair,Normal
+2024-06-15,NSP-7919,VideoRay Pro 5 ROV,Chevron,Bonny Island,1511.0,126.07,104.0,Standby,Normal
+2024-10-16,NSP-7468,Rhino Boat,ExxonMobil,Onne FOT,0.0,152.66852631578945,427.71,Awaiting Repair,Normal
+2024-05-18,NSP-3224,VideoRay Pro 4 ROV,ExxonMobil,Escravos,4732.0,98.36,451.3,Deployed,Normal
+2024-05-08,NSP-6904,VideoRay Pro 4 ROV,ExxonMobil,Onne FOT,0.0,176.11,484.7,In Maintenance,Normal
+2024-06-15,NSP-2519,Pipe Tracker,Chevron,Offshore Rig Alpha,5035500.0,109.18,439.6,Standby,Normal
+2024-06-15,NSP-2772,Towing Winch,Chevron,Onne FOT,3288.0,181.11,446.79,Awaiting Repair,Normal
+2024-10-18,NSP-2548,Pipe Tracker,Shell (SPDC),Onne FOT,1439.0,93.06,449.97,In Maintenance,Normal
+2024-06-15,NSP-8703,Sub Sea ROV M8,Indigenous Oil Co,Escravos,4096.0,139.1,288.9,Deployed,Normal
+2024-07-06,NSP-6818,120kva Generator,Shell (SPDC),Milaha Barge,4714.0,18.06,489.72,Deployed,Normal
+2024-11-08,NSP-5402,Towing Winch,Shell (SPDC),Escravos,4525.0,238.55,296.8,Awaiting Repair,Normal
+2024-06-15,NSP-6243,Rhino Boat,ExxonMobil,Milaha Barge,1143.0,241.88,321.5,Awaiting Repair,Normal
+2024-06-15,NSP-1025,Sub Sea ROV M8,Shell (SPDC),Milaha Barge,1479.0,139.71,138.33,Standby,Normal
+2024-09-23,NSP-3606,Sub Sea ROV M8,Shell (SPDC),Offshore Rig Alpha,3983.0,117.5,201.8,In Maintenance,Normal
+2025-04-01,NSP-3645,Offshore Trash Skip,Chevron,Offshore Rig Alpha,4192500.0,69.62,356.16,In Maintenance,Normal
+2024-08-10,NSP-5958,Pipe Tracker,ExxonMobil,Bonny Island,1616.0,159.24,111.6,In Maintenance,Normal
+2024-06-15,NSP-1619,Rhino Boat,TotalEnergies,Forcados Terminal,2993.0,152.66852631578945,330.1,Standby,Normal
+2024-06-15,NSP-7976,Sub Sea ROV M8,TotalEnergies,Onne FOT,1429.0,81.84,373.65,Standby,Normal
+2024-08-29,NSP-6722,120kva Generator,Indigenous Oil Co,Escravos,4452000.0,87.48,431.6,Deployed,Normal
+2024-12-29,NSP-4824,Cargo Basket,TotalEnergies,Bonny Island,1961.0,180.23,70.2,Awaiting Repair,Normal
+2024-06-15,NSP-9345,VideoRay Pro 4 ROV,Indigenous Oil Co,Bonny Island,4429.0,170.32,345.03,Awaiting Repair,Normal
+2024-06-15,NSP-8423,Towing Winch,TotalEnergies,Escravos,2413.0,71.02,151.2,Deployed,Normal
+2024-06-15,NSP-5316,Pipe Tracker,Shell (SPDC),Escravos,2538.0,220.55,273.48,Awaiting Repair,Normal
+2024-11-19,NSP-4075,Pipe Tracker,TotalEnergies,Milaha Barge,1890.0,129.73,362.1,Deployed,Normal
+2024-06-15,NSP-7534,Offshore Trash Skip,Indigenous Oil Co,Forcados Terminal,1080.0,160.23901408450706,213.0,Awaiting Repair,Normal
+2024-06-27,NSP-3749,Offshore Trash Skip,Indigenous Oil Co,Onne FOT,3609.0,192.89,391.6,Awaiting Repair,Normal
+2024-07-24,NSP-5538,120kva Generator,Chevron,Offshore Rig Alpha,4099.0,146.63626666666667,295.0,Deployed,Normal
+2024-01-10,NSP-2104,Towing Winch,Shell (SPDC),Milaha Barge,978000.0,198.94,368.88,Awaiting Repair,Normal
+2025-01-13,NSP-9752,VideoRay Pro 4 ROV,ExxonMobil,Forcados Terminal,666.0,131.59,120.84,Standby,Normal
+2024-06-15,NSP-5173,Cargo Basket,Chevron,Onne FOT,2067.0,146.33287234042555,402.27,In Maintenance,Normal
+2024-06-15,NSP-2855,Rhino Boat,TotalEnergies,Escravos,4422.0,33.36,267.12,Awaiting Repair,Normal
+2024-02-12,NSP-4277,Towing Winch,TotalEnergies,Milaha Barge,951.0,217.49,275.07,Awaiting Repair,Normal
+2024-06-27,NSP-8236,Offshore Trash Skip,TotalEnergies,Onne FOT,918000.0,131.67,243.7,In Maintenance,Normal
+2024-01-19,NSP-7358,VideoRay Pro 4 ROV,TotalEnergies,Offshore Rig Alpha,4561.0,85.99,352.2,Deployed,Normal
+2024-06-15,NSP-2988,VideoRay Pro 5 ROV,Chevron,Milaha Barge,0.0,83.58,101.0,Awaiting Repair,Normal
+2024-06-08,NSP-2518,Air Compressor 800cfm,ExxonMobil,Escravos,707.0,153.87,114.8,Deployed,Normal
+2024-06-15,NSP-6178,Offshore Trash Skip,ExxonMobil,Milaha Barge,3349.0,67.25,312.6,Deployed,Normal
+2024-03-23,NSP-9475,Towing Winch,Shell (SPDC),Onne FOT,3494.0,256.83,365.5,Deployed,Normal
+2024-10-31,NSP-4490,Offshore Trash Skip,ExxonMobil,Escravos,3991.0,108.43,274.1,Deployed,Normal
+2024-06-15,NSP-5017,Offshore Trash Skip,ExxonMobil,Forcados Terminal,572.0,184.88,296.1,Awaiting Repair,Normal
+2024-06-15,NSP-2526,Offshore Trash Skip,Chevron,Milaha Barge,3284.0,235.25,352.98,In Maintenance,Normal
+2024-06-15,NSP-7864,Rhino Boat,Shell (SPDC),Forcados Terminal,2493.0,134.96,181.2,In Maintenance,Normal
+2024-10-21,NSP-6738,VideoRay Pro 4 ROV,Indigenous Oil Co,Bonny Island,2373.0,83.07,242.4,In Maintenance,Normal
+2024-06-15,NSP-4074,Cargo Basket,Chevron,Onne FOT,4851.0,146.33287234042555,144.69,Deployed,Normal
+2024-06-15,NSP-3330,Sub Sea ROV M8,Chevron,Onne FOT,2568.0,139.55,53.6,Deployed,Normal
+2024-06-15,NSP-8024,Rhino Boat,Indigenous Oil Co,Forcados Terminal,3091.0,213.4,217.83,Deployed,Normal
+2024-06-15,NSP-2700,Air Compressor 800cfm,Indigenous Oil Co,Offshore Rig Alpha,3177.0,124.51,55.65,Awaiting Repair,Normal
+2024-02-14,NSP-8081,Air Compressor 800cfm,TotalEnergies,Offshore Rig Alpha,984.0,46.3,87.45,In Maintenance,Normal
+2024-06-15,NSP-6628,VideoRay Pro 5 ROV,Shell (SPDC),Onne FOT,4111.0,109.23,387.2,In Maintenance,Normal
+2024-07-13,NSP-1238,Rhino Boat,Indigenous Oil Co,Onne FOT,948.0,105.04,308.46,Deployed,Normal
+2024-06-15,NSP-7314,Rhino Boat,Shell (SPDC),Escravos,6999000.0,204.62,399.4,Deployed,Normal
+2024-01-29,NSP-7773,Cargo Basket,Shell (SPDC),Offshore Rig Alpha,4393.0,185.8,419.6,Deployed,Normal
+2024-06-15,NSP-5780,Sub Sea ROV M8,Chevron,Milaha Barge,2604.0,136.21,484.95,Deployed,Normal
+2024-06-15,NSP-7003,Cargo Basket,TotalEnergies,Milaha Barge,502.0,146.33287234042555,216.3,Standby,Normal
+2024-12-12,NSP-3854,VideoRay Pro 5 ROV,Chevron,Bonny Island,1170.0,113.29,312.7,Deployed,Normal
+2024-06-15,NSP-9995,Air Compressor 800cfm,Chevron,Forcados Terminal,3442.0,154.1,391.4,Deployed,Normal
+2024-11-27,NSP-4801,120kva Generator,Chevron,Milaha Barge,1115.0,131.47,278.25,Awaiting Repair,Normal
+2024-10-05,NSP-7111,VideoRay Pro 4 ROV,ExxonMobil,Forcados Terminal,4377.0,79.72,151.3,In Maintenance,Normal
+2024-06-15,NSP-3581,120kva Generator,Indigenous Oil Co,Forcados Terminal,1474.0,186.97,147.8,Awaiting Repair,Normal
+2024-06-15,NSP-5172,Rhino Boat,Chevron,Milaha Barge,4259.0,190.82,196.4,Awaiting Repair,Normal
+2024-06-30,NSP-7396,120kva Generator,Indigenous Oil Co,Onne FOT,3847.0,146.63626666666667,259.6,Standby,Normal
+2024-05-07,NSP-4839,Pipe Tracker,TotalEnergies,Milaha Barge,0.0,202.09,367.8,Standby,Normal
+2024-07-15,NSP-7039,Cargo Basket,TotalEnergies,Offshore Rig Alpha,567.0,238.44,153.0,In Maintenance,Normal
+2024-06-15,NSP-5383,Sub Sea ROV M8,TotalEnergies,Forcados Terminal,3327.0,125.39,473.0,In Maintenance,Normal
+2024-06-30,NSP-7982,Rhino Boat,ExxonMobil,Onne FOT,0.0,152.66852631578945,299.6,Standby,Normal
+2024-08-01,NSP-2141,VideoRay Pro 4 ROV,ExxonMobil,Offshore Rig Alpha,6007500.0,152.7,364.8,In Maintenance,Normal
+2024-07-02,NSP-8129,VideoRay Pro 5 ROV,Shell (SPDC),Bonny Island,0.0,129.03,365.7,Awaiting Repair,Normal
+2024-06-15,NSP-3259,Air Compressor 800cfm,Indigenous Oil Co,Milaha Barge,1454.0,162.45,178.9,Deployed,Normal
+2024-04-28,NSP-7065,Rhino Boat,ExxonMobil,Milaha Barge,2076000.0,167.15,88.3,In Maintenance,Normal
+2024-02-19,NSP-7026,Rhino Boat,Indigenous Oil Co,Offshore Rig Alpha,3655.0,165.42,248.04,Awaiting Repair,Normal
+2024-06-15,NSP-8542,VideoRay Pro 4 ROV,TotalEnergies,Bonny Island,2304000.0,131.03,438.84,In Maintenance,Normal
+2024-07-10,NSP-8657,Cargo Basket,Shell (SPDC),Milaha Barge,2443.0,166.6,87.0,Deployed,Normal
+2024-09-21,NSP-8124,Towing Winch,Chevron,Forcados Terminal,3942.0,158.7,473.82,Awaiting Repair,Normal
+2024-06-15,NSP-3535,120kva Generator,Indigenous Oil Co,Forcados Terminal,726.0,98.05,237.3,Deployed,Normal
+2024-12-25,NSP-9411,Towing Winch,Indigenous Oil Co,Offshore Rig Alpha,769.0,45.17,113.6,Standby,Normal
+2024-08-24,NSP-1698,VideoRay Pro 5 ROV,ExxonMobil,Onne FOT,2794.0,193.19,409.0,Standby,Normal
+2024-11-09,NSP-9467,Offshore Trash Skip,ExxonMobil,Forcados Terminal,2834.0,160.23901408450706,441.8,Deployed,Normal
+2024-06-15,NSP-9347,VideoRay Pro 4 ROV,Shell (SPDC),Forcados Terminal,4704.0,105.67,403.6,Awaiting Repair,Normal
+2024-09-02,NSP-7771,VideoRay Pro 4 ROV,Shell (SPDC),Bonny Island,4608.0,151.22969924812028,142.0,In Maintenance,Normal
+2024-06-15,NSP-4871,Offshore Trash Skip,ExxonMobil,Onne FOT,2348.0,169.15,61.2,Deployed,Normal
+2024-06-15,NSP-5485,VideoRay Pro 4 ROV,Chevron,Offshore Rig Alpha,3613.0,166.25,354.8,Deployed,Normal
+2024-06-15,NSP-9464,Towing Winch,TotalEnergies,Offshore Rig Alpha,2686.0,127.69,68.7,Awaiting Repair,Normal
+2024-04-28,NSP-6869,Pipe Tracker,TotalEnergies,Bonny Island,4297.0,199.56,495.5,Deployed,Normal
+2024-06-15,NSP-7797,VideoRay Pro 4 ROV,Indigenous Oil Co,Onne FOT,0.0,201.92,318.0,Standby,Normal
+2024-06-15,NSP-2186,120kva Generator,ExxonMobil,Onne FOT,1805.0,122.22,473.7,Deployed,Normal
+2024-06-23,NSP-5765,Air Compressor 800cfm,TotalEnergies,Milaha Barge,4735.0,106.42,171.72,Deployed,Normal
+2024-04-25,NSP-8279,Sub Sea ROV M8,ExxonMobil,Bonny Island,6077999.999999999,188.79,225.6,Standby,Normal
+2024-08-14,NSP-5287,Rhino Boat,Indigenous Oil Co,Milaha Barge,2486.0,218.6,87.45,Deployed,Normal
+2024-06-15,NSP-1890,120kva Generator,Indigenous Oil Co,Forcados Terminal,1084.0,194.35,150.4,In Maintenance,Normal
+2024-03-04,NSP-5647,Air Compressor 800cfm,Indigenous Oil Co,Onne FOT,0.0,155.55086956521737,361.4,Deployed,Normal
+2024-06-30,NSP-5591,Sub Sea ROV M8,Indigenous Oil Co,Offshore Rig Alpha,4617.0,207.68,144.69,Standby,Normal
+2024-06-15,NSP-8984,120kva Generator,Shell (SPDC),Milaha Barge,768.0,124.07,103.4,In Maintenance,Normal
+2024-01-20,NSP-2003,120kva Generator,TotalEnergies,Onne FOT,1911.0,143.26,325.8,Standby,Normal
+2024-06-15,NSP-8331,Cargo Basket,Indigenous Oil Co,Offshore Rig Alpha,2395.0,114.67,483.0,In Maintenance,Normal
+2024-12-25,NSP-1961,Offshore Trash Skip,ExxonMobil,Escravos,1807.0,135.76,168.1,Standby,Normal
+2024-06-15,NSP-7316,Pipe Tracker,Indigenous Oil Co,Offshore Rig Alpha,3801.0,118.43,379.2,In Maintenance,Normal
+2024-06-15,NSP-4177,Air Compressor 800cfm,TotalEnergies,Escravos,3717.0,174.97,448.0,Deployed,Normal
+2024-02-12,NSP-1972,Pipe Tracker,TotalEnergies,Milaha Barge,1225.0,135.97,222.0,Standby,Normal
+2024-06-15,NSP-8415,VideoRay Pro 4 ROV,Shell (SPDC),Milaha Barge,2010000.0,114.25,238.5,In Maintenance,Normal
+2024-11-09,NSP-7548,Air Compressor 800cfm,Indigenous Oil Co,Onne FOT,1548.0,98.57,155.82,Awaiting Repair,Normal
+2024-06-15,NSP-9622,Towing Winch,Chevron,Bonny Island,5349000.0,132.06,55.1,Awaiting Repair,Normal
+2024-09-02,NSP-3059,Cargo Basket,Indigenous Oil Co,Offshore Rig Alpha,2830.0,145.92,281.43,Standby,Normal
+2024-09-09,NSP-1969,Rhino Boat,Indigenous Oil Co,Bonny Island,0.0,50.73,87.45,Awaiting Repair,Normal
+2024-06-15,NSP-4969,Offshore Trash Skip,Chevron,Forcados Terminal,3592.0,119.5,117.66,In Maintenance,Normal
+2024-12-25,NSP-9339,Air Compressor 800cfm,Shell (SPDC),Bonny Island,3998.0,99.89,158.2,In Maintenance,Normal
+2024-12-08,NSP-2170,VideoRay Pro 4 ROV,Chevron,Offshore Rig Alpha,0.0,112.38,120.3,Standby,Normal
+2024-06-12,NSP-1244,Pipe Tracker,TotalEnergies,Onne FOT,787.0,58.2,432.48,Standby,Normal
+2024-06-15,NSP-7761,Cargo Basket,Chevron,Milaha Barge,2110500.0,110.78,182.85,Awaiting Repair,Normal
+2024-01-19,NSP-6856,Rhino Boat,Indigenous Oil Co,Onne FOT,766500.0,152.66852631578945,258.8,In Maintenance,Normal
+2024-06-15,NSP-8240,120kva Generator,ExxonMobil,Milaha Barge,4365000.0,132.8,317.4,Deployed,Normal
+2024-06-15,NSP-3172,Offshore Trash Skip,Indigenous Oil Co,Milaha Barge,4916.0,264.7,229.0,In Maintenance,Normal
+2024-06-15,NSP-5535,VideoRay Pro 5 ROV,Shell (SPDC),Onne FOT,7390500.0,143.64,377.1,Deployed,Normal
+2024-01-18,NSP-8148,Pipe Tracker,Indigenous Oil Co,Offshore Rig Alpha,7077000.0,109.89,69.1,Awaiting Repair,Normal
+2024-06-17,NSP-8454,VideoRay Pro 5 ROV,TotalEnergies,Onne FOT,4366.0,131.23,103.35,Awaiting Repair,Normal
+2024-12-25,NSP-9832,Rhino Boat,ExxonMobil,Bonny Island,2838.0,127.81,494.49,Standby,Normal
+2024-06-15,NSP-8493,120kva Generator,Indigenous Oil Co,Escravos,4103.0,209.75,187.6,Deployed,Normal
+2024-11-06,NSP-6162,Offshore Trash Skip,TotalEnergies,Bonny Island,3644.0,183.98,188.4,Awaiting Repair,Normal
+2024-06-15,NSP-7582,Cargo Basket,TotalEnergies,Milaha Barge,1423.0,204.84,489.0,In Maintenance,Normal
+2024-10-20,NSP-8833,Pipe Tracker,ExxonMobil,Escravos,1441.0,94.82,83.6,Standby,Normal
+2024-02-15,NSP-7448,Rhino Boat,Chevron,Escravos,1792.0,156.78,354.0,Awaiting Repair,Normal
+2024-02-08,NSP-1272,Air Compressor 800cfm,TotalEnergies,Offshore Rig Alpha,1246.0,140.93,122.9,In Maintenance,Normal
+2024-06-15,NSP-7360,Rhino Boat,Chevron,Offshore Rig Alpha,3165.0,125.28,228.6,Deployed,Normal
+2024-06-17,NSP-9693,Cargo Basket,Chevron,Bonny Island,7464000.0,108.07,67.1,Deployed,Normal
+2024-06-26,NSP-6275,Pipe Tracker,ExxonMobil,Forcados Terminal,1419.0,152.66779069767443,304.6,Awaiting Repair,Normal
+2024-12-25,NSP-7365,Offshore Trash Skip,ExxonMobil,Milaha Barge,4122.0,160.23901408450706,264.6,In Maintenance,Normal
+2024-09-09,NSP-8933,Cargo Basket,Indigenous Oil Co,Offshore Rig Alpha,4320.0,165.86,261.3,Deployed,Normal
+2024-06-15,NSP-4956,120kva Generator,ExxonMobil,Offshore Rig Alpha,0.0,120.5,247.9,In Maintenance,Normal
+2024-06-19,NSP-3181,120kva Generator,Chevron,Onne FOT,1390.0,192.21,299.6,Standby,Normal
+2024-06-15,NSP-4854,Air Compressor 800cfm,Indigenous Oil Co,Escravos,1078500.0,174.95,426.8,Standby,Normal
+2024-06-15,NSP-5270,Pipe Tracker,ExxonMobil,Escravos,3170.0,178.17,171.72,Deployed,Normal
+2024-06-15,NSP-4440,Pipe Tracker,Shell (SPDC),Milaha Barge,4399.0,17.55,315.1,Awaiting Repair,Normal
+2024-07-06,NSP-2819,Towing Winch,Chevron,Escravos,4362.0,217.58,114.2,Awaiting Repair,Normal
+2024-06-15,NSP-6911,Rhino Boat,Indigenous Oil Co,Forcados Terminal,4706.0,132.42,68.6,Deployed,Normal
+2024-04-27,NSP-4510,VideoRay Pro 5 ROV,TotalEnergies,Escravos,3807000.0,152.93,246.7,Standby,Normal
+2024-01-26,NSP-3962,120kva Generator,ExxonMobil,Escravos,2251.0,120.13,239.0,Awaiting Repair,Normal
+2024-06-25,NSP-7671,Cargo Basket,ExxonMobil,Escravos,626.0,203.9,283.8,Awaiting Repair,Normal
+2024-06-15,NSP-2375,Air Compressor 800cfm,Indigenous Oil Co,Escravos,4680.0,62.3,378.9,In Maintenance,Normal
+2024-12-08,NSP-2073,Towing Winch,ExxonMobil,Escravos,2382.0,95.24,61.3,In Maintenance,Normal
+2024-01-09,NSP-9488,Towing Winch,TotalEnergies,Onne FOT,4891.0,130.09,319.7,Deployed,Normal
+2024-03-15,NSP-2058,VideoRay Pro 5 ROV,Shell (SPDC),Bonny Island,0.0,119.4,213.06,Deployed,Normal
+2024-06-15,NSP-2871,VideoRay Pro 5 ROV,ExxonMobil,Milaha Barge,2261.0,73.28,197.16,In Maintenance,Normal
+2024-02-14,NSP-5476,Sub Sea ROV M8,Shell (SPDC),Bonny Island,3020999.9999999995,191.94,146.28,Standby,Normal
+2024-04-18,NSP-7915,Cargo Basket,Chevron,Forcados Terminal,771.0,199.47,448.7,In Maintenance,Normal
+2024-06-15,NSP-1548,Pipe Tracker,Chevron,Bonny Island,2460000.0,152.66779069767443,144.3,Awaiting Repair,Normal
+2024-07-17,NSP-1798,120kva Generator,Chevron,Bonny Island,1290.0,139.87,448.38,Awaiting Repair,Normal
+2024-09-05,NSP-9516,Cargo Basket,TotalEnergies,Offshore Rig Alpha,1629.0,113.01,143.0,Standby,Normal
+2024-06-15,NSP-2167,Rhino Boat,TotalEnergies,Milaha Barge,3586.0,133.04,219.5,Awaiting Repair,Normal
+2024-03-23,NSP-3181,VideoRay Pro 4 ROV,Indigenous Oil Co,Offshore Rig Alpha,1472.0,168.5,461.1,Deployed,Normal
+2024-06-15,NSP-5922,Cargo Basket,TotalEnergies,Bonny Island,6079500.0,146.33287234042555,357.75,Awaiting Repair,Normal
+2024-06-15,NSP-1615,Towing Winch,TotalEnergies,Onne FOT,3216.0,143.49,443.61,Standby,Normal
+2024-06-15,NSP-6806,Towing Winch,TotalEnergies,Bonny Island,1189.0,138.52,491.6,In Maintenance,Normal
+2024-09-09,NSP-7414,VideoRay Pro 4 ROV,Chevron,Bonny Island,6298500.0,53.24,71.2,Standby,Normal
+2025-01-21,NSP-8265,Towing Winch,Chevron,Offshore Rig Alpha,851.0,155.44169811320754,165.0,Standby,Normal
+2024-10-07,NSP-5435,Towing Winch,Indigenous Oil Co,Forcados Terminal,4987.0,156.54,441.1,Deployed,Normal
+2024-09-28,NSP-7468,Cargo Basket,Indigenous Oil Co,Bonny Island,1438.0,154.22,318.2,Awaiting Repair,Normal
+2024-04-14,NSP-3925,Rhino Boat,Shell (SPDC),Milaha Barge,0.0,232.56,429.7,Standby,Normal
+2024-06-04,NSP-6583,Rhino Boat,Chevron,Milaha Barge,2672.0,222.78,66.0,In Maintenance,Normal
+2024-04-22,NSP-1498,Rhino Boat,Chevron,Milaha Barge,3520.0,190.37,444.9,In Maintenance,Normal
+2024-06-15,NSP-4199,VideoRay Pro 5 ROV,ExxonMobil,Escravos,4077.0,150.71500000000003,232.14,In Maintenance,Normal
+2024-06-30,NSP-4605,VideoRay Pro 4 ROV,TotalEnergies,Bonny Island,6003000.0,151.22969924812028,150.8,In Maintenance,Normal
+2024-02-11,NSP-2910,VideoRay Pro 4 ROV,TotalEnergies,Onne FOT,2659.0,206.28,462.1,Awaiting Repair,Normal
+2024-04-23,NSP-1060,VideoRay Pro 4 ROV,Chevron,Bonny Island,6072000.0,90.04,381.6,Deployed,Normal
+2024-06-15,NSP-5703,VideoRay Pro 4 ROV,TotalEnergies,Milaha Barge,1034.0,202.78,389.5,In Maintenance,Normal
+2024-03-21,NSP-6398,120kva Generator,Chevron,Forcados Terminal,3420.0,150.52,89.4,Standby,Normal
+2024-01-27,NSP-4791,VideoRay Pro 4 ROV,Indigenous Oil Co,Milaha Barge,3168.0,151.69,278.7,Standby,Normal
+2024-08-12,NSP-4644,VideoRay Pro 5 ROV,ExxonMobil,Offshore Rig Alpha,3228.0,244.15,413.4,Standby,Normal
+2024-03-30,NSP-1666,Offshore Trash Skip,ExxonMobil,Onne FOT,5502000.0,198.94,363.2,Awaiting Repair,Normal
+2024-06-15,NSP-3121,Offshore Trash Skip,Shell (SPDC),Forcados Terminal,2560.0,160.23901408450706,360.5,Awaiting Repair,Normal
+2024-06-14,NSP-4001,Rhino Boat,TotalEnergies,Forcados Terminal,2776.0,186.03,100.2,Deployed,Normal
+2024-05-31,NSP-8505,VideoRay Pro 4 ROV,TotalEnergies,Bonny Island,995.0,120.64,449.97,Awaiting Repair,Normal
+2024-06-15,NSP-7481,Towing Winch,Indigenous Oil Co,Escravos,654.0,165.09,204.0,In Maintenance,Normal
+2024-01-10,NSP-9052,VideoRay Pro 4 ROV,ExxonMobil,Forcados Terminal,4267.0,158.78,213.5,In Maintenance,Normal
+2024-02-18,NSP-5185,Cargo Basket,Shell (SPDC),Milaha Barge,643.0,216.27,387.2,Deployed,Normal
+2024-06-15,NSP-4661,Offshore Trash Skip,Chevron,Bonny Island,4493.0,79.66,454.1,In Maintenance,Normal
+2024-06-15,NSP-8489,Rhino Boat,ExxonMobil,Offshore Rig Alpha,1980.0,99.65,435.6,Awaiting Repair,Normal
+2024-02-13,NSP-6190,120kva Generator,TotalEnergies,Offshore Rig Alpha,5890500.0,134.36,318.8,Awaiting Repair,Normal
+2024-04-16,NSP-5500,Air Compressor 800cfm,Indigenous Oil Co,Onne FOT,642.0,165.72,138.33,Standby,Normal
+2024-06-15,NSP-1882,Pipe Tracker,Shell (SPDC),Bonny Island,3325.0,241.91,73.8,Standby,Normal
+2025-01-31,NSP-7795,Cargo Basket,Shell (SPDC),Milaha Barge,3703.0,168.28,197.8,Awaiting Repair,Normal
+2024-03-05,NSP-8124,Offshore Trash Skip,Indigenous Oil Co,Bonny Island,2759.0,118.7,278.0,In Maintenance,Normal
+2024-06-15,NSP-9084,Air Compressor 800cfm,Indigenous Oil Co,Onne FOT,1769.0,155.55086956521737,196.1,In Maintenance,Normal
+2024-06-15,NSP-9216,VideoRay Pro 4 ROV,TotalEnergies,Milaha Barge,1255.0,124.79,277.2,Deployed,Normal
+2024-06-15,NSP-1308,Air Compressor 800cfm,Chevron,Bonny Island,4164000.0,234.23,192.39,Deployed,Normal
+2024-07-04,NSP-4381,Offshore Trash Skip,Shell (SPDC),Bonny Island,4379.0,242.19,181.26,Awaiting Repair,Normal
+2025-01-26,NSP-2131,Towing Winch,ExxonMobil,Milaha Barge,3981.0,196.62,281.43,Deployed,Normal
+2024-06-15,NSP-6636,Sub Sea ROV M8,TotalEnergies,Milaha Barge,0.0,129.24,410.22,Awaiting Repair,Normal
+2024-06-29,NSP-7154,VideoRay Pro 5 ROV,ExxonMobil,Milaha Barge,1259.0,90.54,390.4,Deployed,Normal
+2024-08-08,NSP-7964,VideoRay Pro 4 ROV,Chevron,Onne FOT,2459.0,202.7,493.6,Awaiting Repair,Normal
+2024-06-15,NSP-2388,VideoRay Pro 4 ROV,Chevron,Offshore Rig Alpha,3071.0,104.54,134.1,Standby,Normal
+2024-11-19,NSP-9412,VideoRay Pro 4 ROV,TotalEnergies,Offshore Rig Alpha,1723.0,151.22969924812028,156.0,Standby,Normal
+2024-06-15,NSP-9417,VideoRay Pro 4 ROV,Shell (SPDC),Offshore Rig Alpha,4810.0,202.74,477.0,Awaiting Repair,Normal
+2024-11-09,NSP-8952,VideoRay Pro 5 ROV,TotalEnergies,Escravos,3229.0,140.66,216.2,Awaiting Repair,Normal
+2024-06-18,NSP-6287,Air Compressor 800cfm,TotalEnergies,Escravos,1418.0,155.55086956521737,361.3,In Maintenance,Normal
+2024-06-15,NSP-1706,Cargo Basket,Shell (SPDC),Offshore Rig Alpha,3938.0,18.97,182.7,In Maintenance,Normal
+2024-03-05,NSP-1402,Air Compressor 800cfm,Indigenous Oil Co,Milaha Barge,4434.0,122.78,276.2,In Maintenance,Normal
+2024-06-15,NSP-5137,Offshore Trash Skip,Shell (SPDC),Forcados Terminal,6498000.0,196.57,204.4,Standby,Normal
+2025-01-28,NSP-4129,120kva Generator,Shell (SPDC),Offshore Rig Alpha,3238.0,155.56,85.86,Standby,Normal
+2024-10-22,NSP-5992,Pipe Tracker,Chevron,Escravos,945.0,168.87,225.1,Deployed,Normal
+2024-06-15,NSP-2410,Air Compressor 800cfm,Chevron,Forcados Terminal,3033.0,162.18,175.6,Standby,Normal
+2024-11-18,NSP-6616,120kva Generator,Shell (SPDC),Onne FOT,4846500.0,95.49,475.1,Deployed,Normal
+2024-06-15,NSP-3810,Air Compressor 800cfm,Shell (SPDC),Bonny Island,4125.0,242.83,497.67,Awaiting Repair,Normal
+2024-07-15,NSP-9720,Offshore Trash Skip,TotalEnergies,Escravos,2492.0,125.91,90.8,Standby,Normal
+2024-06-15,NSP-2545,Towing Winch,TotalEnergies,Escravos,1419.0,120.01,134.4,Awaiting Repair,Normal
+2025-01-14,NSP-6027,VideoRay Pro 5 ROV,Chevron,Bonny Island,1178.0,204.92,466.6,In Maintenance,Normal
+2024-12-25,NSP-3241,Towing Winch,TotalEnergies,Offshore Rig Alpha,1778.0,247.93,195.3,In Maintenance,Normal
+2024-06-15,NSP-7523,120kva Generator,ExxonMobil,Milaha Barge,880500.0,146.63626666666667,476.8,In Maintenance,Normal
+2024-04-17,NSP-4250,VideoRay Pro 4 ROV,Chevron,Bonny Island,1225500.0,151.22969924812028,271.4,Standby,Normal
+2024-06-26,NSP-6495,VideoRay Pro 5 ROV,Chevron,Bonny Island,2761.0,150.71500000000003,267.12,In Maintenance,Normal
+2024-06-15,NSP-4127,120kva Generator,ExxonMobil,Onne FOT,3739500.0,138.78,186.5,Awaiting Repair,Normal
+2024-10-28,NSP-3581,120kva Generator,TotalEnergies,Escravos,2267.0,201.06,400.68,Standby,Normal
+2024-06-15,NSP-1639,Sub Sea ROV M8,Indigenous Oil Co,Escravos,6183000.0,207.02,228.6,Standby,Normal
+2024-06-15,NSP-6185,Air Compressor 800cfm,Shell (SPDC),Bonny Island,2429.0,155.55086956521737,154.8,Deployed,Normal
+2024-06-15,NSP-4932,Air Compressor 800cfm,Indigenous Oil Co,Onne FOT,2873.0,182.47,101.3,Awaiting Repair,Normal
+2024-06-15,NSP-3735,VideoRay Pro 4 ROV,ExxonMobil,Milaha Barge,2845500.0,179.09,295.74,Standby,Normal
+2024-11-05,NSP-4933,Pipe Tracker,Chevron,Forcados Terminal,2897.0,143.35,384.0,Standby,Normal
+2024-01-07,NSP-2928,VideoRay Pro 4 ROV,Indigenous Oil Co,Offshore Rig Alpha,3000.0,192.46,368.88,Deployed,Normal
+2024-06-15,NSP-5042,Pipe Tracker,Chevron,Escravos,0.0,204.0,488.5,Deployed,Normal
+2024-06-15,NSP-9772,Air Compressor 800cfm,Shell (SPDC),Milaha Barge,1642500.0,197.14,365.7,In Maintenance,Normal
+2024-06-15,NSP-5366,Cargo Basket,TotalEnergies,Onne FOT,1001.0,201.95,364.8,Awaiting Repair,Normal
+2024-06-15,NSP-6336,Rhino Boat,TotalEnergies,Onne FOT,4941000.0,176.53,160.1,Deployed,Normal
+2024-06-15,NSP-5597,Pipe Tracker,ExxonMobil,Bonny Island,1971.0,231.24,312.1,Deployed,Normal
+2024-06-15,NSP-4320,Air Compressor 800cfm,TotalEnergies,Forcados Terminal,1347.0,215.15,499.2,In Maintenance,Normal
+2024-06-15,NSP-7985,Rhino Boat,Chevron,Bonny Island,3960.0,199.21,391.7,Deployed,Normal
+2024-03-07,NSP-5631,Cargo Basket,ExxonMobil,Onne FOT,3151500.0,95.12,352.8,Deployed,Normal
+2025-01-19,NSP-6577,Offshore Trash Skip,TotalEnergies,Bonny Island,7050000.0,123.31,461.1,Awaiting Repair,Normal
+2024-06-15,NSP-3441,VideoRay Pro 4 ROV,TotalEnergies,Milaha Barge,1794.0,117.31,189.3,In Maintenance,Normal
+2024-06-15,NSP-2823,Air Compressor 800cfm,ExxonMobil,Forcados Terminal,4854.0,174.44,295.6,Deployed,Normal
+2024-06-15,NSP-2132,120kva Generator,ExxonMobil,Forcados Terminal,2252.0,86.71,240.6,Deployed,Normal
+2024-06-15,NSP-2620,Offshore Trash Skip,Shell (SPDC),Bonny Island,1987.0,209.01,170.13,Standby,Normal
+2024-02-18,NSP-2537,VideoRay Pro 5 ROV,TotalEnergies,Onne FOT,737.0,207.21,109.3,Standby,Normal
+2024-06-15,NSP-8281,Offshore Trash Skip,Shell (SPDC),Offshore Rig Alpha,769.0,168.51,79.5,Awaiting Repair,Normal
+2024-11-30,NSP-9511,Offshore Trash Skip,Indigenous Oil Co,Milaha Barge,4516.0,179.22,232.3,In Maintenance,Normal
+2024-01-20,NSP-8456,Towing Winch,TotalEnergies,Offshore Rig Alpha,960.0,222.61,489.8,In Maintenance,Normal
+2024-05-10,NSP-1470,Towing Winch,Shell (SPDC),Milaha Barge,4981.0,150.71,124.9,Deployed,Normal
+2024-06-15,NSP-2790,VideoRay Pro 5 ROV,TotalEnergies,Forcados Terminal,0.0,158.36,388.8,Standby,Normal
+2024-06-15,NSP-8129,Sub Sea ROV M8,Chevron,Forcados Terminal,2735.0,151.92,321.9,Awaiting Repair,Normal
+2024-06-15,NSP-5376,120kva Generator,TotalEnergies,Forcados Terminal,2513.0,153.39,481.9,Standby,Normal
+2024-06-15,NSP-8968,Air Compressor 800cfm,TotalEnergies,Forcados Terminal,2573.0,49.0,387.7,Standby,Normal
+2024-06-15,NSP-2770,Air Compressor 800cfm,Chevron,Milaha Barge,2653.0,72.75,351.2,Deployed,Normal
+2024-05-23,NSP-5753,Air Compressor 800cfm,TotalEnergies,Onne FOT,2211.0,123.03,410.4,Awaiting Repair,Normal
+2024-06-15,NSP-7376,Cargo Basket,Chevron,Forcados Terminal,2061.0,96.25,94.6,Standby,Normal
+2024-06-15,NSP-9895,VideoRay Pro 5 ROV,Shell (SPDC),Escravos,725.0,156.23,87.9,Standby,Normal
+2024-06-15,NSP-2196,Sub Sea ROV M8,TotalEnergies,Offshore Rig Alpha,620.0,201.63,85.4,Awaiting Repair,Normal
+2024-11-09,NSP-1754,Pipe Tracker,Chevron,Milaha Barge,3202.0,152.66779069767443,445.7,In Maintenance,Normal
+2024-08-19,NSP-2428,Pipe Tracker,TotalEnergies,Milaha Barge,0.0,75.2,396.4,Standby,Normal
+2024-06-15,NSP-4229,VideoRay Pro 4 ROV,Indigenous Oil Co,Onne FOT,3053.0,197.97,140.4,Deployed,Normal
+2024-06-15,NSP-3739,VideoRay Pro 4 ROV,Indigenous Oil Co,Forcados Terminal,4498.0,151.88,349.7,Deployed,Normal
+2024-11-12,NSP-5868,Offshore Trash Skip,Indigenous Oil Co,Escravos,3957.0,136.32,418.7,Awaiting Repair,Normal
+2024-06-15,NSP-2781,Pipe Tracker,Shell (SPDC),Milaha Barge,2517.0,175.94,275.8,Awaiting Repair,Normal
+2024-06-15,NSP-7614,Cargo Basket,Chevron,Forcados Terminal,1441.0,146.33287234042555,251.22,Awaiting Repair,Normal
+2024-06-15,NSP-7617,VideoRay Pro 4 ROV,Chevron,Forcados Terminal,4809.0,126.54,69.96,Standby,Normal
+2024-03-19,NSP-8860,VideoRay Pro 4 ROV,Indigenous Oil Co,Milaha Barge,900.0,211.71,288.2,Standby,Normal
+2024-06-15,NSP-1858,Rhino Boat,Chevron,Forcados Terminal,1428.0,181.75,490.2,Deployed,Normal
+2024-06-15,NSP-7952,Air Compressor 800cfm,TotalEnergies,Bonny Island,2563.0,269.58,484.5,Deployed,Normal
+2024-01-04,NSP-4253,120kva Generator,Chevron,Escravos,4698.0,146.63626666666667,434.07,Standby,Normal
+2024-11-08,NSP-9529,Rhino Boat,Chevron,Forcados Terminal,6019500.0,109.8,219.3,In Maintenance,Normal
+2024-06-15,NSP-7546,Rhino Boat,ExxonMobil,Escravos,4038.0,204.91,321.3,Deployed,Normal
+2024-01-29,NSP-5938,Cargo Basket,ExxonMobil,Milaha Barge,7018500.0,131.01,336.8,Standby,Normal
+2024-05-18,NSP-9212,VideoRay Pro 5 ROV,Chevron,Escravos,1591500.0,101.36,277.4,Standby,Normal
+2024-03-26,NSP-8111,Offshore Trash Skip,TotalEnergies,Onne FOT,1674.0,175.71,233.3,Awaiting Repair,Normal
+2024-04-04,NSP-5749,120kva Generator,ExxonMobil,Offshore Rig Alpha,2614.0,210.88,275.07,Deployed,Normal
+2024-06-15,NSP-4285,Rhino Boat,Shell (SPDC),Milaha Barge,5095500.0,104.05,499.26,Awaiting Repair,Normal
+2024-06-15,NSP-4308,Rhino Boat,Indigenous Oil Co,Bonny Island,2504.0,108.9,73.1,Standby,Normal
+2024-10-31,NSP-3523,Rhino Boat,Indigenous Oil Co,Milaha Barge,2707500.0,89.04,135.7,In Maintenance,Normal
+2024-06-15,NSP-2724,Towing Winch,Chevron,Milaha Barge,1720.0,203.13,342.8,Standby,Normal
+2024-06-15,NSP-6193,VideoRay Pro 5 ROV,ExxonMobil,Escravos,2720.0,150.71500000000003,259.17,Standby,Normal
+2024-06-15,NSP-4293,VideoRay Pro 4 ROV,Chevron,Onne FOT,2886.0,151.22969924812028,186.4,Standby,Normal
+2024-08-12,NSP-4551,VideoRay Pro 5 ROV,TotalEnergies,Onne FOT,1211.0,150.04,137.7,Standby,Normal
+2024-06-15,NSP-9118,VideoRay Pro 4 ROV,Chevron,Offshore Rig Alpha,7098000.0,143.83,446.6,In Maintenance,Normal
+2024-06-15,NSP-2918,Pipe Tracker,Shell (SPDC),Onne FOT,4633.0,152.66779069767443,213.3,Standby,Normal
+2024-06-15,NSP-7382,Towing Winch,Chevron,Onne FOT,4560.0,162.5,211.47,Deployed,Normal
+2024-06-15,NSP-1823,Cargo Basket,Shell (SPDC),Offshore Rig Alpha,4772.0,121.93,240.09,Awaiting Repair,Normal
+2024-06-15,NSP-9587,Pipe Tracker,TotalEnergies,Milaha Barge,2393.0,141.34,318.3,In Maintenance,Normal
+2024-08-19,NSP-4994,Towing Winch,Shell (SPDC),Bonny Island,844.0,133.67,255.0,In Maintenance,Normal
+2024-12-25,NSP-5070,Rhino Boat,TotalEnergies,Offshore Rig Alpha,1746000.0,161.62,62.01,Deployed,Normal
+2024-04-28,NSP-7895,120kva Generator,ExxonMobil,Milaha Barge,1575.0,195.07,175.1,Deployed,Normal
+2024-05-02,NSP-4403,VideoRay Pro 5 ROV,Shell (SPDC),Onne FOT,1731.0,156.47,71.5,Standby,Normal
+2024-06-15,NSP-5277,Towing Winch,Shell (SPDC),Offshore Rig Alpha,1474.0,50.72,76.32,Deployed,Normal
+2025-01-26,NSP-3268,Cargo Basket,TotalEnergies,Bonny Island,2526.0,159.52,220.4,Standby,Normal
+2024-10-19,NSP-4061,VideoRay Pro 5 ROV,Shell (SPDC),Forcados Terminal,1627.0,115.71,71.55,Standby,Normal
+2024-07-30,NSP-3224,VideoRay Pro 4 ROV,ExxonMobil,Milaha Barge,3423.0,244.8,209.88,Standby,Normal
+2025-01-13,NSP-4391,VideoRay Pro 5 ROV,TotalEnergies,Offshore Rig Alpha,4315.0,143.79,333.4,Awaiting Repair,Normal
+2024-06-15,NSP-3686,Air Compressor 800cfm,Chevron,Onne FOT,4414500.0,120.61,451.1,Deployed,Normal
+2024-06-15,NSP-7121,Cargo Basket,Indigenous Oil Co,Onne FOT,5850000.0,80.89,461.8,Awaiting Repair,Normal
+2024-12-25,NSP-6755,VideoRay Pro 5 ROV,TotalEnergies,Offshore Rig Alpha,5826000.0,181.61,80.0,Awaiting Repair,Normal
+2024-10-23,NSP-2721,Rhino Boat,Shell (SPDC),Onne FOT,4588.0,118.86,257.0,Deployed,Normal
+2024-06-15,NSP-3513,Towing Winch,Shell (SPDC),Offshore Rig Alpha,692.0,53.46,313.23,Standby,Normal
+2024-12-31,NSP-6780,Offshore Trash Skip,Indigenous Oil Co,Offshore Rig Alpha,1097.0,116.29,135.5,Deployed,Normal
+2024-06-15,NSP-8233,Air Compressor 800cfm,ExxonMobil,Milaha Barge,0.0,173.0,216.7,In Maintenance,Normal
+2024-06-15,NSP-5798,VideoRay Pro 4 ROV,ExxonMobil,Bonny Island,1088.0,161.33,222.8,Awaiting Repair,Normal
+2024-10-22,NSP-3934,Sub Sea ROV M8,TotalEnergies,Milaha Barge,2375.0,65.5,454.8,Deployed,Normal
+2024-05-13,NSP-6061,120kva Generator,TotalEnergies,Milaha Barge,4171.0,141.16,187.6,Deployed,Normal
+2024-02-05,NSP-1712,120kva Generator,Indigenous Oil Co,Onne FOT,3741.0,160.19,477.0,In Maintenance,Normal
+2024-06-15,NSP-8982,Pipe Tracker,Shell (SPDC),Milaha Barge,4793.0,215.65,454.4,In Maintenance,Normal
+2024-06-15,NSP-8740,Towing Winch,Indigenous Oil Co,Bonny Island,1566.0,129.38,248.8,Standby,Normal
+2024-03-22,NSP-3711,VideoRay Pro 4 ROV,Chevron,Milaha Barge,0.0,113.07,436.4,Awaiting Repair,Normal
+2024-11-16,NSP-5811,Pipe Tracker,Chevron,Offshore Rig Alpha,0.0,76.48,82.7,Awaiting Repair,Normal
+2024-06-15,NSP-1109,VideoRay Pro 4 ROV,Shell (SPDC),Onne FOT,605.0,86.86,220.5,Deployed,Normal
+2024-06-15,NSP-1370,Rhino Boat,Indigenous Oil Co,Escravos,604.0,173.78,260.9,In Maintenance,Normal
+2024-06-15,NSP-2667,Cargo Basket,Indigenous Oil Co,Bonny Island,1456.0,109.92,52.47,Deployed,Normal
+2024-06-15,NSP-2646,Rhino Boat,TotalEnergies,Onne FOT,3092.0,198.76,447.0,Deployed,Normal
+2024-11-15,NSP-5320,Air Compressor 800cfm,TotalEnergies,Bonny Island,4831.0,169.21,499.26,In Maintenance,Normal
+2024-06-17,NSP-6660,Cargo Basket,Chevron,Milaha Barge,3304.0,97.31,179.3,In Maintenance,Normal
+2024-06-15,NSP-9736,Sub Sea ROV M8,Chevron,Forcados Terminal,3447.0,171.39,473.5,In Maintenance,Normal
+2024-05-03,NSP-6087,VideoRay Pro 4 ROV,TotalEnergies,Forcados Terminal,1282.0,118.58,76.32,Standby,Normal
+2024-06-15,NSP-1968,Towing Winch,Chevron,Forcados Terminal,1416.0,155.44169811320754,74.5,Deployed,Normal
+2024-02-23,NSP-1583,Towing Winch,Chevron,Forcados Terminal,1481.0,180.44,146.1,Standby,Normal
+2024-01-08,NSP-6273,Sub Sea ROV M8,Shell (SPDC),Offshore Rig Alpha,2493000.0,122.14,125.61,Standby,Normal
+2024-06-15,NSP-2098,120kva Generator,Chevron,Offshore Rig Alpha,2403.0,105.81,381.0,Deployed,Normal
+2024-01-26,NSP-7837,Towing Winch,Chevron,Escravos,2229.0,161.52,87.3,Deployed,Normal
+2024-06-15,NSP-5491,120kva Generator,Indigenous Oil Co,Onne FOT,0.0,153.34,52.2,Awaiting Repair,Normal
+2024-11-26,NSP-9444,Towing Winch,TotalEnergies,Bonny Island,1793.0,110.23,51.6,Awaiting Repair,Normal
+2024-06-15,NSP-1869,120kva Generator,ExxonMobil,Escravos,3068.0,115.12,220.7,Deployed,Normal
+2024-06-15,NSP-8024,Towing Winch,Indigenous Oil Co,Forcados Terminal,576.0,102.3,279.84,In Maintenance,Normal
+2024-03-06,NSP-4374,120kva Generator,Chevron,Onne FOT,0.0,140.29,116.2,Awaiting Repair,Normal
+2024-06-15,NSP-6646,Offshore Trash Skip,Chevron,Bonny Island,2724.0,130.18,229.9,In Maintenance,Normal
+2024-03-04,NSP-9853,Air Compressor 800cfm,ExxonMobil,Onne FOT,0.0,210.4,386.9,Awaiting Repair,Normal
+2024-03-13,NSP-3709,Towing Winch,TotalEnergies,Offshore Rig Alpha,5439000.0,37.72,434.6,In Maintenance,Normal
+2024-06-15,NSP-3916,Towing Winch,ExxonMobil,Offshore Rig Alpha,509.0,175.23,219.6,Awaiting Repair,Normal
+2024-11-24,NSP-8999,Towing Winch,ExxonMobil,Onne FOT,0.0,155.44169811320754,456.33,In Maintenance,Normal
+2024-06-15,NSP-3653,Towing Winch,ExxonMobil,Forcados Terminal,1680000.0,187.91,438.5,Standby,Normal
+2024-09-24,NSP-2232,Towing Winch,Shell (SPDC),Escravos,0.0,83.0,403.3,Awaiting Repair,Normal
+2024-06-15,NSP-2195,Pipe Tracker,Indigenous Oil Co,Escravos,6265500.0,169.91,474.5,Awaiting Repair,Normal
+2024-10-09,NSP-3431,Pipe Tracker,Shell (SPDC),Onne FOT,3899.0,152.66779069767443,276.66,In Maintenance,Normal
+2024-06-15,NSP-8195,Offshore Trash Skip,Shell (SPDC),Onne FOT,0.0,183.54,67.1,Standby,Normal
+2024-11-14,NSP-6150,VideoRay Pro 5 ROV,Chevron,Onne FOT,6229500.0,275.15,325.95,In Maintenance,High
+2024-06-15,NSP-6931,Sub Sea ROV M8,TotalEnergies,Milaha Barge,7341000.0,159.19,457.92,In Maintenance,Normal
+2024-01-16,NSP-7229,VideoRay Pro 4 ROV,Chevron,Escravos,3422.0,129.28,287.2,Deployed,Normal
+2024-06-15,NSP-5460,Towing Winch,Indigenous Oil Co,Onne FOT,2678.0,121.19,331.7,Awaiting Repair,Normal
+2024-06-15,NSP-1865,Sub Sea ROV M8,Chevron,Milaha Barge,4787.0,154.55,378.42,Awaiting Repair,Normal
+2024-06-15,NSP-7681,Sub Sea ROV M8,Indigenous Oil Co,Bonny Island,2113.0,200.51,387.96,In Maintenance,Normal
+2024-12-21,NSP-4160,VideoRay Pro 4 ROV,Shell (SPDC),Offshore Rig Alpha,3552.0,147.78,465.0,In Maintenance,Normal
+2024-01-27,NSP-6769,VideoRay Pro 5 ROV,Shell (SPDC),Onne FOT,1370.0,140.47,380.4,Standby,Normal
+2024-06-15,NSP-1680,Air Compressor 800cfm,ExxonMobil,Escravos,2285.0,73.88,82.1,Standby,Normal
+2024-06-15,NSP-4081,Air Compressor 800cfm,Shell (SPDC),Escravos,1260.0,174.89,436.3,Standby,Normal
+2024-06-15,NSP-2690,120kva Generator,Indigenous Oil Co,Offshore Rig Alpha,941.0,152.17,60.1,In Maintenance,Normal
+2024-07-25,NSP-9431,VideoRay Pro 4 ROV,Indigenous Oil Co,Forcados Terminal,1680.0,159.48,164.3,Deployed,Normal
+2024-10-03,NSP-5537,120kva Generator,ExxonMobil,Milaha Barge,0.0,181.68,223.8,Awaiting Repair,Normal
+2024-02-17,NSP-2832,VideoRay Pro 5 ROV,Shell (SPDC),Onne FOT,6732000.0,150.71500000000003,113.2,Awaiting Repair,Normal
+2024-02-25,NSP-5529,Sub Sea ROV M8,Chevron,Onne FOT,3340.0,247.5,343.9,Awaiting Repair,Normal
+2024-06-15,NSP-7282,VideoRay Pro 4 ROV,ExxonMobil,Offshore Rig Alpha,3463.0,25.57,248.8,Awaiting Repair,Normal
+2024-06-15,NSP-3108,VideoRay Pro 5 ROV,Chevron,Escravos,3659.0,124.53,230.55,Awaiting Repair,Normal
+2024-06-15,NSP-2845,Towing Winch,Shell (SPDC),Forcados Terminal,4310.0,192.46,474.8,Standby,Normal
+2024-12-26,NSP-4960,120kva Generator,ExxonMobil,Escravos,1379.0,146.63626666666667,273.3,In Maintenance,Normal
+2024-06-02,NSP-2025,Air Compressor 800cfm,Chevron,Bonny Island,1167.0,146.61,272.0,Awaiting Repair,Normal
+2024-06-18,NSP-6969,Towing Winch,Indigenous Oil Co,Milaha Barge,4241.0,155.44169811320754,243.27,In Maintenance,Normal
+2024-01-31,NSP-8641,VideoRay Pro 4 ROV,TotalEnergies,Onne FOT,0.0,158.03,77.91,Deployed,Normal
+2024-06-15,NSP-3982,Air Compressor 800cfm,Chevron,Bonny Island,1464.0,218.11,200.34,Standby,Normal
+2024-09-13,NSP-2074,Pipe Tracker,Indigenous Oil Co,Bonny Island,1861.0,139.78,249.63,Standby,Normal
+2024-06-15,NSP-8972,Cargo Basket,TotalEnergies,Forcados Terminal,2676.0,141.82,60.4,Deployed,Normal
+2024-07-07,NSP-6241,Cargo Basket,TotalEnergies,Offshore Rig Alpha,2254.0,173.47,424.53,Awaiting Repair,Normal
+2024-06-15,NSP-8034,Air Compressor 800cfm,ExxonMobil,Onne FOT,4020.0,180.84,430.5,Deployed,Normal
+2024-06-15,NSP-5684,Pipe Tracker,TotalEnergies,Escravos,1940.0,234.77,113.1,In Maintenance,Normal
+2024-03-27,NSP-9123,VideoRay Pro 4 ROV,Chevron,Forcados Terminal,566.0,185.2,362.52,Standby,Normal
+2024-06-15,NSP-2184,Rhino Boat,Shell (SPDC),Bonny Island,4727.0,158.15,236.7,Awaiting Repair,Normal
+2024-06-15,NSP-7249,Cargo Basket,TotalEnergies,Milaha Barge,3633.0,96.87,402.8,In Maintenance,Normal
+2024-08-13,NSP-5262,VideoRay Pro 5 ROV,ExxonMobil,Milaha Barge,0.0,135.4,428.2,Deployed,Normal
+2024-06-15,NSP-6969,Offshore Trash Skip,Chevron,Bonny Island,3384000.0,129.81,423.3,Awaiting Repair,Normal
+2024-10-08,NSP-9007,Towing Winch,Shell (SPDC),Offshore Rig Alpha,4768.0,77.65,226.7,Awaiting Repair,Normal
+2024-06-15,NSP-9015,Offshore Trash Skip,TotalEnergies,Bonny Island,0.0,212.94,311.4,Deployed,Normal
+2024-05-28,NSP-9634,Towing Winch,Chevron,Onne FOT,4868.0,180.1,250.0,In Maintenance,Normal
+2024-06-15,NSP-1952,Cargo Basket,Shell (SPDC),Offshore Rig Alpha,2218.0,124.23,456.8,Standby,Normal
+2025-02-01,NSP-4285,120kva Generator,Chevron,Bonny Island,4483.0,204.97,120.8,Deployed,Normal
+2024-06-15,NSP-3284,Offshore Trash Skip,Indigenous Oil Co,Escravos,3627.0,140.56,69.7,In Maintenance,Normal
+2024-06-15,NSP-5218,Towing Winch,TotalEnergies,Forcados Terminal,4912.0,147.74,400.68,Awaiting Repair,Normal
+2024-06-15,NSP-5637,Sub Sea ROV M8,Shell (SPDC),Offshore Rig Alpha,2472000.0,97.78,429.3,Deployed,Normal
+2024-07-31,NSP-6607,Cargo Basket,TotalEnergies,Escravos,5472000.0,187.47,181.26,Standby,Normal
+2024-06-15,NSP-6851,Pipe Tracker,Shell (SPDC),Escravos,858.0,151.09,373.5,Standby,Normal
+2024-05-22,NSP-5782,Towing Winch,ExxonMobil,Offshore Rig Alpha,1888.0,186.94,71.55,Standby,Normal
+2024-09-01,NSP-5018,Air Compressor 800cfm,Chevron,Bonny Island,1684500.0,214.02,114.0,Standby,Normal
+2024-06-15,NSP-6876,VideoRay Pro 4 ROV,Indigenous Oil Co,Milaha Barge,3134.0,124.95,223.3,Standby,Normal
+2024-03-12,NSP-5979,Rhino Boat,ExxonMobil,Forcados Terminal,6084000.0,173.97,219.8,In Maintenance,Normal
+2024-06-15,NSP-1526,Towing Winch,Indigenous Oil Co,Escravos,1778.0,107.69,451.56,Awaiting Repair,Normal
+2024-07-17,NSP-9953,VideoRay Pro 5 ROV,TotalEnergies,Milaha Barge,4012.0,194.16,435.66,Standby,Normal
+2024-11-06,NSP-1768,Cargo Basket,TotalEnergies,Escravos,0.0,149.17,465.87,Deployed,Normal
+2024-09-16,NSP-3793,Pipe Tracker,Indigenous Oil Co,Bonny Island,569.0,184.17,171.2,Deployed,Normal
+2024-06-15,NSP-3015,VideoRay Pro 5 ROV,Chevron,Onne FOT,3948.0,9.04,314.0,In Maintenance,Normal
+2024-12-27,NSP-8902,Sub Sea ROV M8,ExxonMobil,Offshore Rig Alpha,2623.0,84.52,92.22,In Maintenance,Normal
+2024-06-23,NSP-4967,Pipe Tracker,TotalEnergies,Offshore Rig Alpha,2867.0,152.66779069767443,259.1,Awaiting Repair,Normal
+2024-06-15,NSP-1889,Towing Winch,Chevron,Forcados Terminal,732.0,247.65,110.9,Awaiting Repair,Normal
+2024-06-15,NSP-3949,Cargo Basket,Chevron,Escravos,0.0,264.6,224.2,In Maintenance,Normal
+2024-06-15,NSP-9051,120kva Generator,Indigenous Oil Co,Offshore Rig Alpha,1730.0,243.37,117.7,Standby,Normal
+2025-01-15,NSP-9015,Towing Winch,Shell (SPDC),Bonny Island,4391.0,185.0,70.1,Standby,Normal
+2024-07-02,NSP-7539,Pipe Tracker,ExxonMobil,Escravos,1719000.0,188.07,104.94,Deployed,Normal
+2024-05-08,NSP-9655,Sub Sea ROV M8,Chevron,Offshore Rig Alpha,6077999.999999999,146.87,208.1,Deployed,Normal
+2024-08-23,NSP-5350,Cargo Basket,Chevron,Bonny Island,2192.0,146.33287234042555,362.0,Standby,Normal
+2024-09-06,NSP-6789,Air Compressor 800cfm,TotalEnergies,Escravos,1255.0,194.43,155.82,In Maintenance,Normal
+2025-01-15,NSP-1007,Towing Winch,ExxonMobil,Milaha Barge,796.0,230.35,145.0,Deployed,Normal
+2024-11-06,NSP-8416,120kva Generator,Chevron,Bonny Island,1618.0,103.54,173.31,Deployed,Normal
+2024-06-15,NSP-5867,VideoRay Pro 4 ROV,Shell (SPDC),Forcados Terminal,0.0,93.3,91.6,Awaiting Repair,Normal
+2024-06-15,NSP-7305,Rhino Boat,Indigenous Oil Co,Bonny Island,2173.0,110.74,254.5,Deployed,Normal
+2024-03-11,NSP-1011,VideoRay Pro 5 ROV,Shell (SPDC),Onne FOT,0.0,89.96,434.8,Awaiting Repair,Normal
+2024-06-15,NSP-4083,Pipe Tracker,Indigenous Oil Co,Bonny Island,4657.0,241.58,100.8,Deployed,Normal
+2024-06-15,NSP-7071,Sub Sea ROV M8,Shell (SPDC),Milaha Barge,1999.0,137.68,228.5,Standby,Normal
+2024-01-16,NSP-6897,Offshore Trash Skip,Chevron,Forcados Terminal,2815500.0,139.84,299.8,Deployed,Normal
+2024-06-15,NSP-5853,Towing Winch,Indigenous Oil Co,Bonny Island,1987.0,124.08,432.48,In Maintenance,Normal
+2024-06-15,NSP-7025,Pipe Tracker,TotalEnergies,Onne FOT,2160.0,186.97,223.8,In Maintenance,Normal
+2024-11-12,NSP-6704,VideoRay Pro 5 ROV,ExxonMobil,Escravos,0.0,119.64,199.0,Awaiting Repair,Normal
+2024-04-21,NSP-8876,Air Compressor 800cfm,ExxonMobil,Offshore Rig Alpha,0.0,131.72,323.9,Deployed,Normal
+2024-09-09,NSP-7334,120kva Generator,TotalEnergies,Escravos,2160.0,175.21,478.59,Standby,Normal
+2024-06-15,NSP-5276,VideoRay Pro 5 ROV,TotalEnergies,Milaha Barge,1134.0,178.62,231.0,Deployed,Normal
+2024-10-23,NSP-8058,Air Compressor 800cfm,ExxonMobil,Onne FOT,3410.0,106.97,417.2,In Maintenance,Normal
+2024-06-15,NSP-6435,VideoRay Pro 4 ROV,Shell (SPDC),Milaha Barge,0.0,128.02,284.1,Deployed,Normal
+2024-05-08,NSP-6920,120kva Generator,Chevron,Forcados Terminal,3275.0,120.23,357.75,Deployed,Normal
+2024-12-11,NSP-1569,VideoRay Pro 4 ROV,Indigenous Oil Co,Offshore Rig Alpha,818.0,110.57,359.9,In Maintenance,Normal
+2024-06-15,NSP-1120,VideoRay Pro 4 ROV,Indigenous Oil Co,Forcados Terminal,1757.0,218.67,52.0,Awaiting Repair,Normal
+2024-10-14,NSP-8614,VideoRay Pro 4 ROV,TotalEnergies,Bonny Island,2413500.0,62.77,147.3,Standby,Normal
+2024-08-09,NSP-7711,Cargo Basket,TotalEnergies,Milaha Barge,3507.0,103.92,326.2,Awaiting Repair,Normal
+2024-06-15,NSP-2207,Cargo Basket,Shell (SPDC),Onne FOT,3463.0,94.22,341.85,Deployed,Normal
+2024-06-15,NSP-8252,Pipe Tracker,Chevron,Bonny Island,1125.0,149.2,352.5,In Maintenance,Normal
+2024-03-28,NSP-1661,Sub Sea ROV M8,TotalEnergies,Escravos,3227.0,149.14,157.41,Awaiting Repair,Normal
+2024-06-15,NSP-5570,Cargo Basket,Chevron,Bonny Island,6355500.0,129.9,184.4,Standby,Normal
+2024-06-15,NSP-2900,Rhino Boat,Chevron,Milaha Barge,5220000.0,144.59,328.8,Deployed,Normal
+2024-06-15,NSP-7702,VideoRay Pro 4 ROV,ExxonMobil,Milaha Barge,2765.0,205.61,260.5,Awaiting Repair,Normal
+2024-12-25,NSP-6592,Offshore Trash Skip,ExxonMobil,Offshore Rig Alpha,755.0,188.78,287.5,Deployed,Normal
+2024-12-13,NSP-7609,Towing Winch,TotalEnergies,Milaha Barge,0.0,134.97,360.2,In Maintenance,Normal
+2024-06-15,NSP-6311,Rhino Boat,Indigenous Oil Co,Onne FOT,2790.0,195.63,271.2,Awaiting Repair,Normal
+2024-05-14,NSP-8063,120kva Generator,Indigenous Oil Co,Forcados Terminal,2118.0,171.09,315.4,In Maintenance,Normal
+2024-02-14,NSP-1726,Cargo Basket,TotalEnergies,Bonny Island,0.0,153.05,251.8,In Maintenance,Normal
+2024-06-15,NSP-1588,Towing Winch,Shell (SPDC),Forcados Terminal,1107.0,68.88,170.8,Standby,Normal
+2024-08-01,NSP-8211,Rhino Boat,Shell (SPDC),Offshore Rig Alpha,0.0,95.05,143.1,In Maintenance,Normal
+2024-05-21,NSP-5183,VideoRay Pro 5 ROV,Shell (SPDC),Forcados Terminal,1906.0,239.83,383.19,Standby,Normal
+2024-09-02,NSP-7927,120kva Generator,ExxonMobil,Bonny Island,3246.0,195.45,92.22,Deployed,Normal
+2024-04-02,NSP-6134,Cargo Basket,ExxonMobil,Forcados Terminal,3565.0,146.33287234042555,161.6,Standby,Normal
+2024-06-15,NSP-1258,VideoRay Pro 4 ROV,ExxonMobil,Escravos,6238500.0,129.75,241.68,Standby,Normal
+2024-02-09,NSP-2193,120kva Generator,Indigenous Oil Co,Bonny Island,3944.0,185.03,447.8,Awaiting Repair,Normal
+2024-10-03,NSP-7676,Pipe Tracker,Indigenous Oil Co,Onne FOT,4308000.0,180.43,269.4,Standby,Normal
+2024-12-02,NSP-7629,Sub Sea ROV M8,TotalEnergies,Bonny Island,4912.0,205.42,347.8,In Maintenance,Normal
+2024-05-22,NSP-5329,Air Compressor 800cfm,ExxonMobil,Escravos,1951.0,121.48,496.8,Standby,Normal
+2024-06-15,NSP-7875,Towing Winch,Shell (SPDC),Offshore Rig Alpha,4391.0,140.63,455.0,In Maintenance,Normal
+2024-01-02,NSP-1255,Pipe Tracker,Shell (SPDC),Onne FOT,2233.0,124.69,395.8,Standby,Normal
+2024-10-16,NSP-1330,Towing Winch,Indigenous Oil Co,Onne FOT,0.0,141.02,458.3,Deployed,Normal
+2024-06-15,NSP-7742,Cargo Basket,Indigenous Oil Co,Forcados Terminal,3837.0,115.95,119.7,Deployed,Normal
+2024-05-26,NSP-3611,Rhino Boat,ExxonMobil,Milaha Barge,0.0,160.58,497.67,Awaiting Repair,Normal
+2024-11-11,NSP-2417,Air Compressor 800cfm,TotalEnergies,Escravos,745.0,145.57,414.0,Standby,Normal
+2024-06-10,NSP-3196,Sub Sea ROV M8,TotalEnergies,Bonny Island,3004.0,127.31,91.0,Standby,Normal
+2024-02-13,NSP-1948,VideoRay Pro 5 ROV,ExxonMobil,Escravos,752.0,176.1,488.13,Awaiting Repair,Normal
+2024-06-14,NSP-6604,Air Compressor 800cfm,ExxonMobil,Forcados Terminal,3889500.0,143.94,295.74,Deployed,Normal
+2025-02-02,NSP-2018,120kva Generator,ExxonMobil,Milaha Barge,0.0,118.19,346.62,In Maintenance,Normal
+2024-06-15,NSP-2626,Rhino Boat,TotalEnergies,Forcados Terminal,1476.0,121.75,157.41,In Maintenance,Normal
+2024-06-15,NSP-2760,Sub Sea ROV M8,ExxonMobil,Bonny Island,3546.0,149.42,389.55,Awaiting Repair,Normal
+2024-06-15,NSP-8963,Rhino Boat,Chevron,Onne FOT,2109000.0,201.53,254.4,Standby,Normal
+2024-06-15,NSP-6633,Pipe Tracker,ExxonMobil,Forcados Terminal,4337.0,154.42,266.3,Awaiting Repair,Normal
+2024-06-15,NSP-4955,120kva Generator,Chevron,Escravos,4185.0,132.34,58.8,In Maintenance,Normal
+2024-06-13,NSP-9776,Sub Sea ROV M8,ExxonMobil,Milaha Barge,3618.0,44.51,106.9,In Maintenance,Normal
+2024-01-26,NSP-8013,Pipe Tracker,Chevron,Bonny Island,3338.0,152.66779069767443,350.7,Awaiting Repair,Normal
+2024-06-15,NSP-3180,VideoRay Pro 4 ROV,Shell (SPDC),Milaha Barge,3664.0,104.2,389.55,Awaiting Repair,Normal
+2024-06-15,NSP-5335,Air Compressor 800cfm,TotalEnergies,Forcados Terminal,1601.0,155.55086956521737,391.7,Awaiting Repair,Normal
+2024-06-15,NSP-3365,Rhino Boat,Chevron,Forcados Terminal,2877.0,210.93,77.7,Standby,Normal
+2024-11-28,NSP-1530,Rhino Boat,Chevron,Milaha Barge,2340.0,156.1,54.06,In Maintenance,Normal
+2024-05-28,NSP-5840,Sub Sea ROV M8,TotalEnergies,Milaha Barge,2304000.0,96.7,79.0,In Maintenance,Normal
+2024-06-15,NSP-2137,Sub Sea ROV M8,Indigenous Oil Co,Escravos,502.0,147.42,372.06,In Maintenance,Normal
+2024-06-15,NSP-9933,Cargo Basket,ExxonMobil,Onne FOT,1490.0,125.02,414.7,Standby,Normal
+2024-06-15,NSP-6718,VideoRay Pro 5 ROV,Indigenous Oil Co,Bonny Island,0.0,146.94,194.9,Deployed,Normal
+2024-12-25,NSP-5861,Offshore Trash Skip,Shell (SPDC),Onne FOT,2414.0,160.23901408450706,411.81,Deployed,Normal
+2024-08-28,NSP-2669,Pipe Tracker,Shell (SPDC),Offshore Rig Alpha,2642.0,134.25,375.24,Awaiting Repair,Normal
+2024-06-15,NSP-4093,Air Compressor 800cfm,Indigenous Oil Co,Escravos,2554500.0,71.43,225.5,In Maintenance,Normal
+2024-06-15,NSP-6289,Cargo Basket,Indigenous Oil Co,Milaha Barge,4035.0,103.38,398.1,In Maintenance,Normal
+2024-06-15,NSP-9093,Towing Winch,Indigenous Oil Co,Bonny Island,2672.0,134.66,355.3,Deployed,Normal
+2024-06-15,NSP-3939,120kva Generator,TotalEnergies,Bonny Island,2720.0,85.45,298.92,Awaiting Repair,Normal
+2024-06-15,NSP-2614,VideoRay Pro 4 ROV,ExxonMobil,Forcados Terminal,1655.0,86.77,98.6,Deployed,Normal
+2024-02-03,NSP-6688,VideoRay Pro 4 ROV,TotalEnergies,Onne FOT,1004.0,152.82,179.0,Deployed,Normal
+2024-07-05,NSP-3243,VideoRay Pro 4 ROV,Indigenous Oil Co,Milaha Barge,4054.0,147.8,282.9,Awaiting Repair,Normal
+2024-06-15,NSP-3311,Towing Winch,Indigenous Oil Co,Offshore Rig Alpha,3511500.0,204.37,144.69,In Maintenance,Normal
+2024-06-20,NSP-9272,Pipe Tracker,Indigenous Oil Co,Milaha Barge,2385.0,139.59,427.9,Awaiting Repair,Normal
+2024-03-02,NSP-2164,Air Compressor 800cfm,ExxonMobil,Escravos,2434.0,173.15,277.0,Deployed,Normal
+2024-06-15,NSP-3655,VideoRay Pro 4 ROV,Indigenous Oil Co,Milaha Barge,3942.0,184.33,142.0,Standby,Normal
+2024-09-11,NSP-4465,Sub Sea ROV M8,Indigenous Oil Co,Onne FOT,4713.0,187.05,244.86,Awaiting Repair,Normal
+2024-06-15,NSP-6445,Air Compressor 800cfm,Indigenous Oil Co,Onne FOT,4715.0,139.95,468.7,Deployed,Normal
+2024-06-15,NSP-8470,Air Compressor 800cfm,Chevron,Forcados Terminal,2868.0,137.9,339.8,In Maintenance,Normal
+2024-06-15,NSP-7793,VideoRay Pro 4 ROV,ExxonMobil,Onne FOT,3838.0,156.98,385.8,Standby,Normal
+2024-06-15,NSP-2469,VideoRay Pro 5 ROV,Shell (SPDC),Forcados Terminal,4123500.0,153.25,380.3,Deployed,Normal
+2025-01-03,NSP-5370,VideoRay Pro 4 ROV,Shell (SPDC),Bonny Island,3924.0,93.04,158.0,Standby,Normal
+2024-06-15,NSP-1910,Rhino Boat,TotalEnergies,Forcados Terminal,0.0,180.71,329.8,Awaiting Repair,Normal
+2024-12-25,NSP-4723,Towing Winch,ExxonMobil,Escravos,708.0,144.22,429.4,In Maintenance,Normal
+2024-06-15,NSP-1949,Air Compressor 800cfm,Indigenous Oil Co,Milaha Barge,4195.0,213.46,365.4,Deployed,Normal
+2024-06-15,NSP-5919,Pipe Tracker,ExxonMobil,Offshore Rig Alpha,2147.0,188.56,289.7,Standby,Normal
+2024-06-15,NSP-7057,120kva Generator,TotalEnergies,Offshore Rig Alpha,1230.0,116.35,467.6,Awaiting Repair,Normal
+2024-06-15,NSP-8956,Sub Sea ROV M8,Shell (SPDC),Escravos,1381.0,146.53,270.1,Awaiting Repair,Normal
+2024-06-15,NSP-8630,Pipe Tracker,Shell (SPDC),Escravos,4110.0,244.6,278.1,Standby,Normal
+2024-06-15,NSP-1356,Cargo Basket,Shell (SPDC),Milaha Barge,2445.0,83.25,452.0,Deployed,Normal
+2024-06-15,NSP-5597,Rhino Boat,Shell (SPDC),Forcados Terminal,3287.0,193.47,308.1,Deployed,Normal
+2024-06-15,NSP-1528,Offshore Trash Skip,TotalEnergies,Bonny Island,1940.0,233.7,163.6,Awaiting Repair,Normal
+2024-06-15,NSP-4925,VideoRay Pro 4 ROV,Chevron,Forcados Terminal,1192.0,151.74,209.88,In Maintenance,Normal
+2024-04-27,NSP-5996,120kva Generator,Indigenous Oil Co,Bonny Island,3877.0,201.9,372.4,Deployed,Normal
+2024-03-10,NSP-2152,Offshore Trash Skip,Shell (SPDC),Forcados Terminal,2990.0,160.23901408450706,499.3,In Maintenance,Normal
+2024-06-15,NSP-8078,Cargo Basket,TotalEnergies,Onne FOT,0.0,176.58,434.5,In Maintenance,Normal
+2024-06-15,NSP-2902,Pipe Tracker,Indigenous Oil Co,Bonny Island,1589.0,172.83,400.68,Awaiting Repair,Normal
+2024-06-15,NSP-2777,Pipe Tracker,Indigenous Oil Co,Forcados Terminal,3586500.0,124.77,415.7,In Maintenance,Normal
+2024-03-27,NSP-4842,Rhino Boat,TotalEnergies,Escravos,748.0,156.39,286.9,Awaiting Repair,Normal
+2024-05-17,NSP-7412,120kva Generator,TotalEnergies,Milaha Barge,0.0,146.63626666666667,187.4,Awaiting Repair,Normal
+2024-05-13,NSP-2849,Air Compressor 800cfm,ExxonMobil,Milaha Barge,1394.0,155.55086956521737,499.4,Deployed,Normal
+2024-02-26,NSP-7324,120kva Generator,ExxonMobil,Onne FOT,2889.0,119.16,70.1,Awaiting Repair,Normal
+2024-08-01,NSP-8641,Rhino Boat,Indigenous Oil Co,Bonny Island,3631.0,82.6,496.08,Deployed,Normal
+2024-06-15,NSP-4791,VideoRay Pro 4 ROV,TotalEnergies,Onne FOT,3896.0,245.93,143.1,Deployed,Normal
+2024-06-15,NSP-6415,Pipe Tracker,ExxonMobil,Bonny Island,2683500.0,132.34,87.45,Awaiting Repair,Normal
+2024-10-27,NSP-9078,Sub Sea ROV M8,Chevron,Onne FOT,3166.0,236.28,468.1,In Maintenance,Normal
+2024-06-15,NSP-3675,VideoRay Pro 5 ROV,Chevron,Forcados Terminal,2756.0,156.09,174.9,Awaiting Repair,Normal
+2024-03-31,NSP-9968,Sub Sea ROV M8,TotalEnergies,Forcados Terminal,0.0,200.8,248.4,Standby,Normal
+2024-06-15,NSP-7618,VideoRay Pro 4 ROV,Chevron,Milaha Barge,3786.0,129.83,94.1,In Maintenance,Normal
+2024-05-01,NSP-2497,VideoRay Pro 4 ROV,ExxonMobil,Onne FOT,4189.0,167.11,203.1,Standby,Normal
+2024-06-15,NSP-3233,Air Compressor 800cfm,Indigenous Oil Co,Offshore Rig Alpha,1183.0,245.86,384.78,Standby,Normal
+2024-07-31,NSP-1236,VideoRay Pro 5 ROV,Chevron,Forcados Terminal,3142500.0,208.83,107.5,In Maintenance,Normal
+2024-04-16,NSP-1633,Towing Winch,Chevron,Onne FOT,3440.0,120.81,422.94,Deployed,Normal
+2024-12-25,NSP-7116,VideoRay Pro 4 ROV,TotalEnergies,Escravos,561.0,142.94,261.9,Standby,Normal
+2024-06-15,NSP-4330,Offshore Trash Skip,Indigenous Oil Co,Milaha Barge,563.0,188.67,178.08,Standby,Normal
+2024-06-15,NSP-5589,VideoRay Pro 4 ROV,Chevron,Forcados Terminal,2191500.0,204.87,314.82,Awaiting Repair,Normal
+2024-08-21,NSP-5592,Air Compressor 800cfm,Chevron,Forcados Terminal,2357.0,183.47,211.6,Awaiting Repair,Normal
+2024-11-11,NSP-6681,Pipe Tracker,Indigenous Oil Co,Onne FOT,1094.0,221.78,80.9,Awaiting Repair,Normal
+2024-06-15,NSP-2218,Pipe Tracker,Indigenous Oil Co,Milaha Barge,3525.0,152.66779069767443,173.31,In Maintenance,Normal
+2024-06-15,NSP-8253,Rhino Boat,ExxonMobil,Onne FOT,2342.0,116.35,410.0,In Maintenance,Normal
+2024-03-01,NSP-4427,VideoRay Pro 5 ROV,Shell (SPDC),Escravos,1139.0,183.14,146.28,Awaiting Repair,Normal
+2024-10-11,NSP-1747,VideoRay Pro 5 ROV,Indigenous Oil Co,Offshore Rig Alpha,3217500.0,254.9,255.99,Standby,High
+2024-06-15,NSP-4774,Sub Sea ROV M8,Chevron,Offshore Rig Alpha,4721.0,226.22,283.0,In Maintenance,Normal
+2024-07-23,NSP-3056,Air Compressor 800cfm,Shell (SPDC),Forcados Terminal,1399.0,163.27,85.86,Deployed,Normal
+2024-06-15,NSP-3631,Air Compressor 800cfm,Chevron,Onne FOT,4405.0,155.55086956521737,389.55,Standby,Normal
+2024-06-15,NSP-8276,Rhino Boat,Shell (SPDC),Bonny Island,1938.0,145.6,457.92,In Maintenance,Normal
+2024-06-15,NSP-7459,Rhino Boat,Shell (SPDC),Bonny Island,3564.0,152.66852631578945,169.0,Deployed,Normal
+2024-12-06,NSP-2080,Towing Winch,ExxonMobil,Offshore Rig Alpha,1143.0,61.87,316.41,In Maintenance,Normal
+2024-06-15,NSP-5052,Cargo Basket,TotalEnergies,Forcados Terminal,6430500.0,118.03,341.9,Awaiting Repair,Normal
+2024-06-20,NSP-1500,VideoRay Pro 4 ROV,ExxonMobil,Bonny Island,2114.0,191.05,436.5,Deployed,Normal
+2024-06-15,NSP-8758,Air Compressor 800cfm,Indigenous Oil Co,Offshore Rig Alpha,5335500.0,104.42,381.2,In Maintenance,Normal
+2024-06-15,NSP-4404,120kva Generator,Indigenous Oil Co,Escravos,2028.0,146.63626666666667,243.27,Awaiting Repair,Normal
+2024-06-15,NSP-7177,120kva Generator,Indigenous Oil Co,Escravos,1071000.0,198.12,299.7,Awaiting Repair,Normal
+2024-06-15,NSP-4976,Air Compressor 800cfm,Chevron,Bonny Island,0.0,179.95,95.1,Deployed,Normal
+2024-12-06,NSP-6715,Pipe Tracker,Shell (SPDC),Offshore Rig Alpha,4717.0,192.67,50.88,Awaiting Repair,Normal
+2024-09-05,NSP-4257,VideoRay Pro 5 ROV,TotalEnergies,Escravos,0.0,65.96,322.2,Awaiting Repair,Normal
+2024-04-20,NSP-8897,Towing Winch,Shell (SPDC),Forcados Terminal,3991.0,125.01,51.4,Awaiting Repair,Normal
+2024-02-14,NSP-6298,VideoRay Pro 4 ROV,Chevron,Bonny Island,2816.0,89.7,248.1,In Maintenance,Normal
+2024-06-15,NSP-9983,Cargo Basket,ExxonMobil,Bonny Island,2442.0,105.7,306.8,Deployed,Normal
+2024-11-12,NSP-3846,Sub Sea ROV M8,TotalEnergies,Bonny Island,4285.0,145.55,268.4,Awaiting Repair,Normal
+2024-12-13,NSP-3466,Air Compressor 800cfm,Shell (SPDC),Milaha Barge,2211.0,115.56,195.57,Standby,Normal
+2025-01-14,NSP-6278,VideoRay Pro 4 ROV,Shell (SPDC),Offshore Rig Alpha,3372.0,75.61,323.3,Deployed,Normal
+2024-06-15,NSP-1020,Towing Winch,Chevron,Milaha Barge,3873.0,155.44169811320754,52.47,Standby,Normal
+2024-06-15,NSP-9772,Rhino Boat,Shell (SPDC),Bonny Island,3058.0,82.77,277.1,In Maintenance,Normal
+2024-10-20,NSP-1306,VideoRay Pro 4 ROV,ExxonMobil,Onne FOT,845.0,167.92,216.24,Awaiting Repair,Normal
+2024-06-27,NSP-8340,Air Compressor 800cfm,Indigenous Oil Co,Offshore Rig Alpha,3861.0,236.81,323.8,Awaiting Repair,Normal
+2024-06-15,NSP-7786,Air Compressor 800cfm,Shell (SPDC),Milaha Barge,1213500.0,164.07,285.4,In Maintenance,Normal
+2024-06-15,NSP-1287,Rhino Boat,ExxonMobil,Bonny Island,0.0,119.52,342.6,Deployed,Normal
+2024-06-28,NSP-2725,Cargo Basket,ExxonMobil,Offshore Rig Alpha,4068.0,158.23,327.9,Standby,Normal
+2024-06-15,NSP-9645,Pipe Tracker,TotalEnergies,Forcados Terminal,0.0,152.66779069767443,127.2,Awaiting Repair,Normal
+2024-02-01,NSP-8195,Air Compressor 800cfm,Chevron,Onne FOT,1293000.0,244.46,431.1,Standby,Normal
+2024-09-16,NSP-6051,Rhino Boat,Chevron,Escravos,0.0,190.0,331.2,Awaiting Repair,Normal
+2024-07-14,NSP-8055,VideoRay Pro 5 ROV,TotalEnergies,Onne FOT,0.0,147.11,236.91,Deployed,Normal
+2024-03-11,NSP-7911,Air Compressor 800cfm,TotalEnergies,Onne FOT,0.0,103.92,443.2,Deployed,Normal
+2024-06-15,NSP-7182,Pipe Tracker,ExxonMobil,Escravos,2329.0,234.26,224.6,Standby,Normal
+2024-06-15,NSP-4606,Towing Winch,TotalEnergies,Milaha Barge,867.0,145.97,493.6,Standby,Normal
+2024-06-15,NSP-2459,Pipe Tracker,Shell (SPDC),Offshore Rig Alpha,952.0,107.33,377.8,Standby,Normal
+2024-11-17,NSP-2908,Air Compressor 800cfm,Indigenous Oil Co,Milaha Barge,4932000.0,98.6,443.8,Deployed,Normal
+2024-06-15,NSP-5860,Offshore Trash Skip,Chevron,Onne FOT,792.0,100.65,486.54,Deployed,Normal
+2024-04-15,NSP-7858,Offshore Trash Skip,TotalEnergies,Onne FOT,4492.0,160.23901408450706,314.5,Awaiting Repair,Normal
+2024-01-16,NSP-5537,VideoRay Pro 4 ROV,Indigenous Oil Co,Onne FOT,3807.0,142.63,253.1,Standby,Normal
+2024-04-25,NSP-8190,Cargo Basket,ExxonMobil,Offshore Rig Alpha,847.0,231.34,496.1,In Maintenance,Normal
+2024-06-15,NSP-1405,120kva Generator,TotalEnergies,Escravos,1522.0,135.57,443.3,In Maintenance,Normal
+2024-11-17,NSP-3613,Towing Winch,Indigenous Oil Co,Onne FOT,4946.0,164.06,150.6,In Maintenance,Normal
+2024-12-23,NSP-3333,Air Compressor 800cfm,Chevron,Escravos,692.0,241.63,370.4,Standby,Normal
+2024-10-07,NSP-8511,120kva Generator,Chevron,Offshore Rig Alpha,3914.0,94.56,457.3,Standby,Normal
+2024-08-03,NSP-7565,Air Compressor 800cfm,ExxonMobil,Offshore Rig Alpha,3739.0,160.17,343.7,In Maintenance,Normal
+2024-06-15,NSP-7414,Rhino Boat,ExxonMobil,Escravos,3965.0,230.0,457.0,Standby,Normal
+2024-01-14,NSP-1014,Offshore Trash Skip,TotalEnergies,Offshore Rig Alpha,7486500.0,226.42,245.5,Deployed,Normal
+2024-06-15,NSP-8904,Air Compressor 800cfm,ExxonMobil,Onne FOT,0.0,151.83,276.2,Awaiting Repair,Normal
+2024-08-28,NSP-2216,VideoRay Pro 5 ROV,ExxonMobil,Bonny Island,1645500.0,234.3,303.3,Awaiting Repair,Normal
+2024-02-14,NSP-5595,Cargo Basket,TotalEnergies,Escravos,1431.0,258.36,401.4,Standby,Normal
+2024-06-15,NSP-5899,Offshore Trash Skip,Indigenous Oil Co,Milaha Barge,835.0,94.47,213.06,In Maintenance,Normal
+2024-09-18,NSP-5917,Rhino Boat,Indigenous Oil Co,Offshore Rig Alpha,2318.0,181.77,179.67,Deployed,Normal
+2024-09-07,NSP-9722,Sub Sea ROV M8,Chevron,Offshore Rig Alpha,3738.0,131.97,130.38,In Maintenance,Normal
+2024-06-15,NSP-6725,Towing Winch,Shell (SPDC),Escravos,5917500.0,85.7,395.91,Awaiting Repair,Normal
+2024-06-15,NSP-3303,Cargo Basket,Chevron,Forcados Terminal,5803500.0,112.59,369.9,In Maintenance,Normal
+2024-02-28,NSP-6118,VideoRay Pro 4 ROV,Shell (SPDC),Milaha Barge,0.0,188.67,337.08,Deployed,Normal
+2024-06-15,NSP-7693,Air Compressor 800cfm,ExxonMobil,Escravos,2556.0,197.03,290.4,Deployed,Normal
+2024-06-15,NSP-6285,Sub Sea ROV M8,ExxonMobil,Escravos,3609.0,78.79,90.6,Awaiting Repair,Normal
+2024-07-19,NSP-6949,Cargo Basket,TotalEnergies,Escravos,1416.0,245.58,245.9,Standby,Normal
+2024-01-27,NSP-4322,VideoRay Pro 4 ROV,Chevron,Bonny Island,1746.0,189.4,467.8,Deployed,Normal
+2024-06-15,NSP-5907,120kva Generator,Shell (SPDC),Forcados Terminal,3732.0,146.63626666666667,355.0,In Maintenance,Normal
+2024-08-18,NSP-4619,120kva Generator,Indigenous Oil Co,Milaha Barge,2904.0,171.44,324.36,In Maintenance,Normal
+2024-11-07,NSP-4090,VideoRay Pro 5 ROV,TotalEnergies,Onne FOT,4181.0,150.71500000000003,187.9,Deployed,Normal
+2024-06-15,NSP-2286,Towing Winch,Chevron,Onne FOT,2071.0,138.57,308.46,Awaiting Repair,Normal
+2024-06-15,NSP-9296,VideoRay Pro 5 ROV,TotalEnergies,Onne FOT,2978.0,149.94,213.8,Awaiting Repair,Normal
+2024-11-16,NSP-5329,VideoRay Pro 4 ROV,Chevron,Forcados Terminal,0.0,161.69,470.6,In Maintenance,Normal
+2025-01-12,NSP-9789,VideoRay Pro 4 ROV,Shell (SPDC),Escravos,3317.0,208.25,166.95,Awaiting Repair,Normal
+2024-06-15,NSP-3800,Rhino Boat,Shell (SPDC),Offshore Rig Alpha,1350.0,152.66852631578945,208.29,In Maintenance,Normal
+2024-04-22,NSP-4807,VideoRay Pro 5 ROV,ExxonMobil,Bonny Island,3526500.0,177.77,447.2,In Maintenance,Normal
+2024-02-05,NSP-7118,Pipe Tracker,TotalEnergies,Onne FOT,3351000.0,125.23,92.3,In Maintenance,Normal
+2024-12-10,NSP-4260,Rhino Boat,ExxonMobil,Milaha Barge,0.0,197.47,356.16,In Maintenance,Normal
+2024-10-16,NSP-4722,Rhino Boat,ExxonMobil,Escravos,4884.0,171.81,214.65,Deployed,Normal
+2024-06-15,NSP-3808,Offshore Trash Skip,Chevron,Milaha Barge,3448500.0,160.23901408450706,424.53,In Maintenance,Normal
+2024-10-12,NSP-1548,Sub Sea ROV M8,Shell (SPDC),Offshore Rig Alpha,0.0,231.56,407.9,In Maintenance,Normal
+2024-11-08,NSP-4371,120kva Generator,Chevron,Offshore Rig Alpha,1298.0,146.63626666666667,185.4,Standby,Normal
+2024-10-05,NSP-4712,Towing Winch,Indigenous Oil Co,Milaha Barge,0.0,103.63,202.5,Deployed,Normal
+2024-06-15,NSP-6643,VideoRay Pro 4 ROV,TotalEnergies,Bonny Island,0.0,214.42,494.49,Awaiting Repair,Normal
+2024-06-15,NSP-3835,Sub Sea ROV M8,Chevron,Milaha Barge,1170000.0,181.93,365.7,Awaiting Repair,Normal
+2024-01-20,NSP-3852,Towing Winch,Indigenous Oil Co,Milaha Barge,837000.0,234.88,139.92,In Maintenance,Normal
+2024-06-15,NSP-7278,Air Compressor 800cfm,Chevron,Milaha Barge,1402500.0,155.41,93.81,In Maintenance,Normal
+2024-10-13,NSP-2301,Towing Winch,Chevron,Onne FOT,3291.0,221.28,393.6,Awaiting Repair,Normal
+2024-01-17,NSP-3628,Towing Winch,Indigenous Oil Co,Escravos,928.0,237.8,495.6,Standby,Normal
+2024-06-15,NSP-6856,Pipe Tracker,Chevron,Forcados Terminal,4566.0,139.24,362.52,In Maintenance,Normal
+2024-06-06,NSP-4030,Pipe Tracker,ExxonMobil,Bonny Island,0.0,129.61,281.5,Awaiting Repair,Normal
+2024-05-01,NSP-8282,Air Compressor 800cfm,ExxonMobil,Bonny Island,7428000.0,134.44,413.4,In Maintenance,Normal
+2024-09-08,NSP-6587,VideoRay Pro 5 ROV,TotalEnergies,Escravos,5479500.0,104.49,411.81,Awaiting Repair,Normal
+2024-01-07,NSP-5784,Sub Sea ROV M8,Chevron,Escravos,0.0,140.1,347.8,Standby,Normal
+2024-06-15,NSP-8443,Towing Winch,Chevron,Escravos,4492.0,230.85,433.8,In Maintenance,Normal
+2024-10-14,NSP-7563,VideoRay Pro 5 ROV,Chevron,Milaha Barge,3242.0,111.48,235.32,In Maintenance,Normal
+2024-11-29,NSP-5722,Offshore Trash Skip,TotalEnergies,Onne FOT,2172.0,231.44,108.8,Standby,Normal
+2024-06-15,NSP-3686,Rhino Boat,TotalEnergies,Milaha Barge,4354.0,107.21,462.9,Standby,Normal
+2024-12-25,NSP-6631,VideoRay Pro 5 ROV,Chevron,Forcados Terminal,2183.0,112.32,284.61,Standby,Normal
+2024-06-15,NSP-8814,Offshore Trash Skip,TotalEnergies,Bonny Island,0.0,32.87,259.17,Standby,Normal
+2024-07-29,NSP-7655,Cargo Basket,Indigenous Oil Co,Onne FOT,6733500.0,146.33287234042555,485.8,In Maintenance,Normal
+2024-06-15,NSP-5089,Sub Sea ROV M8,Chevron,Offshore Rig Alpha,4323000.0,261.9,292.7,Awaiting Repair,High
+2024-01-05,NSP-5833,Rhino Boat,ExxonMobil,Milaha Barge,4695000.0,155.9,170.5,Awaiting Repair,Normal
+2024-07-17,NSP-9722,Pipe Tracker,ExxonMobil,Onne FOT,3233.0,45.02,261.6,Deployed,Normal
+2024-07-22,NSP-1578,Pipe Tracker,TotalEnergies,Escravos,4555.0,180.95,213.0,Awaiting Repair,Normal
+2024-06-15,NSP-6228,Cargo Basket,Indigenous Oil Co,Bonny Island,1464.0,131.22,231.5,Deployed,Normal
+2024-02-11,NSP-6125,Pipe Tracker,ExxonMobil,Forcados Terminal,2425.0,19.56,384.1,In Maintenance,Normal
+2024-06-15,NSP-3069,Cargo Basket,Shell (SPDC),Forcados Terminal,0.0,162.17,116.07,Awaiting Repair,Normal
+2024-12-25,NSP-7827,VideoRay Pro 5 ROV,TotalEnergies,Milaha Barge,4563.0,176.03,163.5,Awaiting Repair,Normal
+2024-06-15,NSP-3291,VideoRay Pro 4 ROV,Indigenous Oil Co,Escravos,2979000.0,98.75,474.6,In Maintenance,Normal
+2024-06-15,NSP-3493,Pipe Tracker,ExxonMobil,Bonny Island,1960.0,93.35,463.5,Deployed,Normal
+2024-06-15,NSP-1429,Offshore Trash Skip,Indigenous Oil Co,Offshore Rig Alpha,1784.0,112.4,225.3,Standby,Normal
+2024-06-15,NSP-6378,120kva Generator,Shell (SPDC),Forcados Terminal,0.0,125.03,350.6,In Maintenance,Normal
+2024-12-08,NSP-9368,Rhino Boat,Shell (SPDC),Forcados Terminal,1965.0,183.45,248.1,Standby,Normal
+2024-06-15,NSP-1252,Sub Sea ROV M8,TotalEnergies,Forcados Terminal,713.0,173.17,241.68,Deployed,Normal
+2024-02-15,NSP-3975,120kva Generator,TotalEnergies,Onne FOT,4578.0,146.63626666666667,455.3,Awaiting Repair,Normal
+2024-06-15,NSP-7598,VideoRay Pro 4 ROV,TotalEnergies,Forcados Terminal,3394.0,205.07,289.8,Deployed,Normal
+2024-06-15,NSP-2593,Pipe Tracker,ExxonMobil,Milaha Barge,6289500.0,78.95,335.49,In Maintenance,Normal
+2024-12-25,NSP-5127,120kva Generator,ExxonMobil,Milaha Barge,3637.0,95.61,146.3,Awaiting Repair,Normal
+2024-07-10,NSP-3063,Offshore Trash Skip,Chevron,Escravos,3126000.0,160.23901408450706,98.7,Awaiting Repair,Normal
+2024-04-02,NSP-8845,Offshore Trash Skip,TotalEnergies,Onne FOT,1576.0,195.99,394.32,In Maintenance,Normal
+2025-01-22,NSP-9523,VideoRay Pro 4 ROV,ExxonMobil,Escravos,2381.0,220.16,231.6,Awaiting Repair,Normal
+2024-06-15,NSP-1233,Towing Winch,Chevron,Bonny Island,2340.0,165.68,193.98,Standby,Normal
+2024-06-15,NSP-3779,Pipe Tracker,ExxonMobil,Bonny Island,1684.0,129.28,148.5,Deployed,Normal
+2024-11-06,NSP-1914,Offshore Trash Skip,Indigenous Oil Co,Bonny Island,4341.0,83.18,246.3,In Maintenance,Normal
+2024-09-09,NSP-1455,120kva Generator,Chevron,Onne FOT,898.0,96.23,447.4,In Maintenance,Normal
+2024-05-22,NSP-7042,Cargo Basket,Shell (SPDC),Escravos,753.0,146.33287234042555,420.2,Standby,Normal
+2024-06-15,NSP-8418,Sub Sea ROV M8,ExxonMobil,Forcados Terminal,4385.0,161.87068493150682,317.5,Deployed,Normal
+2024-06-15,NSP-6153,Towing Winch,TotalEnergies,Onne FOT,2148.0,188.7,403.86,In Maintenance,Normal
+2025-01-21,NSP-8411,Air Compressor 800cfm,ExxonMobil,Bonny Island,2358.0,149.63,174.9,Awaiting Repair,Normal
+2024-08-13,NSP-8599,VideoRay Pro 4 ROV,TotalEnergies,Milaha Barge,4275.0,144.89,359.34,Awaiting Repair,Normal
+2024-09-09,NSP-7474,Cargo Basket,ExxonMobil,Escravos,655.0,151.88,225.1,In Maintenance,Normal
+2025-01-28,NSP-2425,Offshore Trash Skip,Indigenous Oil Co,Onne FOT,4392.0,130.95,484.3,Deployed,Normal
+2024-06-15,NSP-2718,Offshore Trash Skip,Chevron,Milaha Barge,3273.0,165.67,202.8,In Maintenance,Normal
+2024-08-31,NSP-4888,Pipe Tracker,Shell (SPDC),Bonny Island,784.0,226.62,427.3,In Maintenance,Normal
+2024-08-01,NSP-7947,VideoRay Pro 5 ROV,Chevron,Milaha Barge,1257.0,171.03,384.6,Standby,Normal
+2025-01-06,NSP-9830,Towing Winch,Indigenous Oil Co,Bonny Island,1805.0,191.66,323.1,Awaiting Repair,Normal
+2024-05-28,NSP-4854,Towing Winch,Indigenous Oil Co,Offshore Rig Alpha,0.0,179.91,204.7,In Maintenance,Normal
+2024-06-15,NSP-4234,Pipe Tracker,Chevron,Bonny Island,1936.0,147.89,452.5,In Maintenance,Normal
+2024-06-15,NSP-6360,Rhino Boat,Indigenous Oil Co,Onne FOT,1888.0,151.68,391.14,Standby,Normal
+2024-09-10,NSP-2239,Offshore Trash Skip,Chevron,Onne FOT,1947000.0,139.2,486.54,Standby,Normal
+2024-06-15,NSP-4535,Cargo Basket,TotalEnergies,Offshore Rig Alpha,4554.0,166.7,313.23,Deployed,Normal
+2024-06-15,NSP-7473,Cargo Basket,TotalEnergies,Offshore Rig Alpha,4627.0,146.61,354.57,Deployed,Normal
+2025-01-20,NSP-5923,Offshore Trash Skip,TotalEnergies,Milaha Barge,4880.0,136.22,184.5,Deployed,Normal
+2025-01-14,NSP-8804,120kva Generator,Chevron,Milaha Barge,4852.0,89.44,310.4,In Maintenance,Normal
+2024-06-15,NSP-1783,Sub Sea ROV M8,Indigenous Oil Co,Bonny Island,1285500.0,134.49,343.44,Awaiting Repair,Normal
+2024-06-15,NSP-9699,Air Compressor 800cfm,ExxonMobil,Milaha Barge,1542.0,101.04,116.8,Awaiting Repair,Normal
+2024-04-07,NSP-2987,Offshore Trash Skip,ExxonMobil,Milaha Barge,3329.0,149.44,343.44,In Maintenance,Normal
+2024-06-15,NSP-2139,Cargo Basket,Indigenous Oil Co,Onne FOT,3324000.0,103.34,263.9,Awaiting Repair,Normal
+2024-07-29,NSP-1304,VideoRay Pro 4 ROV,ExxonMobil,Bonny Island,2471.0,151.22969924812028,69.96,Deployed,Normal
+2024-01-09,NSP-2074,VideoRay Pro 4 ROV,Shell (SPDC),Escravos,3395.0,151.01,100.3,Deployed,Normal
+2024-06-15,NSP-4956,VideoRay Pro 4 ROV,Chevron,Offshore Rig Alpha,2020500.0,194.59,494.1,Awaiting Repair,Normal
+2024-01-13,NSP-5848,VideoRay Pro 4 ROV,Shell (SPDC),Bonny Island,0.0,195.7,152.8,In Maintenance,Normal
+2024-06-15,NSP-6805,VideoRay Pro 4 ROV,Indigenous Oil Co,Bonny Island,605.0,194.32,181.26,In Maintenance,Normal
+2024-06-15,NSP-7356,Rhino Boat,ExxonMobil,Bonny Island,2919.0,130.15,418.17,Deployed,Normal
+2024-06-15,NSP-8846,Offshore Trash Skip,Chevron,Offshore Rig Alpha,682.0,227.22,470.64,In Maintenance,Normal
+2024-06-15,NSP-6203,Cargo Basket,TotalEnergies,Offshore Rig Alpha,0.0,196.45,491.31,In Maintenance,Normal
+2024-06-15,NSP-1256,Cargo Basket,Shell (SPDC),Milaha Barge,512.0,161.25,172.9,In Maintenance,Normal
+2024-06-15,NSP-1442,Rhino Boat,Shell (SPDC),Onne FOT,1808.0,148.54,331.0,Standby,Normal
+2024-06-15,NSP-9067,Cargo Basket,Shell (SPDC),Offshore Rig Alpha,0.0,156.97,100.17,In Maintenance,Normal
+2024-06-15,NSP-2769,Pipe Tracker,TotalEnergies,Escravos,4220.0,152.66779069767443,488.7,Standby,Normal
+2024-06-15,NSP-9420,VideoRay Pro 4 ROV,ExxonMobil,Milaha Barge,3536.0,168.33,461.7,In Maintenance,Normal
+2024-03-27,NSP-1518,Towing Winch,Indigenous Oil Co,Offshore Rig Alpha,2769.0,70.64,305.28,Standby,Normal
+2024-12-21,NSP-9083,Cargo Basket,Shell (SPDC),Escravos,0.0,139.63,157.8,Deployed,Normal
+2024-04-13,NSP-2089,120kva Generator,ExxonMobil,Escravos,4461000.0,164.61,479.3,Deployed,Normal
+2024-03-27,NSP-3928,Offshore Trash Skip,Chevron,Milaha Barge,1736.0,164.01,166.0,Standby,Normal
+2024-06-15,NSP-2269,VideoRay Pro 4 ROV,Indigenous Oil Co,Forcados Terminal,1045500.0,178.24,96.5,Awaiting Repair,Normal
+2024-09-15,NSP-1774,Towing Winch,Chevron,Offshore Rig Alpha,3826500.0,203.09,368.5,In Maintenance,Normal
+2024-06-15,NSP-4857,Air Compressor 800cfm,Shell (SPDC),Onne FOT,1314000.0,222.88,467.4,Standby,Normal
+2024-04-16,NSP-3555,Cargo Basket,Chevron,Escravos,4889.0,156.46,488.4,In Maintenance,Normal
+2024-07-06,NSP-5301,Rhino Boat,TotalEnergies,Offshore Rig Alpha,1503.0,119.96,256.1,Awaiting Repair,Normal
+2024-06-15,NSP-7966,Pipe Tracker,TotalEnergies,Bonny Island,1308000.0,121.15,454.6,Deployed,Normal
+2024-06-14,NSP-5945,Cargo Basket,Indigenous Oil Co,Offshore Rig Alpha,2966.0,143.95,489.8,Standby,Normal
+2024-06-15,NSP-4344,Air Compressor 800cfm,Chevron,Milaha Barge,2123.0,186.36,64.6,Standby,Normal
+2024-09-06,NSP-8203,Sub Sea ROV M8,Chevron,Forcados Terminal,2521.0,167.53,129.7,In Maintenance,Normal
+2024-09-13,NSP-9291,Rhino Boat,Shell (SPDC),Milaha Barge,943.0,202.52,485.7,Deployed,Normal
+2024-06-15,NSP-8250,Cargo Basket,Indigenous Oil Co,Offshore Rig Alpha,3694.0,132.94,283.02,In Maintenance,Normal
+2024-07-03,NSP-8017,VideoRay Pro 4 ROV,Chevron,Bonny Island,2158.0,151.22969924812028,412.0,In Maintenance,Normal
+2024-10-05,NSP-7337,Towing Winch,Chevron,Offshore Rig Alpha,2724.0,114.71,82.8,In Maintenance,Normal
+2025-04-01,NSP-1037,Air Compressor 800cfm,Shell (SPDC),Milaha Barge,560.0,155.55086956521737,251.22,Standby,Normal
+2024-06-15,NSP-4190,Air Compressor 800cfm,ExxonMobil,Onne FOT,4978.0,155.55086956521737,371.4,Standby,Normal
+2024-07-03,NSP-8914,120kva Generator,Shell (SPDC),Forcados Terminal,4287.0,213.44,265.8,Deployed,Normal
+2024-06-15,NSP-9201,VideoRay Pro 4 ROV,Indigenous Oil Co,Offshore Rig Alpha,1909.0,101.18,284.7,In Maintenance,Normal
+2024-01-01,NSP-3951,Towing Winch,ExxonMobil,Onne FOT,1635000.0,195.3,403.1,Awaiting Repair,Normal
+2024-06-15,NSP-9675,Towing Winch,Shell (SPDC),Onne FOT,1868.0,165.75,496.08,Awaiting Repair,Normal
+2024-11-07,NSP-8837,VideoRay Pro 4 ROV,Shell (SPDC),Offshore Rig Alpha,4398000.0,160.75,145.7,In Maintenance,Normal
+2024-06-15,NSP-6397,Air Compressor 800cfm,Chevron,Milaha Barge,0.0,155.55086956521737,213.5,Deployed,Normal
+2024-06-15,NSP-4490,120kva Generator,ExxonMobil,Bonny Island,4244.0,213.71,340.26,In Maintenance,Normal
+2024-06-15,NSP-9464,Cargo Basket,TotalEnergies,Milaha Barge,6289500.0,158.18,165.4,Standby,Normal
+2024-09-12,NSP-1040,Rhino Boat,ExxonMobil,Forcados Terminal,913.0,148.5,173.3,Deployed,Normal
+2024-10-04,NSP-9967,Air Compressor 800cfm,Indigenous Oil Co,Milaha Barge,2065.0,148.68,458.1,In Maintenance,Normal
+2024-06-15,NSP-9107,Offshore Trash Skip,Shell (SPDC),Escravos,3914.0,143.62,493.5,Awaiting Repair,Normal
+2024-06-15,NSP-4291,VideoRay Pro 5 ROV,Indigenous Oil Co,Onne FOT,1344.0,213.48,414.99,Awaiting Repair,Normal
+2024-06-15,NSP-8389,VideoRay Pro 4 ROV,TotalEnergies,Onne FOT,1042.0,87.74,115.4,Awaiting Repair,Normal
+2024-06-05,NSP-2213,Rhino Boat,ExxonMobil,Escravos,3412.0,67.84,460.3,In Maintenance,Normal
+2024-06-15,NSP-5755,Air Compressor 800cfm,Shell (SPDC),Milaha Barge,2946.0,84.65,390.1,Standby,Normal
+2024-06-15,NSP-8630,Towing Winch,ExxonMobil,Escravos,3760.0,248.81,186.7,Standby,Normal
+2024-06-15,NSP-1751,VideoRay Pro 4 ROV,Shell (SPDC),Onne FOT,3910.0,264.82,114.48,In Maintenance,High
+2024-02-26,NSP-2649,Sub Sea ROV M8,Indigenous Oil Co,Bonny Island,2483.0,265.28,340.7,Deployed,High
+2024-06-15,NSP-4368,Rhino Boat,Chevron,Bonny Island,3449.0,99.22,119.2,Deployed,Normal
+2024-06-15,NSP-1061,Rhino Boat,Chevron,Offshore Rig Alpha,4021.0,219.87,211.47,Standby,Normal
+2024-03-31,NSP-2235,Rhino Boat,Shell (SPDC),Offshore Rig Alpha,1942.0,166.2,111.5,Standby,Normal
+2024-04-04,NSP-1129,Towing Winch,ExxonMobil,Bonny Island,2167.0,146.54,224.6,Awaiting Repair,Normal
+2024-02-24,NSP-2299,Pipe Tracker,Chevron,Onne FOT,1720.0,115.99,92.3,Awaiting Repair,Normal
+2024-06-15,NSP-8142,Air Compressor 800cfm,TotalEnergies,Offshore Rig Alpha,2872.0,129.83,121.0,Standby,Normal
+2024-02-19,NSP-4755,Air Compressor 800cfm,Indigenous Oil Co,Offshore Rig Alpha,4521.0,191.1,172.7,Standby,Normal
+2024-10-02,NSP-2156,Cargo Basket,ExxonMobil,Offshore Rig Alpha,3289500.0,212.6,90.63,In Maintenance,Normal
+2024-09-25,NSP-5046,Sub Sea ROV M8,Chevron,Offshore Rig Alpha,2224500.0,195.79,286.2,In Maintenance,Normal
+2024-12-25,NSP-2445,Pipe Tracker,Shell (SPDC),Escravos,1968.0,182.67,178.3,Deployed,Normal
+2024-06-15,NSP-6855,Towing Winch,ExxonMobil,Offshore Rig Alpha,2304.0,205.66,410.9,Standby,Normal
+2024-06-15,NSP-9239,Rhino Boat,ExxonMobil,Onne FOT,1792.0,86.12,84.27,Awaiting Repair,Normal
+2024-01-03,NSP-4114,Offshore Trash Skip,TotalEnergies,Offshore Rig Alpha,2589.0,228.87,471.1,Awaiting Repair,Normal
+2024-05-17,NSP-4317,Rhino Boat,Shell (SPDC),Offshore Rig Alpha,3559.0,193.49,375.3,Deployed,Normal
+2024-10-19,NSP-8398,Pipe Tracker,Indigenous Oil Co,Onne FOT,583.0,217.28,374.9,Deployed,Normal
+2024-06-15,NSP-3039,Rhino Boat,Indigenous Oil Co,Onne FOT,3172.0,141.5,311.64,Awaiting Repair,Normal
+2024-06-15,NSP-6269,Pipe Tracker,ExxonMobil,Offshore Rig Alpha,3282.0,136.19,321.5,Deployed,Normal
+2024-01-29,NSP-2785,Rhino Boat,Indigenous Oil Co,Escravos,3295500.0,142.59,182.5,Awaiting Repair,Normal
+2025-02-02,NSP-8899,120kva Generator,Chevron,Offshore Rig Alpha,4361.0,129.64,242.2,Awaiting Repair,Normal
+2024-06-15,NSP-4089,Towing Winch,TotalEnergies,Offshore Rig Alpha,3360.0,148.17,389.5,Standby,Normal
+2024-06-15,NSP-6611,120kva Generator,Chevron,Bonny Island,0.0,93.5,400.68,Deployed,Normal
+2024-06-15,NSP-2345,Towing Winch,ExxonMobil,Escravos,2152.0,61.41,197.2,In Maintenance,Normal
+2024-06-15,NSP-6469,Sub Sea ROV M8,ExxonMobil,Onne FOT,6640500.0,181.84,215.2,Standby,Normal
+2024-04-20,NSP-5260,Offshore Trash Skip,Indigenous Oil Co,Forcados Terminal,2872.0,195.89,197.16,Deployed,Normal
+2024-06-15,NSP-9689,Offshore Trash Skip,Chevron,Offshore Rig Alpha,3698.0,134.48,130.3,In Maintenance,Normal
+2024-06-15,NSP-5731,VideoRay Pro 4 ROV,Chevron,Offshore Rig Alpha,0.0,147.58,362.8,Deployed,Normal
+2024-04-26,NSP-9167,Sub Sea ROV M8,Shell (SPDC),Forcados Terminal,3520.0,139.45,353.3,In Maintenance,Normal
+2024-07-02,NSP-3339,Air Compressor 800cfm,Indigenous Oil Co,Offshore Rig Alpha,7045500.0,181.55,228.5,Standby,Normal
+2024-06-15,NSP-1305,Cargo Basket,ExxonMobil,Offshore Rig Alpha,1546.0,220.84,499.6,Awaiting Repair,Normal
+2024-06-15,NSP-4120,Pipe Tracker,TotalEnergies,Onne FOT,2130.0,183.67,256.3,Awaiting Repair,Normal
+2024-06-15,NSP-3154,VideoRay Pro 4 ROV,TotalEnergies,Offshore Rig Alpha,3368.0,98.66,411.1,Standby,Normal
+2024-05-25,NSP-2120,Rhino Boat,Shell (SPDC),Milaha Barge,2061.0,116.96,313.2,Awaiting Repair,Normal
+2024-10-13,NSP-7171,VideoRay Pro 4 ROV,Shell (SPDC),Milaha Barge,4996.0,207.64,411.7,Deployed,Normal
+2024-07-20,NSP-3624,VideoRay Pro 5 ROV,ExxonMobil,Escravos,777000.0,230.9,241.4,Standby,Normal
+2024-01-21,NSP-9903,Air Compressor 800cfm,ExxonMobil,Onne FOT,2667.0,116.71,405.9,Awaiting Repair,Normal
+2024-06-15,NSP-7205,Cargo Basket,ExxonMobil,Bonny Island,3631.0,158.11,370.2,In Maintenance,Normal
+2024-06-15,NSP-8044,Offshore Trash Skip,ExxonMobil,Milaha Barge,4147.0,160.23901408450706,178.7,Awaiting Repair,Normal
+2024-07-08,NSP-3155,Towing Winch,ExxonMobil,Onne FOT,2079.0,75.49,88.4,Standby,Normal
+2024-06-15,NSP-5499,VideoRay Pro 4 ROV,Chevron,Offshore Rig Alpha,3879.0,157.32,73.14,Standby,Normal
+2024-04-20,NSP-5818,VideoRay Pro 4 ROV,ExxonMobil,Offshore Rig Alpha,4815.0,151.22969924812028,182.0,Standby,Normal
+2024-09-27,NSP-2037,Air Compressor 800cfm,TotalEnergies,Onne FOT,2946000.0,97.57,294.4,Awaiting Repair,Normal
+2024-06-15,NSP-4544,Cargo Basket,Chevron,Onne FOT,3987.0,179.39,156.5,Standby,Normal
+2024-06-15,NSP-4729,Sub Sea ROV M8,TotalEnergies,Offshore Rig Alpha,4870.0,177.28,303.6,Awaiting Repair,Normal
+2024-06-15,NSP-3134,VideoRay Pro 5 ROV,TotalEnergies,Bonny Island,3432.0,171.33,335.5,Deployed,Normal
+2024-06-15,NSP-7654,Sub Sea ROV M8,TotalEnergies,Escravos,2478000.0,249.39,283.2,In Maintenance,Normal
+2024-06-15,NSP-1027,Air Compressor 800cfm,Indigenous Oil Co,Forcados Terminal,2317.0,146.85,324.5,Deployed,Normal
+2024-06-15,NSP-2670,Cargo Basket,ExxonMobil,Milaha Barge,1751.0,160.79,360.93,Standby,Normal
+2024-06-15,NSP-1823,Pipe Tracker,Chevron,Onne FOT,3439.0,123.61,97.8,Deployed,Normal
+2024-01-24,NSP-3866,Pipe Tracker,Indigenous Oil Co,Forcados Terminal,4277.0,93.64,304.5,Deployed,Normal
+2024-12-14,NSP-3894,Pipe Tracker,Shell (SPDC),Onne FOT,1955.0,178.13,469.05,In Maintenance,Normal
+2024-06-15,NSP-2781,VideoRay Pro 5 ROV,ExxonMobil,Offshore Rig Alpha,1162.0,94.84,62.01,Standby,Normal
+2024-06-15,NSP-9791,Rhino Boat,TotalEnergies,Bonny Island,0.0,166.53,324.8,Awaiting Repair,Normal
+2024-08-10,NSP-3743,Cargo Basket,TotalEnergies,Milaha Barge,2613000.0,121.73,113.1,Deployed,Normal
+2024-06-15,NSP-2845,Cargo Basket,Indigenous Oil Co,Escravos,4533.0,25.44,429.3,Standby,Normal
+2024-06-15,NSP-7181,120kva Generator,TotalEnergies,Escravos,2276.0,210.84,80.2,Deployed,Normal
+2024-06-20,NSP-6171,120kva Generator,TotalEnergies,Offshore Rig Alpha,1767.0,111.44,94.8,Deployed,Normal
+2024-01-27,NSP-9974,Towing Winch,Shell (SPDC),Bonny Island,2686500.0,215.14,139.6,Deployed,Normal
+2024-05-17,NSP-3589,Cargo Basket,Shell (SPDC),Escravos,2955.0,120.52,71.0,In Maintenance,Normal
+2024-09-12,NSP-6479,VideoRay Pro 4 ROV,Indigenous Oil Co,Escravos,2341.0,166.31,54.5,Standby,Normal
+2024-06-15,NSP-2502,VideoRay Pro 4 ROV,ExxonMobil,Onne FOT,2939.0,102.38,92.7,Awaiting Repair,Normal
+2024-06-15,NSP-8517,VideoRay Pro 5 ROV,ExxonMobil,Milaha Barge,4626.0,115.91,294.4,Awaiting Repair,Normal
+2024-06-15,NSP-6484,Cargo Basket,Indigenous Oil Co,Escravos,5218500.0,126.12,251.3,Deployed,Normal
+2024-06-15,NSP-9783,Rhino Boat,Chevron,Forcados Terminal,1311000.0,97.17,487.0,In Maintenance,Normal
+2024-11-07,NSP-4389,120kva Generator,Chevron,Escravos,2345.0,53.08,134.0,In Maintenance,Normal
+2024-02-14,NSP-9290,Towing Winch,Chevron,Offshore Rig Alpha,1612.0,156.35,306.87,Awaiting Repair,Normal
+2024-06-15,NSP-6479,Rhino Boat,TotalEnergies,Forcados Terminal,1504.0,96.69,74.9,Standby,Normal
+2024-06-15,NSP-9964,Offshore Trash Skip,Chevron,Escravos,565.0,109.04,59.2,Awaiting Repair,Normal
+2024-12-22,NSP-5456,VideoRay Pro 5 ROV,Chevron,Onne FOT,2163.0,167.74,434.07,Awaiting Repair,Normal
+2024-10-05,NSP-4088,120kva Generator,TotalEnergies,Forcados Terminal,1944.0,169.65,85.8,Awaiting Repair,Normal
+2024-11-15,NSP-6131,VideoRay Pro 4 ROV,ExxonMobil,Bonny Island,1369.0,169.57,216.9,Awaiting Repair,Normal
+2024-06-15,NSP-5548,Towing Winch,Shell (SPDC),Onne FOT,1860.0,235.99,104.94,Deployed,Normal
+2024-09-14,NSP-5313,Sub Sea ROV M8,Shell (SPDC),Milaha Barge,824.0,174.98,408.6,In Maintenance,Normal
+2024-06-15,NSP-8714,Sub Sea ROV M8,Chevron,Milaha Barge,1633.0,194.22,434.9,Deployed,Normal
+2024-07-16,NSP-3892,Rhino Boat,Chevron,Offshore Rig Alpha,3912.0,152.66852631578945,164.2,Standby,Normal
+2024-06-15,NSP-6848,VideoRay Pro 4 ROV,Chevron,Bonny Island,3105000.0,206.96,346.0,Awaiting Repair,Normal
+2024-06-15,NSP-6074,Towing Winch,Chevron,Offshore Rig Alpha,1291.0,159.73,407.04,In Maintenance,Normal
+2024-06-15,NSP-1771,Pipe Tracker,Shell (SPDC),Onne FOT,2502.0,200.66,359.9,Awaiting Repair,Normal
+2024-06-15,NSP-1422,Pipe Tracker,ExxonMobil,Offshore Rig Alpha,0.0,187.34,468.6,In Maintenance,Normal
+2024-03-31,NSP-6443,Offshore Trash Skip,TotalEnergies,Milaha Barge,4305.0,251.05,484.8,In Maintenance,Normal
+2024-08-24,NSP-5497,Air Compressor 800cfm,TotalEnergies,Forcados Terminal,4311.0,66.87,257.58,In Maintenance,Normal
+2024-04-30,NSP-3066,VideoRay Pro 4 ROV,TotalEnergies,Milaha Barge,1894.0,75.15,312.1,Awaiting Repair,Normal
+2024-04-01,NSP-1461,VideoRay Pro 4 ROV,Indigenous Oil Co,Milaha Barge,6666000.0,151.22969924812028,228.6,Awaiting Repair,Normal
+2024-07-17,NSP-7799,VideoRay Pro 5 ROV,ExxonMobil,Escravos,1159.0,218.97,325.95,Awaiting Repair,Normal
+2024-11-18,NSP-7315,120kva Generator,TotalEnergies,Offshore Rig Alpha,3576000.0,146.63626666666667,475.41,Awaiting Repair,Normal
+2024-08-12,NSP-4685,Towing Winch,Shell (SPDC),Escravos,0.0,199.99,306.87,Standby,Normal
+2024-06-15,NSP-2235,Sub Sea ROV M8,Shell (SPDC),Forcados Terminal,949.0,201.98,499.9,Awaiting Repair,Normal
+2024-08-20,NSP-3990,Cargo Basket,Shell (SPDC),Escravos,2761.0,107.4,324.36,In Maintenance,Normal
+2024-06-15,NSP-2359,Cargo Basket,TotalEnergies,Milaha Barge,3704.0,126.01,133.4,Deployed,Normal
+2024-06-15,NSP-3326,VideoRay Pro 4 ROV,TotalEnergies,Escravos,4448.0,-2.23,375.5,Standby,Normal
+2024-06-15,NSP-6617,Cargo Basket,ExxonMobil,Offshore Rig Alpha,0.0,192.37,455.0,In Maintenance,Normal
+2024-04-06,NSP-7678,Towing Winch,Chevron,Forcados Terminal,1653.0,190.18,280.5,Awaiting Repair,Normal
+2024-06-15,NSP-6454,Towing Winch,ExxonMobil,Escravos,2148.0,114.34,181.26,Deployed,Normal
+2024-06-15,NSP-3106,120kva Generator,TotalEnergies,Escravos,962.0,161.32,235.32,Awaiting Repair,Normal
+2024-12-17,NSP-1178,VideoRay Pro 4 ROV,TotalEnergies,Onne FOT,2848.0,124.11,203.1,In Maintenance,Normal
+2024-06-15,NSP-6811,Rhino Boat,ExxonMobil,Forcados Terminal,1429.0,175.55,472.3,Awaiting Repair,Normal
+2024-04-16,NSP-6828,VideoRay Pro 5 ROV,Indigenous Oil Co,Bonny Island,4070.0,216.96,472.23,Standby,Normal
+2024-01-04,NSP-9425,Cargo Basket,Chevron,Milaha Barge,4389.0,148.94,143.3,In Maintenance,Normal
+2024-02-02,NSP-5721,Air Compressor 800cfm,ExxonMobil,Bonny Island,4424.0,185.34,444.4,In Maintenance,Normal
+2024-06-15,NSP-4749,VideoRay Pro 4 ROV,Chevron,Bonny Island,5053500.0,82.22,450.4,Awaiting Repair,Normal
+2024-06-15,NSP-9611,Pipe Tracker,Indigenous Oil Co,Bonny Island,899.0,142.51,429.1,Deployed,Normal
+2024-06-15,NSP-5905,Pipe Tracker,TotalEnergies,Onne FOT,5247000.0,141.08,301.7,Awaiting Repair,Normal
+2024-06-15,NSP-9404,Pipe Tracker,TotalEnergies,Onne FOT,3100500.0,160.94,405.45,Deployed,Normal
+2024-06-15,NSP-8527,VideoRay Pro 5 ROV,Indigenous Oil Co,Forcados Terminal,3534.0,137.62,424.53,Deployed,Normal
+2024-06-15,NSP-3018,120kva Generator,ExxonMobil,Escravos,704.0,116.47,205.7,Awaiting Repair,Normal
+2024-08-01,NSP-7490,Cargo Basket,Shell (SPDC),Bonny Island,7302000.0,142.43,394.0,In Maintenance,Normal
+2024-06-15,NSP-8832,Cargo Basket,TotalEnergies,Milaha Barge,0.0,239.86,252.9,Standby,Normal
+2024-03-31,NSP-2694,Air Compressor 800cfm,TotalEnergies,Milaha Barge,1750.0,158.56,220.6,Deployed,Normal
+2024-05-17,NSP-6985,VideoRay Pro 4 ROV,TotalEnergies,Escravos,1188000.0,151.25,363.4,Awaiting Repair,Normal
+2024-05-23,NSP-9774,VideoRay Pro 5 ROV,Chevron,Bonny Island,2126.0,146.03,384.78,Deployed,Normal
